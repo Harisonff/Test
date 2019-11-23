@@ -664,283 +664,283 @@ translate rus pema_vag_483cf29f:
 translate rus pema_vag_866247b9:
 
     # b4_pn "That's not really adventurous of you."
-    b4_pn "That's not really adventurous of you."
+    b4_pn "Это не очень авантюрно с твоей стороны."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:770
 translate rus pema_vag_5e4807de:
 
     # b4_pn "But... I have a solution for that!"
-    b4_pn "But... I have a solution for that!"
+    b4_pn "Но... У меня есть решение для этого!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:771
 translate rus pema_vag_792a3837:
 
     # b4_pn "If you don't want me to go topless, I'll go..."
-    b4_pn "If you don't want me to go topless, I'll go..."
+    b4_pn "Если ты не хочешь, чтобы я ходила топлесс, я пойду..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:779
 translate rus pema_vag_c0502a96:
 
     # b4_tn "This seems...risky."
-    b4_tn "This seems...risky."
+    b4_tn "Это кажется...Рискованно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:780
 translate rus pema_vag_85354e82:
 
     # b4_pn "Oh? Because we're in a public park or because the kids are up ahead?"
-    b4_pn "Oh? Because we're in a public park or because the kids are up ahead?"
+    b4_pn "Да? Потому что мы в общественном парке или потому что дети впереди?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:781
 translate rus pema_vag_d75c6db1:
 
     # b4_tn "Both."
-    b4_tn "Both."
+    b4_tn "Оба."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:782
 translate rus pema_vag_f3220efa:
 
     # "pema" "I'm certain a couple of nice long thrusts can convince me to start putting on some clothes again."
-    "pema" "I'm certain a couple of nice long thrusts can convince me to start putting on some clothes again."
+    "Пема" "Я уверена, что пара хороших длинных толчков может убедить меня снова начать одеваться."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:786
 translate rus pema_vag_b013227d:
 
     # b4_pn "Mmmmhh??"
-    b4_pn "Mmmmhh??"
+    b4_pn "Ммммм??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:789
 translate rus pema_vag_a7493472:
 
     # b4_tn "I could've given you some at home. On the island."
-    b4_tn "I could've given you some at home. On the island."
+    b4_tn "Я мог бы дать тебе немного дома. На острове."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:790
 translate rus pema_vag_849a5a44:
 
     # b4_pn "We'll certainly do a lot of that too, but today I want the extra thrill!"
-    b4_pn "We'll certainly do a lot of that too, but today I want the extra thrill!"
+    b4_pn "Мы, конечно, сделаем много этого тоже, но сегодня я хочу дополнительных острых ощущений!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:797
 translate rus pema_vag_8eed3d0e:
 
     # b4_pn "Oooooh fuck... that's just what I need!"
-    b4_pn "Oooooh fuck... that's just what I need!"
+    b4_pn "Ооооо бля... это как раз то, что мне нужно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:798
 translate rus pema_vag_23d0f646:
 
     # b4_pn "Beat my pussy into submission with your hard cock!"
-    b4_pn "Beat my pussy into submission with your hard cock!"
+    b4_pn "Бить мою киску в подчинение с вашим твердым членом!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:807
 translate rus pema_vag_85115953:
 
     # b4_pn "Ah! Ah! Why are you being so gentle?! I need a good drilling! Not a handshake!"
-    b4_pn "Ah! Ah! Why are you being so gentle?! I need a good drilling! Not a handshake!"
+    b4_pn "А! А! Почему ты такой нежный?! Мне нужно хорошее сверление! Это не рукопожатие!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:808
 translate rus pema_vag_5d0e1492:
 
     # b4_tn "Really? You seem to be enjoying this."
-    b4_tn "Really? You seem to be enjoying this."
+    b4_tn "Правда? Похоже, тебе это нравится."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:809
 translate rus pema_vag_3dd454a6:
 
     # b4_pn "I do, but I want to enjoy it more and throw in some dirty talk!"
-    b4_pn "I do, but I want to enjoy it more and throw in some dirty talk!"
+    b4_pn "Да, но я хочу наслаждаться этим больше и бросить в некоторые грязные разговоры!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:810
 translate rus pema_vag_f1f3dc42:
 
     # b4_tn "You filthy slut."
-    b4_tn "You filthy slut."
+    b4_tn "Ты грязная шлюха."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:811
 translate rus pema_vag_b52df028:
 
     # b4_pn "Ohh! More of that!"
-    b4_pn "Ohh! More of that!"
+    b4_pn "Ох! Продолжай!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:818
 translate rus pema_vag_88db0909:
 
     # b4_tn "You want it? You want my dick in that whore cunt of yours?"
-    b4_tn "You want it? You want my dick in that whore cunt of yours?"
+    b4_tn "Ты хочешь этого? Ты хочешь, чтобы мой член был в твоей шлюшкиной пизде?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:819
 translate rus pema_vag_8df8e6e9:
 
     # b4_pn "That's right. I want you to fuck my whore cunt!"
-    b4_pn "That's right. I want you to fuck my whore cunt!"
+    b4_pn "Вот именно. Я хочу, чтобы ты трахнул мою шлюхину пизду!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:820
 translate rus pema_vag_c43be8bb:
 
     # b4_pn "I'm your private slut"
-    b4_pn "I'm your private slut"
+    b4_pn "Я твоя личная шлюха"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:821
 translate rus pema_vag_86ea2c6f:
 
     # b4_pn "Your dirty dirty cumbucket!"
-    b4_pn "Your dirty dirty cumbucket!"
+    b4_pn "Твое грязное грязное ведро спермы!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:822
 translate rus pema_vag_72e0da6a:
 
     # b4_tn "Gonna split you like a log!"
-    b4_tn "Gonna split you like a log!"
+    b4_tn "Я расколю тебя, как бревно.!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:833
 translate rus pema_vag_89c9d72f:
 
     # b4_pn "Yees!!"
-    b4_pn "Yees!!"
+    b4_pn "Даа!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:849
 translate rus pema_vag_a5dc5af9:
 
     # b4_pn "Sooo... good. I can feel it flowing outside of my pussy."
-    b4_pn "Sooo... good. I can feel it flowing outside of my pussy."
+    b4_pn "Ооочень... хороший. Я чувствую, как он течет из моей киски."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:853
 translate rus pema_vag_6aacb4b6:
 
     # b4_tn "If you have to take a leak, go right ahead."
-    b4_tn "If you have to take a leak, go right ahead."
+    b4_tn "Если вам нужно отлить, идите прямо вперед."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:854
 translate rus pema_vag_c53f2e27:
 
     # b4_pn "I wasn't going to but now that you mention it I do feel like I could go."
-    b4_pn "I wasn't going to but now that you mention it I do feel like I could go."
+    b4_pn "Я не собиралась но теперь когда ты об этом заговорил я чувствую что могу пойти."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:856
 translate rus pema_vag_3d2583b1:
 
     # b4_pn "Aaaaah that feels great."
-    b4_pn "Aaaaah that feels great."
+    b4_pn "Аааа это прекрасно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:861
 translate rus pema_vag_e0fc8503:
 
     # b4_pn "Aaand.... done."
-    b4_pn "Aaand.... done."
+    b4_pn "Ииии.... сделанно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:867
 translate rus pema_vag_fbfae32f:
 
     # b4_tn "Turn over! I'm gonna make you a blanket!"
-    b4_tn "Turn over! I'm gonna make you a blanket!"
+    b4_tn "Перевернись! Я сделаю тебе одеяло!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:872
 translate rus pema_vag_69811a7f:
 
     # b4_tx "Aaaand..."
-    b4_tx "Aaaand..."
+    b4_tx "Аааааа..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:883
 translate rus pema_vag_f0ae0450:
 
     # b4_pn "Oooh!! You missed a spot!"
-    b4_pn "Oooh!! You missed a spot!"
+    b4_pn "Аах!! Вы пропустили пятно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:884
 translate rus pema_vag_10889857:
 
     # b4_tn "Do you question my abilities as a living cum dispenser?!?"
-    b4_tn "Do you question my abilities as a living cum dispenser?!?"
+    b4_tn "Вы сомневаетесь в моих способностях как живого дозатора спермы?!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:891
 translate rus pema_vag_a984fbf0:
 
     # b4_pn "Hmmmm, that's better.."
-    b4_pn "Hmmmm, that's better.."
+    b4_pn "Хммм, так-то лучше.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:901
 translate rus pema_vag_7f45ce7d:
 
     # "lin" "What the fuck do you think you two are doing here!?!" with hpunch
-    "lin" "What the fuck do you think you two are doing here!?!" with hpunch
+    "Лин" "Какого хрена вы двое тут делаете!?!" with hpunch
 
 # game/bk4/bk4_scripts/bk4_start.rpy:902
 translate rus pema_vag_2db7424b:
 
     # "lin" "This is a {size=+10}public park!!{/size}"
-    "lin" "This is a {size=+10}public park!!{/size}"
+    "Лин" "Это {size=+10}общественный парк!!{/size}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:910
 translate rus pema_vag_0b265da7:
 
     # b4_pn "Hi Lin. It's very simple really."
-    b4_pn "Hi Lin. It's very simple really."
+    b4_pn "Привет Лин. Это очень просто на самом деле."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:911
 translate rus pema_vag_a0ede0ca:
 
     # b4_pn "My husband has taken me to the park with the kids for a relaxing afternoon."
-    b4_pn "My husband has taken me to the park with the kids for a relaxing afternoon."
+    b4_pn "Мой муж взял меня в парк с детьми для отдыха во второй половине дня."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:914
 translate rus pema_vag_9a27caf0:
 
     # "lin" "That was quite a bit more than just relaxing!"
-    "lin" "That was quite a bit more than just relaxing!"
+    "Лин" "Это было нечто большее, чем просто расслабление!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:916
 translate rus pema_vag_bd6db79f:
 
     # b4_pn "Really? Because I feel veeery relaxed right now."
-    b4_pn "Really? Because I feel veeery relaxed right now."
+    b4_pn "Правда? Потому что я чувствую себя очень расслабленным прямо сейчас."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:917
 translate rus pema_vag_3293c14c:
 
     # "lin" "You can't just ...do it... in a public park!!"
-    "lin" "You can't just ...do it... in a public park!!"
+    "Лин" "Ты не можешь просто ... сделать это... в общественном парке!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:918
 translate rus pema_vag_8f4b7e76:
 
     # "lin" "The only reason I'm not arresting the both of you is because of your kids."
-    "lin" "The only reason I'm not arresting the both of you is because of your kids."
+    "Лин" "Единственная причина, по которой я не арестую вас обоих-это ваши дети."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:919
 translate rus pema_vag_e4814ca6:
 
     # b4_pn "Thank you. How lucky for us the captain of the police is patrolling the park!"
-    b4_pn "Thank you. How lucky for us the captain of the police is patrolling the park!"
+    b4_pn "Спасибо. Как нам повезло, что капитан полиции патрулирует парк!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:920
 translate rus pema_vag_8bd7a4e5:
 
     # b4_pn "Is that something you do more often? As a captain?"
-    b4_pn "Is that something you do more often? As a captain?"
+    b4_pn "Это то, что вы делаете чаще всего? В качестве капитана?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:921
 translate rus pema_vag_a45a2854:
 
     # "lin" "......"
-    "lin" "......"
+    "лин" "......"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:922
 translate rus pema_vag_ecea4b8d:
 
     # "lin" "This is your one and only warning! Go and do your nasty stuff on that island of yours."
-    "lin" "This is your one and only warning! Go and do your nasty stuff on that island of yours."
+    "Лин" "Это ваше единственное предупреждение! Иди и делай свои гадости на этом твоем острове."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:925
 translate rus pema_vag_d2642879:
 
     # b4_pn "Wow, that woman is thirstier than a sponge in a desert."
-    b4_pn "Wow, that woman is thirstier than a sponge in a desert."
+    b4_pn "Ух ты, эта женщина жаждет больше, чем губка в пустыне."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:926
 translate rus pema_vag_0659dd05:
 
     # b4_pn "Well, that's one down. Now for the other."
-    b4_pn "Well, that's one down. Now for the other."
+    b4_pn "Ну, это один минус. Теперь о другом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:927
 translate rus pema_vag_49664dc8:
