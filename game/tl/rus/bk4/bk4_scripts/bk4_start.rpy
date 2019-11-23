@@ -946,397 +946,397 @@ translate rus pema_vag_0659dd05:
 translate rus pema_vag_49664dc8:
 
     # b4_tn "What other?"
-    b4_tn "What other?"
+    b4_tn "Какие другие?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:928
 translate rus pema_vag_b8ee04ed:
 
     # b4_pn "Jinora! Come out where we can see you."
-    b4_pn "Jinora! Come out where we can see you."
+    b4_pn "Джинора! Выходи так, чтобы мы могли тебя видеть."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:930
 translate rus pema_vag_77d760e8:
 
     # b4_tn "Eh, she isn't here. She's with the others up ahead."
-    b4_tn "Eh, she isn't here. She's with the others up ahead."
+    b4_tn "Эх, ее здесь нет. Она с остальными впереди."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:932
 translate rus pema_vag_7a3fee80:
 
     # b4_pn "JINORA! Get your ass out here right now!"
-    b4_pn "JINORA! Get your ass out here right now!"
+    b4_pn "ДЖИНОРА! Тащи свою задницу сюда прямо сейчас!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:937
 translate rus pema_vag_d52e52d4:
 
     # "Jinora steps forward from behind a bush not too far off."
-    "Jinora steps forward from behind a bush not too far off."
+    "Джинора ввыходит из-за куста неподалеку."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:938
 translate rus pema_vag_26c9b89e:
 
     # "jinora" ".. Yes? I was just passing by. Just now. By coincidence. "
-    "jinora" ".. Yes? I was just passing by. Just now. By coincidence. "
+    "Джинора" ".. Да? Я просто проходила мимо. Прямо сейчас. Случайно. "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:939
 translate rus pema_vag_d543c6ed:
 
     # b4_pn "I told you to make sure to watch over your brother and sister..didn't I?"
-    b4_pn "I told you to make sure to watch over your brother and sister..didn't I?"
+    b4_pn "Я же просил тебя присматривать за братом и сестрой.. разве нет?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:940
 translate rus pema_vag_6b46641f:
 
     # "jinora" ".....yes.."
-    "jinora" ".....yes.."
+    "Джинора" ".....Да.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:941
 translate rus pema_vag_b6dbda96:
 
     # b4_pn "You can't do that while spying on me and your father, can you?"
-    b4_pn "You can't do that while spying on me and your father, can you?"
+    b4_pn "Ты не можешь этого делать, пока шпионишь за мной и своим отцом, не так ли?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:943
 translate rus pema_vag_d03b4b24:
 
     # "jinora" "I didn't spy!"
-    "jinora" "I didn't spy!"
+    "Джинора" "Я не шпионила!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:944
 translate rus pema_vag_27c37374:
 
     # b4_pn "We'll talk about this later young lady. Now go and get the others. We're leaving."
-    b4_pn "We'll talk about this later young lady. Now go and get the others. We're leaving."
+    b4_pn "Мы поговорим об этом позже, юная леди. А теперь иди и приведи остальных. Мы уходим."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:945
 translate rus pema_vag_3ece8ad4:
 
     # "jinora" "..okay. {size=-10}(I didn't spy.. I was just looking longer than strictly necessary){/size}"
-    "jinora" "..okay. {size=-10}(I didn't spy.. I was just looking longer than strictly necessary){/size}"
+    "Джинора" "..Хорошо. {size=-10}(Я не шпионил.. Я просто смотрела дольше, чем это было необходимо){/size}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:950
 translate rus pema_vag_cd428055:
 
     # b4_pn "How long do you think Lin had been watching us?"
-    b4_pn "How long do you think Lin had been watching us?"
+    b4_pn "Как ты думаешь, как долго Лин наблюдала за нами?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:951
 translate rus pema_vag_ee092f2c:
 
     # b4_tn "I'm more worried about how long Jinora has been watching!"
-    b4_tn "I'm more worried about how long Jinora has been watching!"
+    b4_tn "Я больше беспокоюсь о том, как долго Джинора наблюдала!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:952
 translate rus pema_vag_db327eee:
 
     # b4_pn "Ah she's just young and curious. Don't worry about it."
-    b4_pn "Ah she's just young and curious. Don't worry about it."
+    b4_pn "Она просто молода и любопытна. Не волнуйся об этом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:953
 translate rus pema_vag_c3512be5:
 
     # b4_pn "But that doesn't mean she can just shirk her responsibilities."
-    b4_pn "But that doesn't mean she can just shirk her responsibilities."
+    b4_pn "Но это не значит, что она может просто уклониться от своих обязанностей."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:954
 translate rus pema_vag_ab165361:
 
     # b4_pn "I'll have to have a serious talk with her later today."
-    b4_pn "I'll have to have a serious talk with her later today."
+    b4_pn "Мне придется серьезно поговорить с ней сегодня попозже."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:955
 translate rus pema_vag_c8d4a2ea:
 
     # b4_pn "I hope you had fu-"
-    b4_pn "I hope you had fu-"
+    b4_pn "Надеюсь, у тебя было фу-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:959
 translate rus pema_vag_b305a75e:
 
     # "jinora" "We're ready!"
-    "jinora" "We're ready!"
+    "Джинора" "Мы готовы!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:975
 translate rus pema_vag1_6d7835f4:
 
     # b4_pn "What do yo think honey? Ready for some good old fashioned fuck her in the pussy?"
-    b4_pn "What do yo think honey? Ready for some good old fashioned fuck her in the pussy?"
+    b4_pn "Что ты думаешь, дорогая? Готов старым добрым способом трахнуть её киску?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:976
 translate rus pema_vag1_02ccf160:
 
     # b4_tx "PUUUSSSY!!"
-    b4_tx "PUUUSSSY!!"
+    b4_tx "Киииска!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:978
 translate rus pema_vag1_1f9f4dba:
 
     # b4_pn "That's what I like to hear!"
-    b4_pn "That's what I like to hear!"
+    b4_pn "Вот что мне нравится слышать!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:986
 translate rus pema_vag1_4b512ba1:
 
     # b4_pn "Mmmmhh?? Well? what are you waiting for? A permit?"
-    b4_pn "Mmmmhh?? Well? what are you waiting for? A permit?"
+    b4_pn "Мммм?? Ну и что? чего ты ждешь? Разрешение?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:990
 translate rus pema_vag1_57bb2951:
 
     # b4_tn "Just for the record, you're the hottest pregnant wife and mother of three I've ever had the honor of fucking."
-    b4_tn "Just for the record, you're the hottest pregnant wife and mother of three I've ever had the honor of fucking."
+    b4_tn "Просто для протокола, ты самая горячая беременная жена и мать троих детей, которых я когда-либо имел честь трахать."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:991
 translate rus pema_vag1_e93f8aa1:
 
     # b4_pn "I'm not sure I like winning first prize in that very limited category..."
-    b4_pn "I'm not sure I like winning first prize in that very limited category..."
+    b4_pn "Я не уверен, что мне нравится выигрывать первый приз в этой очень ограниченной категории..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:992
 translate rus pema_vag1_d07de355:
 
     # b4_tn "You're the ideal wife?"
-    b4_tn "You're the ideal wife?"
+    b4_tn "Ты идеальная жена?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:993
 translate rus pema_vag1_1cbc10ff:
 
     # b4_pn "Better!"
-    b4_pn "Better!"
+    b4_pn "Лучше!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:994
 translate rus pema_vag1_356be6db:
 
     # b4_pn "Now treat me like a cheap whore!"
-    b4_pn "Now treat me like a cheap whore!"
+    b4_pn "Теперь обращайся со мной как с дешевой шлюхой!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:995
 translate rus pema_vag1_b21e13bc:
 
     # b4_tn "Ehmm....Don't flatter yourself. You ARE a cheap whore."
-    b4_tn "Ehmm....Don't flatter yourself. You ARE a cheap whore."
+    b4_tn "ЭМ....Не льсти себе. Ты дешевая шлюха."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:996
 translate rus pema_vag1_164a6ddb:
 
     # b4_pn "More!"
-    b4_pn "More!"
+    b4_pn "Больше!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1003
 translate rus pema_vag1_8eed3d0e:
 
     # b4_pn "Oooooh fuck... that's just what I need!"
-    b4_pn "Oooooh fuck... that's just what I need!"
+    b4_pn "Ооооо бля... это как раз то, что мне нужно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1004
 translate rus pema_vag1_b1a67919:
 
     # b4_pn "Beat my pussy into submission with your stiff rod!"
-    b4_pn "Beat my pussy into submission with your stiff rod!"
+    b4_pn "Бей мою киску в подчинение своим жестким стержнем!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1012
 translate rus pema_vag1_fe3f0e2b:
 
     # b4_pn "Come on! I know you can do better than that!"
-    b4_pn "Come on! I know you can do better than that!"
+    b4_pn "Ну же! Я знаю, что вы можете сделать лучше, чем это!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1013
 translate rus pema_vag1_11882e19:
 
     # b4_tn "Just making sure you're ready for the storm that's coming you filhty sow"
-    b4_tn "Just making sure you're ready for the storm that's coming you filhty sow"
+    b4_tn "Просто хочу убедиться, что ты готов к надвигающейся буре, грязная свинья."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1014
 translate rus pema_vag1_b52df028:
 
     # b4_pn "Ohh! More of that!"
-    b4_pn "Ohh! More of that!"
+    b4_pn "ООх! Еще больше этого!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1015
 translate rus pema_vag1_520f9cf5:
 
     # b4_tn "I'm surprised your swollen tits aren't leaking yet because you sure are gushing on this end!"
-    b4_tn "I'm surprised your swollen tits aren't leaking yet because you sure are gushing on this end!"
+    b4_tn "Я удивлен, что твои распухшие сиськи еще не текут, потому что ты уверен, что хлещешь на этом конце!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1022
 translate rus pema_vag1_88db0909:
 
     # b4_tn "You want it? You want my dick in that whore cunt of yours?"
-    b4_tn "You want it? You want my dick in that whore cunt of yours?"
+    b4_tn "Ты хочешь этого? Ты хочешь, чтобы мой член был в твоей шлюшкиной пизде?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1023
 translate rus pema_vag1_8df8e6e9:
 
     # b4_pn "That's right. I want you to fuck my whore cunt!"
-    b4_pn "That's right. I want you to fuck my whore cunt!"
+    b4_pn "Вот именно. Я хочу, чтобы ты трахнул мою шлюху пизду!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1024
 translate rus pema_vag1_c43be8bb:
 
     # b4_pn "I'm your private slut"
-    b4_pn "I'm your private slut"
+    b4_pn "Я твоя личная шлюха"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1025
 translate rus pema_vag1_0e32af48:
 
     # b4_tn "I'll fucking split you like a log!"
-    b4_tn "I'll fucking split you like a log!"
+    b4_tn "Я блять расколю тебя как бревно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1034
 translate rus pema_vag1_89c9d72f:
 
     # b4_pn "Yees!!"
-    b4_pn "Yees!!"
+    b4_pn "Дааа!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1050
 translate rus pema_vag1_a5dc5af9:
 
     # b4_pn "Sooo... good. I can feel it flowing outside of my pussy."
-    b4_pn "Sooo... good. I can feel it flowing outside of my pussy."
+    b4_pn "Ооочень... хорошо. Я чувствую, как он течет из моей киски."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1053
 translate rus pema_vag1_5ef6c3d9:
 
     # b4_tn "Turn over!"
-    b4_tn "Turn over!"
+    b4_tn "Переворачиваися!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1058
 translate rus pema_vag1_69811a7f:
 
     # b4_tx "Aaaand..."
-    b4_tx "Aaaand..."
+    b4_tx "ААААА..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1074
 translate rus pema_vag1_bb47d349:
 
     # b4_pn "Aaaaah!! So much..."
-    b4_pn "Aaaaah!! So much..."
+    b4_pn "ААААА!! Так много..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1092
 translate rus lin_rub_b7b21eaa:
 
     # "lin" "TENZIN!!"
-    "lin" "TENZIN!!"
+    "Лин" "Тензин!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1093
 translate rus lin_rub_2ad7c7d2:
 
     # b4_tn "Ah! What?!"
-    b4_tn "Ah! What?!"
+    b4_tn "А! Что?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1094
 translate rus lin_rub_44053dd7:
 
     # "lin" "Take off your clothes and lie down on my desk!"
-    "lin" "Take off your clothes and lie down on my desk!"
+    "Лин" "Раздевайся и ложись на мой стол!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1095
 translate rus lin_rub_3969c8a1:
 
     # b4_tn "What? Why!? You're not my mom!"
-    b4_tn "What? Why!? You're not my mom!"
+    b4_tn "Что? Зачем?? Ты не моя мама!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1096
 translate rus lin_rub_1a154af5:
 
     # b4_tn "Not that my mom would tell me to do something like that.."
-    b4_tn "Not that my mom would tell me to do something like that.."
+    b4_tn "Не то чтобы моя мама сказала мне сделать что-то подобное.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1099
 translate rus lin_rub_4a665c65:
 
     # "lin" "...."
-    "lin" "...."
+    "Лин" "...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1100
 translate rus lin_rub_f3b65a8d:
 
     # b4_tn "Okay, that's intriguing enough for me to play along."
-    b4_tn "Okay, that's intriguing enough for me to play along."
+    b4_tn "Ладно, это достаточно интригующе для меня, чтобы подыграть."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1106
 translate rus lin_rub_cfd9e7c3:
 
     # b4_tn "Ready when you are!"
-    b4_tn "Ready when you are!"
+    b4_tn "Скажи как будеш готов!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1109
 translate rus lin_rub_72ede67f:
 
     # "lin" "Aren't you ashamed of yourself?"
-    "lin" "Aren't you ashamed of yourself?"
+    "Лин" "Тебе не стыдно за себя?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1110
 translate rus lin_rub_9fe7dd87:
 
     # b4_tn "No?"
-    b4_tn "No?"
+    b4_tn "Нет?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1111
 translate rus lin_rub_0a6060c6:
 
     # "lin" "Fucking your wife in a public park where anyone could see you!"
-    "lin" "Fucking your wife in a public park where anyone could see you!"
+    "Лин" "Трахаешь свою жену в общественном парке, где тебя все могут увидеть!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1112
 translate rus lin_rub_8caeb596:
 
     # b4_tn "Oh that. Yeah I wasn't entirely convinced that was a good idea either"
-    b4_tn "Oh that. Yeah I wasn't entirely convinced that was a good idea either"
+    b4_tn "А, это. Да я тоже не был до конца уверен что это хорошая идея"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1113
 translate rus lin_rub_6564c5d8:
 
     # b4_tn "But Pema can be kind of forceful."
-    b4_tn "But Pema can be kind of forceful."
+    b4_tn "Но Пема может быть довольно сильной."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1116
 translate rus lin_rub_c958be0b:
 
     # "Lin let's some of her saliva fall on your dick."
-    "Lin let's some of her saliva fall on your dick."
+    "Лин давай немного слюны упадет на мой член."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1120
 translate rus lin_rub_7493af16:
 
     # "Lin" "Don't act like you didn't enjoy that!"
-    "Lin" "Don't act like you didn't enjoy that!"
+    "Лин" "Не делай вид что тебе не понравилось!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1121
 translate rus lin_rub_b665abbb:
 
     # b4_tn "Eeehh... sorry for enjoying sex with my wife?!? I guess?"
-    b4_tn "Eeehh... sorry for enjoying sex with my wife?!? I guess?"
+    b4_tn "Эээ... извините, что наслаждаюсь сексом с моей женой?!? Я думаю?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1130
 translate rus lin_rub_b60c4626:
 
     # "lin" "hnnnn..."
-    "lin" "hnnnn..."
+    "Лин" "ммммммм..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1131
 translate rus lin_rub_50453bb7:
 
     # "lin" "I saw you... slamming that dumb cunt...hhhnn..."
-    "lin" "I saw you... slamming that dumb cunt...hhhnn..."
+    "Лин" "Я видела тебя... захлопнув эту тупую пизду...hhhnn..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1132
 translate rus lin_rub_d4d7343c:
 
     # "lin" "As if you're some dumb horny teenager who's never had any..."
-    "lin" "As if you're some dumb horny teenager who's never had any..."
+    "Лин" "Как будто ты какой-то тупой озабоченный подросток, у которого никогда ничего не было..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1133
 translate rus lin_rub_13d0e832:
 
     # "lin" "Act... your.... age....damn it!"
-    "lin" "Act... your.... age....damn it!"
+    "Лин" "Действие... твой.... возраст....черт подери!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1134
 translate rus lin_rub_d1ab0ad6:
 
     # b4_tn "Show me your titties!!"
-    b4_tn "Show me your titties!!"
+    b4_tn "Покажи мне свои сиськи!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1141
 translate rus lin_rub_d8eadc0c:
@@ -1348,7 +1348,7 @@ translate rus lin_rub_d8eadc0c:
 translate rus lin_rub_3e9ce85a:
 
     # "lin" "Shut up!"
-    "lin" "Shut up!"
+    "Лин" "Заткнись!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1170
 translate rus lin_rub_a1c6db72:
