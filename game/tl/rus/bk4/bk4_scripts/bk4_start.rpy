@@ -4,7 +4,7 @@
 translate rus b4_start_page3_ad41ef54:
 
     # "I've added \"bfad bfad10\" and \"bfad bfad12\" to the asami idles"
-    "I've added \"bfad bfad10\" and \"bfad bfad12\" to the asami idles"
+    "Я добавил \"bfad bfad10\" and \"bfad bfad12\"Асами бездельничает"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:118
 translate rus b4_start_page3_fc1a9629:
@@ -16,7 +16,7 @@ translate rus b4_start_page3_fc1a9629:
 translate rus b4_airtemple_map_57e02b83:
 
     # "night or day?"
-    "night or day?"
+    "ночь или день?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:214
 translate rus b4_airtemple_map_599a60d7:
@@ -124,13 +124,13 @@ translate rus korra_slapass_12d80a09_1:
 translate rus korra_slapass_05afd56a:
 
     # b4_tn "Okay Korra, I'll let you choose."
-    b4_tn "Okay Korra, I'll let you choose."
+    b4_tn "Хорошо Корра, Я позволю тебе выбрать."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:388
 translate rus korra_slapass_d5bb6e98:
 
     # b4_tn "I can slap the shit out of you... OR..."
-    b4_tn "I can slap the shit out of you... OR..."
+    b4_tn "Я могу выбить из тебя всё дерьмо... АРРРР..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:390
 translate rus korra_slapass_86eae06a:
@@ -142,25 +142,25 @@ translate rus korra_slapass_86eae06a:
 translate rus korra_slapass_fc213b2a:
 
     # b4_tn "Choose wisely!!"
-    b4_tn "Choose wisely!!"
+    b4_tn "Выбирайте с умом!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:402
 translate rus korra_slapass_536739af:
 
     # b4_tn "Okay, here comes the final round."
-    b4_tn "Okay, here comes the final round."
+    b4_tn "Хорошо, а вот и финальный раунд."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:404
 translate rus korra_slapass_1fe8aecd:
 
     # b4_kn "Wait, I changed my m-"
-    b4_kn "Wait, I changed my m-"
+    b4_kn "Подождите, Я изменил свою м-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:412
 translate rus korra_slapass_b35fb303:
 
     # b4_tx "bfba bfba05a - This hurts you more than it does me Korra!!"
-    b4_tx "bfba bfba05a - This hurts you more than it does me Korra!!"
+    b4_tx "bfba bfba05a - Это ранит тебя больше чем меня Корра!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:422
 translate rus korra_slapass_64f43f8c:
@@ -178,19 +178,19 @@ translate rus korra_slapass_d279c56c:
 translate rus korra_slapass_49f15139:
 
     # b4_tn "Aren't you going to pull up your pants?"
-    b4_tn "Aren't you going to pull up your pants?"
+    b4_tn "Ты не собираешься подтянуть штаны?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:432
 translate rus korra_slapass_eee8cb29:
 
     # b4_kn "No, I'm just going to let it cool off in the open air."
-    b4_kn "No, I'm just going to let it cool off in the open air."
+    b4_kn "Нет, я просто собираюсь дать ему остыть на открытом воздухе."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:452
 translate rus korra_slapass_23dbfe46:
 
     # "korra carefully walks over to an open window to let the wind caress her more than tender butt."
-    "korra carefully walks over to an open window to let the wind caress her more than tender butt."
+    "Корра осторожно подходит к открытому окну, чтобы ветер ласкал ее более чем нежную попку."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:466
 translate rus korra_slapass_76c5678e:
@@ -214,31 +214,31 @@ translate rus korra_slapass_8f12398b:
 translate rus korra_slapass_8660f89c:
 
     # b4_kn "I.. I think I'm gogga.."
-    b4_kn "I.. I think I'm gogga.."
+    b4_kn "Я.. Я думаю, что я гогга.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:498
 translate rus korra_slapass_d5aaa58f:
 
     # b4_tn "Just let it happen"
-    b4_tn "Just let it happen"
+    b4_tn "Просто позволь этому случиться"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:516
 translate rus korra_slapass_7c95c5f7:
 
     # b4_kn "Aaaaah!!!"
-    b4_kn "Aaaaah!!!"
+    b4_kn "Ааааа!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:528
 translate rus korra_slapass_7c95c5f7_1:
 
     # b4_kn "Aaaaah!!!"
-    b4_kn "Aaaaah!!!"
+    b4_kn "Ааааа!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:542
 translate rus korra_slapass_b4ea8113:
 
     # b4_kn "Aaaaaaah!!!"
-    b4_kn "Aaaaaaah!!!"
+    b4_kn "Ааааааа!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:546
 translate rus korra_slapass_1affb5ba:
@@ -250,55 +250,55 @@ translate rus korra_slapass_1affb5ba:
 translate rus korra_bj_1c2e1b2c:
 
     # b4_kn "Uuuuhhh... wha... what's going on?"
-    b4_kn "Uuuuhhh... wha... what's going on?"
+    b4_kn "Ууууххх... чт... что происходит?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:580
 translate rus korra_bj_d532fca5:
 
     # b4_kn "I.. I can't move my arms."
-    b4_kn "I.. I can't move my arms."
+    b4_kn "Я.. Я не могу пошевелить руками."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:589
 translate rus korra_bj_503a9a36:
 
     # b4_kn "Hello!?"
-    b4_kn "Hello!?"
+    b4_kn "Привет!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:590
 translate rus korra_bj_33b569b0:
 
     # b4_kn "Can anyone hear me? Anyone?!"
-    b4_kn "Can anyone hear me? Anyone?!"
+    b4_kn "Меня кто-нибудь слышит? Кто-нибудь?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:593
 translate rus korra_bj_05b6bcd9:
 
     # b4_tam "Hello Korra."
-    b4_tam "Hello Korra."
+    b4_tam "Привет Корра."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:595
 translate rus korra_bj_f9aa8448:
 
     # b4_kn "Amon!"
-    b4_kn "Amon!"
+    b4_kn "Амон!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:597
 translate rus korra_bj_8dd939e5:
 
     # b4_tam "Ah you remember me. Good."
-    b4_tam "Ah you remember me. Good."
+    b4_tam "Ах ты помнишь меня. Хорошо."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:598
 translate rus korra_bj_964f470c:
 
     # b4_tam "We need to have a little talk Korra."
-    b4_tam "We need to have a little talk Korra."
+    b4_tam "Нам нужно немного поговорить Корра."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:599
 translate rus korra_bj_afa81c49:
 
     # b4_tam "I'm disappointed in your lack of progress with Tenzin."
-    b4_tam "I'm disappointed in your lack of progress with Tenzin."
+    b4_tam "Я разочарован отсутствием у тебя прогресса с Тензином."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:600
 translate rus korra_bj_cc96afab:
@@ -310,61 +310,61 @@ translate rus korra_bj_cc96afab:
 translate rus korra_bj_c6cd7914:
 
     # b4_tam "There is so much more which can be done and I feel like you're dragging your feet"
-    b4_tam "There is so much more which can be done and I feel like you're dragging your feet"
+    b4_tam "Есть еще столько всего, что можно сделать, но я чувствую, что ты уже еле волочишь ноги."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:602
 translate rus korra_bj_a77b2f3d:
 
     # b4_tam "I might have to take away your bending."
-    b4_tam "I might have to take away your bending."
+    b4_tam "Мне, возможно, придется убрать твой изгиб."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:603
 translate rus korra_bj_92b078e9:
 
     # b4_tam "Maybe I should spare myself the trouble and just do it right here and now."
-    b4_tam "Maybe I should spare myself the trouble and just do it right here and now."
+    b4_tam "Может мне стоит избавить себя от хлопот и просто сделать это прямо здесь и сейчас."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:604
 translate rus korra_bj_3666f4b7:
 
     # b4_tam "What do you think. Should I?"
-    b4_tam "What do you think. Should I?"
+    b4_tam "Что ты думаешь. Должен Ли Я?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:608
 translate rus korra_bj_cad178c0:
 
     # b4_kn "P..please don't!"
-    b4_kn "P..please don't!"
+    b4_kn "П..пожалуйста, не надо!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:609
 translate rus korra_bj_389e3d4e:
 
     # b4_kn "I.. I'll do better!"
-    b4_kn "I.. I'll do better!"
+    b4_kn "Я.. Я сделаю лучше!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:615
 translate rus korra_bj_38b04839:
 
     # b4_tam "Fine. But don't you ever forget Korra I can reach your whenever and wherever I please."
-    b4_tam "Fine. But don't you ever forget Korra I can reach your whenever and wherever I please."
+    b4_tam "Хорошо. Но никогда не забывай, Корра, что я могу связаться с тобой, когда и где захочу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:621
 translate rus korra_bj_72f0c9f0:
 
     # b4_tam "Fine. But just to make sure you won't forget.. "
-    b4_tam "Fine. But just to make sure you won't forget.. "
+    b4_tam "Хорошо. Но просто чтобы убедиться, что ты не забудешь.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:622
 translate rus korra_bj_63f1b4f3:
 
     # b4_tam "I'll give you something to help you remember"
-    b4_tam "I'll give you something to help you remember"
+    b4_tam "Я дам тебе кое-что, что поможет тебе вспомнить."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:624
 translate rus korra_bj_d9475cf8:
 
     # b4_kn "Wha...what are you going to-"
-    b4_kn "Wha...what are you going to-"
+    b4_kn "Чт...Что ты собираешься"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:626
 translate rus korra_bj_7b4ec67e:
@@ -376,19 +376,19 @@ translate rus korra_bj_7b4ec67e:
 translate rus korra_bj_2538276a:
 
     # b4_tam "Yes, that's more like it."
-    b4_tam "Yes, that's more like it."
+    b4_tam "Да, это больше похоже на правду."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:628
 translate rus korra_bj_84621dea:
 
     # b4_tam "You look great with a hard cock in your mouth."
-    b4_tam "You look great with a hard cock in your mouth."
+    b4_tam "Ты отлично выглядишь с твердым членом во рту."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:629
 translate rus korra_bj_61becbe0:
 
     # b4_tam "I don't really have to tell you what happens if you get teethy, do I?"
-    b4_tam "I don't really have to tell you what happens if you get teethy, do I?"
+    b4_tam "Мне ведь не обязательно рассказывать тебе, что будет, если у тебя прорежутся зубы, правда?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:630
 translate rus korra_bj_665c3a5e:
@@ -400,37 +400,37 @@ translate rus korra_bj_665c3a5e:
 translate rus korra_bj_2ecdb78b:
 
     # b4_tam "Good"
-    b4_tam "Good"
+    b4_tam "Хорошо"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:641
 translate rus korra_bj_a040b976:
 
     # b4_tam "How do you like blowing me?"
-    b4_tam "How do you like blowing me?"
+    b4_tam "Как тебе нравится отсасывать мне?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:642
 translate rus korra_bj_b4d90e47:
 
     # b4_tam "That's all your mouth is good for."
-    b4_tam "That's all your mouth is good for."
+    b4_tam "Это все, на что годится твой рот."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:643
 translate rus korra_bj_6d1ef48c:
 
     # b4_tam "Count yourself lucky I don't feel like anal today."
-    b4_tam "Count yourself lucky I don't feel like anal today."
+    b4_tam "Считай, тебе повезло, что я не хочу тебя в попку сегодня."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:644
 translate rus korra_bj_e7e3033f:
 
     # b4_tam "I'd have no problem spreading your asscheeks and bury my dick in it to the hilt."
-    b4_tam "I'd have no problem spreading your asscheeks and bury my dick in it to the hilt."
+    b4_tam "Я бы без проблем раздвинул ваши задницы и погрузил в них свой член по самые яица."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:645
 translate rus korra_bj_d12761e9:
 
     # b4_tam "You're just a collection of holes for me to do with as I please."
-    b4_tam "You're just a collection of holes for me to do with as I please."
+    b4_tam "Ты просто набор дырок, с которыми я могу делать все, что захочу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:646
 translate rus korra_bj_2ec823bb:
@@ -442,31 +442,31 @@ translate rus korra_bj_2ec823bb:
 translate rus korra_bj_8b6b15b2:
 
     # b4_tam "Hmmm.. a korra themed fleshlight might actually sell well."
-    b4_tam "Hmmm.. a korra themed fleshlight might actually sell well."
+    b4_tam "Хммм.. флешлайт на тему корры может действительно хорошо продаваться."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:648
 translate rus korra_bj_665c3a5e_1:
 
     # b4_kn "...mumble"
-    b4_kn "...mumble"
+    b4_kn "...бормочет"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:649
 translate rus korra_bj_fd604917:
 
     # b4_tam "You can't imagine how often people told me I was a disappointment compared to you while I was younger."
-    b4_tam "You can't imagine how often people told me I was a disappointment compared to you while I was younger."
+    b4_tam "Вы не представляете, как часто люди говорили мне, что я был разочарованием по сравнению с вами, когда я был моложе."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:650
 translate rus korra_bj_e89c2a17:
 
     # b4_tam "{i}Korra could already bend water, earth and fire when she was six years old!{/i}"
-    b4_tam "{i}Korra could already bend water, earth and fire when she was six years old!{/i}"
+    b4_tam "{i}Корра уже в шесть лет могла управлять водой,землей и огнем!{/i}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:651
 translate rus korra_bj_365952a0:
 
     # b4_tam "{i}Why can't you?!{/i}"
-    b4_tam "{i}Why can't you?!{/i}"
+    b4_tam "{i}Почему ты не можешь?!{/i}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:652
 translate rus korra_bj_f4ed97bc:
@@ -478,55 +478,55 @@ translate rus korra_bj_f4ed97bc:
 translate rus korra_bj_c1831ee5:
 
     # b4_kn "...mumble?!?"
-    b4_kn "...mumble?!?"
+    b4_kn "...бормочет?!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:654
 translate rus korra_bj_f3f21a3c:
 
     # b4_tam "What do you mean that doesn't make sense? "
-    b4_tam "What do you mean that doesn't make sense? "
+    b4_tam "Что значит это не имеет смысла? "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:655
 translate rus korra_bj_c1831ee5_1:
 
     # b4_kn "...mumble?!?"
-    b4_kn "...mumble?!?"
+    b4_kn "...бормочет?!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:656
 translate rus korra_bj_83151310:
 
     # b4_tam "Oh right.....never mind all that."
-    b4_tam "Oh right.....never mind all that."
+    b4_tam "Ну да.....не обращай внимания на все это."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:657
 translate rus korra_bj_a3398dbe:
 
     # b4_tam "Why the fuck do I even understand what you're mumbling anyway?"
-    b4_tam "Why the fuck do I even understand what you're mumbling anyway?"
+    b4_tam "Какого хрена я вообще не понимаю, что ты там бормочешь?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:658
 translate rus korra_bj_458c0591:
 
     # b4_tam "Have you ever tasted sperm Korra?"
-    b4_tam "Have you ever tasted sperm Korra?"
+    b4_tam "Ты когда-нибудь пробовали сперму Корра?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:659
 translate rus korra_bj_665c3a5e_2:
 
     # b4_kn "...mumble"
-    b4_kn "...mumble"
+    b4_kn "...бормочет"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:661
 translate rus korra_bj_f9e1aba8:
 
     # b4_tam "Let's speed this up."
-    b4_tam "Let's speed this up."
+    b4_tam "Давайте ускорим процесс."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:671
 translate rus korra_bj_98b22001:
 
     # b4_tam "Catch."
-    b4_tam "Catch."
+    b4_tam "Поймал."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:679
 translate rus korra_bj_6cc007db:
@@ -550,7 +550,7 @@ translate rus korra_bj_6cc007db_1:
 translate rus korra_bj_009f8b9b:
 
     # b4_tam "Hnnnnnnn...swallow..."
-    b4_tam "Hnnnnnnn...swallow..."
+    b4_tam "Hnnnnnnn...глоть..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:699
 translate rus korra_bj_16098041:
@@ -568,97 +568,97 @@ translate rus korra_bj_0bc2f2f5:
 translate rus korra_bj_9e06fd55:
 
     # b4_tam "Aaaah... that was nice."
-    b4_tam "Aaaah... that was nice."
+    b4_tam "Ааааа... это было здорово."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:707
 translate rus korra_bj_8d45a826:
 
     # b4_tam "You're really good at being a piece of meat."
-    b4_tam "You're really good at being a piece of meat."
+    b4_tam "Ты действительно хорошо умеешь быть куском мяса."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:710
 translate rus korra_bj_cf332247:
 
     # b4_tam "I'll lower you to the floor in a moment."
-    b4_tam "I'll lower you to the floor in a moment."
+    b4_tam "Я сейчас спущу тебя на пол."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:711
 translate rus korra_bj_cf783ca6:
 
     # b4_tam "It shouldn't be long before you regain control over your arms."
-    b4_tam "It shouldn't be long before you regain control over your arms."
+    b4_tam "Это не должно быть долго, прежде чем вы восстановите контроль над своими руками."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:712
 translate rus korra_bj_98458654:
 
     # b4_tam "Tenzin is close by and you'll be a good little girl and don't say anything about what happened here."
-    b4_tam "Tenzin is close by and you'll be a good little girl and don't say anything about what happened here."
+    b4_tam "Тензин рядом и ты будешь хорошей девочкой и ничего не говори о том что здесь произошло."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:713
 translate rus korra_bj_055fb96d:
 
     # b4_tam "Understood?"
-    b4_tam "Understood?"
+    b4_tam "Понял?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:714
 translate rus korra_bj_e6ae0a98:
 
     # b4_kn "...yes...."
-    b4_kn "...yes...."
+    b4_kn "...да...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:715
 translate rus korra_bj_a8457904:
 
     # b4_tam "Here's a homework assignment. Do something dumb."
-    b4_tam "Here's a homework assignment. Do something dumb."
+    b4_tam "Вот домашнее задание. Сделай что-нибудь глупое."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:716
 translate rus korra_bj_14332c5c:
 
     # b4_tam "Do something Tenzin will have to punish your for"
-    b4_tam "Do something Tenzin will have to punish your for"
+    b4_tam "Сделай что-нибудь, за что Тензину придется тебя наказать"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:717
 translate rus korra_bj_5e8776b0:
 
     # b4_kn ".....yes"
-    b4_kn ".....yes"
+    b4_kn ".....да"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:718
 translate rus korra_bj_a70b8905:
 
     # b4_tam "And whatever punishment he'll give you... you'll thank him for it."
-    b4_tam "And whatever punishment he'll give you... you'll thank him for it."
+    b4_tam "И какое бы наказание он тебе ни назначил... ты еще поблагодаришь его за это."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:720
 translate rus korra_bj_2331090d:
 
     # b4_tam "Till we meet again korra."
-    b4_tam "Till we meet again korra."
+    b4_tam "Пока мы не встретимся снова Корра."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:721
 translate rus korra_bj_2f5f169f:
 
     # b4_tam "And don't be mistaken. We {b}will{/b} meet again."
-    b4_tam "And don't be mistaken. We {b}will{/b} meet again."
+    b4_tam "И не ошибитесь. Мы {b}будет{/b} встретиться снова."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:749
 translate rus pema_vag_1abfc625:
 
     # "pema" "What do yo think honey? Topless or not?"
-    "pema" "What do yo think honey? Topless or not?"
+    "Пема" "Что ты думаешь, дорогая? Топлесс или нет?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:764
 translate rus pema_vag_e0bbc23e:
 
     # b4_pn "That's a great idea."
-    b4_pn "That's a great idea."
+    b4_pn "Это отличная идея."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:765
 translate rus pema_vag_483cf29f:
 
     # b4_pn "And since I'm already halfway naked..."
-    b4_pn "And since I'm already halfway naked..."
+    b4_pn "И так как я уже наполовину голый..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:769
 translate rus pema_vag_866247b9:
@@ -9277,4 +9277,3 @@ translate rus strings:
     # game/bk4/bk4_scripts/bk4_start.rpy:4543
     old "micro"
     new "micro"
-
