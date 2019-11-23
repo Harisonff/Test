@@ -1354,121 +1354,121 @@ translate rus lin_rub_3e9ce85a:
 translate rus lin_rub_a1c6db72:
 
     # "lin" "You're much too old to be this desperate for sex!"
-    "lin" "You're much too old to be this desperate for sex!"
+    "lin" "Ты слишком стар, чтобы так отчаянно нуждаться в сексе!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1171
 translate rus lin_rub_7153a3e6:
 
     # b4_tn "You sure we're still talking about me?"
-    b4_tn "You sure we're still talking about me?"
+    b4_tn "Ты уверен, что мы все еще говорим обо мне?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1172
 translate rus lin_rub_dcd6d475:
 
     # b4_tn "I certainly won't decline any but I've seen someone else recently who seems to be more in need of a good dickdipping"
-    b4_tn "I certainly won't decline any but I've seen someone else recently who seems to be more in need of a good dickdipping"
+    b4_tn "Я, конечно, не откажусь ни от одного, но недавно я видел кого-то еще, кто, кажется, больше нуждается в хорошем члене"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1173
 translate rus lin_rub_fc53531a:
 
     # b4_tn "Which I'm perfectly willing to provide if she'd ask."
-    b4_tn "Which I'm perfectly willing to provide if she'd ask."
+    b4_tn "Что я вполне готов предоставить, если она попросит."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1174
 translate rus lin_rub_3e9ce85a_1:
 
     # "lin" "Shut up!"
-    "lin" "Shut up!"
+    "Лин" "Заткнись!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1187
 translate rus lin_rub_7d715c51:
 
     # "lin" "Are you ready to beg me for it? Do you want to fuck me?!"
-    "lin" "Are you ready to beg me for it? Do you want to fuck me?!"
+    "Лин" "Ты готов умолять меня об этом? Ты хочешь трахнуть меня?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1188
 translate rus lin_rub_4b4452a9:
 
     # b4_tn "Well yeah, but-"
-    b4_tn "Well yeah, but-"
+    b4_tn "Ну да, но-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1189
 translate rus lin_rub_ee4cbdf3:
 
     # "lin" "You can't! And I'll drive you crazy with lust!"
-    "lin" "You can't! And I'll drive you crazy with lust!"
+    "Лин" "Ты не можешь! И я сведу тебя с ума от похоти.!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1190
 translate rus lin_rub_bb8dc5ac:
 
     # b4_tx "Hnnn.. that's great but I'm going to cum real soon now.."
-    b4_tx "Hnnn.. that's great but I'm going to cum real soon now.."
+    b4_tx "Хммм.. это здорово, но я собираюсь кончить очень скоро.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1198
 translate rus lin_rub_3351154b:
 
     # "lin" "Cum all over my face you fucking horndog!"
-    "lin" "Cum all over my face you fucking horndog!"
+    "Лин" "Кончай мне на лицо, чертов Рогач!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1221
 translate rus lin_rub_42c63fb9:
 
     # "lin" "Show me how good your aim is."
-    "lin" "Show me how good your aim is."
+    "Лин" "Покажи мне, насколько хороша твоя цель.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1225
 translate rus lin_rub_3a6f85f5:
 
     # "lin" "Fill me with YOUR CUM!!!"
-    "lin" "Fill me with YOUR CUM!!!"
+    "Лин" "Наполни меня СВОЕЙ СПЕРМОЙ!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1242
 translate rus lin_rub_aa823115:
 
     # b4_tn "Pfew...... that was really-"
-    b4_tn "Pfew...... that was really-"
+    b4_tn "Фу...... это было действительно так-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1243
 translate rus lin_rub_2ad8ffd1:
 
     # "lin" "Now get out of my office!!"
-    "lin" "Now get out of my office!!"
+    "Лин" "А теперь убирайся из моего кабинета!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1266
 translate rus korra_footjob_faee16e0:
 
     # b4_kn "Hey.. tenzin. Do you.."
-    b4_kn "Hey.. tenzin. Do you.."
+    b4_kn "Эй.. Тензин. Вы.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1267
 translate rus korra_footjob_a0f43887:
 
     # kn "would you like to cum?"
-    kn "would you like to cum?"
+    kn "вы хотели бы кончить?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1268
 translate rus korra_footjob_116118f8:
 
     # tn "depends. what are my options?"
-    tn "depends. what are my options?"
+    tn "зависит. какие у меня варианты?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1269
 translate rus korra_footjob_f9e64ac2:
 
     # kn "well... i can give you my tits again..."
-    kn "well... i can give you my tits again..."
+    kn "хорошо... я могу снова дать тебе свои сиськи..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1270
 translate rus korra_footjob_c651f8cd:
 
     # kn "or... you could use... my feet?"
-    kn "or... you could use... my feet?"
+    kn "или... тебе бы пригодилось... мои ноги?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1271
 translate rus korra_footjob_4d8715ea:
 
     # kn "what would you prefer?"
-    kn "what would you prefer?"
+    kn "что бы вы предпочли?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1277
 translate rus korra_footjob_1903edd3:
@@ -1480,211 +1480,211 @@ translate rus korra_footjob_1903edd3:
 translate rus korra_footjob_14fe5cb0:
 
     # kn "Would you like a footjob?"
-    kn "Would you like a footjob?"
+    kn "Вы хотите футфетиш?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1279
 translate rus korra_footjob_6325553e:
 
     # b4_tn "You mean instead of a boobjob? That sounds nice!"
-    b4_tn "You mean instead of a boobjob? That sounds nice!"
+    b4_tn "Ты имеешь в виду вместо сиськи? Звучит неплохо!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1281
 translate rus korra_footjob_a27c8601:
 
     # b4_kn "Eh yeah sure."
-    b4_kn "Eh yeah sure."
+    b4_kn "Да да,конечно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1283
 translate rus korra_footjob_fa8621c0:
 
     # b4_kn "....I'll go change..."
-    b4_kn "....I'll go change..."
+    b4_kn "....Пойду переоденусь..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1285
 translate rus korra_footjob_f1ba61f4:
 
     # b4_kn "Just so my clothes won't be covered in your.. cum"
-    b4_kn "Just so my clothes won't be covered in your.. cum"
+    b4_kn "Просто чтобы моя одежда не была покрыта твоей.. спермой"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1286
 translate rus korra_footjob_2daab6fc:
 
     # b4_kn "I mean.. you do produce quite a lot."
-    b4_kn "I mean.. you do produce quite a lot."
+    b4_kn "Я имею в виду.. вы действительно производите довольно много."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1294
 translate rus korra_footjob_b3a58fc3:
 
     # b4_tn "I can see the wisdom in that precaution"
-    b4_tn "I can see the wisdom in that precaution"
+    b4_tn "Я вижу мудрость в этой предосторожности"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1295
 translate rus korra_footjob_92cfae9a:
 
     # b4_tn "Okay let's see some soles!"
-    b4_tn "Okay let's see some soles!"
+    b4_tn "Хорошо, давайте посмотрим на подошвы!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1297
 translate rus korra_footjob_76bf1556:
 
     # b4_tn "That's what I'm talking about!"
-    b4_tn "That's what I'm talking about!"
+    b4_tn "вот о чём я говорю!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1298
 translate rus korra_footjob_d9c94d92:
 
     # b4_kn "Really, it's just feet."
-    b4_kn "Really, it's just feet."
+    b4_kn "Правда, это всего лишь ноги."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1299
 translate rus korra_footjob_498aa7f1:
 
     # b4_kn "I honestly don't understand how you can get your kicks out of this.."
-    b4_kn "I honestly don't understand how you can get your kicks out of this.."
+    b4_kn "Я честно не понимаю, как ты можешь получать удовольствие от этого.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1300
 translate rus korra_footjob_226cd5b4:
 
     # b4_tn "It's become sort of a tradition really?"
-    b4_tn "It's become sort of a tradition really?"
+    b4_tn "Это стало своего рода традицией на самом деле?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1301
 translate rus korra_footjob_9d88a351:
 
     # b4_kn "Tradition?!"
-    b4_kn "Tradition?!"
+    b4_kn "Традиция?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1303
 translate rus korra_footjob_c726022f:
 
     # b4_tn "Don't worry about it. Just press those pretty none smelly feet against my dick."
-    b4_tn "Don't worry about it. Just press those pretty none smelly feet against my dick."
+    b4_tn "Не беспокойся об этом. Просто прижми эти красивые, вонючие ноги к моему члену."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1305
 translate rus korra_footjob_0e940eee:
 
     # b4_kn "Of course they don't smell! I take good care of my body!"
-    b4_kn "Of course they don't smell! I take good care of my body!"
+    b4_kn "Конечно, они не пахнут! Я хорошо забочусь о своем теле!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1306
 translate rus korra_footjob_86a98ed1:
 
     # b4_tn "Noted."
-    b4_tn "Noted."
+    b4_tn "Отмеченный."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1309
 translate rus korra_footjob_e46c4228:
 
     # b4_tn "That's it.."
-    b4_tn "That's it.."
+    b4_tn "Вот и все.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1310
 translate rus korra_footjob_e223bbfe:
 
     # b4_tn "Just move them up and down."
-    b4_tn "Just move them up and down."
+    b4_tn "Просто двигайте их вверх и вниз."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1318
 translate rus korra_footjob_236db560:
 
     # b4_kn "SOoo.. Pema does this.. foot-stuff.. for you too?"
-    b4_kn "SOoo.. Pema does this.. foot-stuff.. for you too?"
+    b4_kn "Ооочень.. Пема делает это.. нога-штука.. и для тебя тоже?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1319
 translate rus korra_footjob_13675e68:
 
     # b4_tn "Not lately..."
-    b4_tn "Not lately..."
+    b4_tn "В последнее время-нет..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1320
 translate rus korra_footjob_524ccda6:
 
     # b4_kn "Oh."
-    b4_kn "Oh."
+    b4_kn "О."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1321
 translate rus korra_footjob_49b10dfb:
 
     # b4_tn "Don't worry you're doing great."
-    b4_tn "Don't worry you're doing great."
+    b4_tn "Не волнуйся, ты отлично справляешься."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1323
 translate rus korra_footjob_b30bc992:
 
     # b4_tn "Hmmm.. I don't think I can cum from this alone."
-    b4_tn "Hmmm.. I don't think I can cum from this alone."
+    b4_tn "Хммм.. Я не думаю, что смогу кончить от этого в одиночку."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1324
 translate rus korra_footjob_5ffec1e6:
 
     # b4_tn "Hold on a minute."
-    b4_tn "Hold on a minute."
+    b4_tn "Подожди минутку."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1330
 translate rus korra_footjob_a4e115f9:
 
     # b4_kn "Good, my legs started getting tired."
-    b4_kn "Good, my legs started getting tired."
+    b4_kn "Хорошо, мои ноги начали уставать."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1331
 translate rus korra_footjob_8d957dac:
 
     # b4_tn "Can you still raise them for a second?"
-    b4_tn "Can you still raise them for a second?"
+    b4_tn "Вы все еще можете поднять их на секунду?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1335
 translate rus korra_footjob_b21092ae:
 
     # b4_tn "Okay now stretch them. I'll hold your feet at the heels and sandwich my dick in between."
-    b4_tn "Okay now stretch them. I'll hold your feet at the heels and sandwich my dick in between."
+    b4_tn "Хорошо, теперь растяните их. Я буду держать твои ноги на пятках и бутерброд мой член между ними."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1337
 translate rus korra_footjob_c4db8f43:
 
     # b4_kn "Now what?"
-    b4_kn "Now what?"
+    b4_kn "И что теперь?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1338
 translate rus korra_footjob_0d3023b4:
 
     # b4_tn "Gonna use those lovely feet of yours as if they're a pair of tits!"
-    b4_tn "Gonna use those lovely feet of yours as if they're a pair of tits!"
+    b4_tn "Я буду использовать твои прелестные ножки, как будто они пара сисек!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1339
 translate rus korra_footjob_54c3f558:
 
     # b4_tn "You can just sit back a be pretty!"
-    b4_tn "You can just sit back a be pretty!"
+    b4_tn "Вы можете просто сидеть сложа руки и быть красивой!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1346
 translate rus korra_footjob_da66408e:
 
     # b4_kn "Hmm well at least I can relax my legs this way...."
-    b4_kn "Hmm well at least I can relax my legs this way...."
+    b4_kn "Хм ну по крайней мере я могу расслабить ноги таким образом...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1348
 translate rus korra_footjob_61ccc43f:
 
     # b4_tn "Any preferences where I aim?"
-    b4_tn "Any preferences where I aim?"
+    b4_tn "Любые предпочтения, куда я стремлюсь?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1349
 translate rus korra_footjob_5f73bfc8:
 
     # b4_kn "Out of the window would be nice."
-    b4_kn "Out of the window would be nice."
+    b4_kn "Из окна было бы неплохо."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1350
 translate rus korra_footjob_0eb754dd:
 
     # b4_tn "You know I can't do that. It'd be a waste!"
-    b4_tn "You know I can't do that. It'd be a waste!"
+    b4_tn "Ты же знаешь, что я не могу этого сделать. Это было бы пустой тратой времени!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1355
 translate rus korra_footjob_10554daf:
 
     # b4_tn "I'll plaster your soles with my cum!!"
-    b4_tn "I'll plaster your soles with my cum!!"
+    b4_tn "Я оштукатурю твои подошвы своей спермой!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1356
 translate rus korra_footjob_7e1ce5f1:
@@ -1696,175 +1696,175 @@ translate rus korra_footjob_7e1ce5f1:
 translate rus korra_footjob_2ed34779:
 
     # b4_tx "Aaaaand..."
-    b4_tx "Aaaaand..."
+    b4_tx "Аааа..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1375
 translate rus korra_footjob_d17787bf:
 
     # b4_kn "Well, at least you didn't get my face and hair all sticky."
-    b4_kn "Well, at least you didn't get my face and hair all sticky."
+    b4_kn "Ну, по крайней мере, ты не сделал мое лицо и волосы липкими."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1376
 translate rus korra_footjob_ac46aef9:
 
     # b4_tn "...this time..."
-    b4_tn "...this time..."
+    b4_tn "...нам пора..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1382
 translate rus korra_footjob_e523dc1b:
 
     # b4_tx "Can't.. hold it! It's gonna blow."
-    b4_tx "Can't.. hold it! It's gonna blow."
+    b4_tx "Не могу.. держи его! Сейчас взорвется."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1383
 translate rus korra_footjob_74faecbd:
 
     # b4_kn "Wait! Don't come on my-"
-    b4_kn "Wait! Don't come on my-"
+    b4_kn "Стой! Не подходи ко мне-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1403
 translate rus korra_footjob_731377d1:
 
     # b4_kn "....face"
-    b4_kn "....face"
+    b4_kn "....Лицо"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1404
 translate rus korra_footjob_aba9be4d:
 
     # b4_tn "Sorry korra, it was that last stroke which got me by surprise."
-    b4_tn "Sorry korra, it was that last stroke which got me by surprise."
+    b4_tn "Прости, Корра, это был последний удар, который застал меня врасплох."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1405
 translate rus korra_footjob_d2dd088d:
 
     # b4_ta "Your feet are too sexy! So it's actually your fault!"
-    b4_ta "Your feet are too sexy! So it's actually your fault!"
+    b4_ta "Твои ноги слишком сексуальны! Так что это на самом деле твоя вина!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1406
 translate rus korra_footjob_b03b22ca:
 
     # b4_tn "But I'll try and be more careful in the future."
-    b4_tn "But I'll try and be more careful in the future."
+    b4_tn "Но я постараюсь быть более осторожным в будущем."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1424
 translate rus asami_blowjob_64688c64:
 
     # b4_tp "Hey Asami! It's that time again."
-    b4_tp "Hey Asami! It's that time again."
+    b4_tp "Эй, Асами! Это снова то время."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1425
 translate rus asami_blowjob_012201d0:
 
     # "asami" "...."
-    "asami" "...."
+    "Асами" "...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1426
 translate rus asami_blowjob_8a9e612c:
 
     # b4_tp "Meet me in my studyroom"
-    b4_tp "Meet me in my studyroom"
+    b4_tp "Встретиться со мной в моем кабинета"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1427
 translate rus asami_blowjob_7b58a4e4:
 
     # "asami" "You have a studyroom?"
-    "asami" "You have a studyroom?"
+    "Асами" "У вас есть кабинет?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1428
 translate rus asami_blowjob_c1357cfe:
 
     # b4_tn "It was a surprise to me as well!"
-    b4_tn "It was a surprise to me as well!"
+    b4_tn "Для меня это тоже было сюрпризом!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1435
 translate rus asami_blowjob_2bcbfcd6:
 
     # "Okay.. I'm here. Now what? You want me to shake my tits or something?"
-    "Okay.. I'm here. Now what? You want me to shake my tits or something?"
+    "Окей.. Я здесь. И что теперь? Ты хочешь, чтобы я потрясла своими сиськами или что-то в этом роде?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1436
 translate rus asami_blowjob_fe8760bf:
 
     # b4_tn "Hmmm no."
-    b4_tn "Hmmm no."
+    b4_tn "Хммм нет."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1440
 translate rus asami_blowjob_549156fc:
 
     # "asami" "No?"
-    "asami" "No?"
+    "Асами" "Нет?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1442
 translate rus asami_blowjob_3b804f2c:
 
     # b4_tn "Asami.. I made a shitload of copies of that photograph."
-    b4_tn "Asami.. I made a shitload of copies of that photograph."
+    b4_tn "Асами.. Я сделал кучу копий этой фотографии."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1444
 translate rus asami_blowjob_4c5a6d62:
 
     # "asami" "I'm not going to keep doing this unless there's an end in sight."
-    "asami" "I'm not going to keep doing this unless there's an end in sight."
+    "Асами" "Я не собираюсь продолжать делать это, пока не будет конца в поле зрения."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1445
 translate rus asami_blowjob_f16df0ea:
 
     # b4_tn "Right, that's why I promise you I won't make any other copies of it ever."
-    b4_tn "Right, that's why I promise you I won't make any other copies of it ever."
+    b4_tn "Именно поэтому я обещаю тебе, что больше никогда не буду делать никаких копий."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1446
 translate rus asami_blowjob_879ac827:
 
     # "asami" "....okay.."
-    "asami" "....okay.."
+    "асами" "....Хорошо.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1447
 translate rus asami_blowjob_7d121e59:
 
     # "asami" "I feel like you're not just doing this for my well being."
-    "asami" "I feel like you're not just doing this for my well being."
+    "Асами" "Я чувствую, что ты делаешь это не только ради моего благополучия."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1448
 translate rus asami_blowjob_6fa47ab4:
 
     # b4_tn "Quite right!"
-    b4_tn "Quite right!"
+    b4_tn "Совершенно верно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1449
 translate rus asami_blowjob_57f8e0f4:
 
     # b4_tn "But I'll trade you more copies the more interesting the act is you perform!"
-    b4_tn "But I'll trade you more copies the more interesting the act is you perform!"
+    b4_tn "Но я продам вам больше копий, чем интереснее будет ваше выступление!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1451
 translate rus asami_blowjob_8e613b9e:
 
     # b4_tn "remember what I said the first time when Meelo interrupted us?"
-    b4_tn "remember what I said the first time when Meelo interrupted us?"
+    b4_tn "помнишь, что я сказал в первый раз, когда нас прервала Меело?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1452
 translate rus asami_blowjob_b4e77494:
 
     # "asami" "You said \"Suck my co-\""
-    "asami" "You said \"Suck my co-\""
+    "Асами" "Ты сказал \"соси мой ко-\""
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1453
 translate rus asami_blowjob_b4929d29:
 
     # b4_tn "I'd like some of that."
-    b4_tn "I'd like some of that."
+    b4_tn "Я бы хотел немного этого."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1455
 translate rus asami_blowjob_1d4f1343:
 
     # "asami" "*sigh*"
-    "asami" "*sigh*"
+    "Асами" "*Вздыхает*"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1459
 translate rus asami_blowjob_9323938f:
 
     # "asami" "I guess I'll have to take some precautions for what's inevitable then."
-    "asami" "I guess I'll have to take some precautions for what's inevitable then."
+    "Асами" "Я думаю, что мне придется принять некоторые меры предосторожности для того, что неизбежно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1467
 translate rus asami_blowjob_19eca49f:
@@ -1876,7 +1876,7 @@ translate rus asami_blowjob_19eca49f:
 translate rus asami_blowjob_28e42c6b:
 
     # "asami" "Okay.. I guess we're doing this..."
-    "asami" "Okay.. I guess we're doing this..."
+    "Асами" "Окей.. Я думаю, мы сделаем это..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1478
 translate rus asami_blowjob_108baebd:
@@ -2050,79 +2050,79 @@ translate rus korra_boobjob_fd598be8:
 translate rus korra_boobjob_69881d30:
 
     # b4_kn "You.. want to do what?"
-    b4_kn "You.. want to do what?"
+    b4_kn "Ты.. хочешь сделать что?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1612
 translate rus korra_boobjob_f15e8abd:
 
     # b4_tn "With Pema pregnant, she can't give me boobjobs."
-    b4_tn "With Pema pregnant, she can't give me boobjobs."
+    b4_tn "Пока Пема беременна, она не может дать мне сиськи."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1613
 translate rus korra_boobjob_ce335262:
 
     # b4_tn "Belly is in the way."
-    b4_tn "Belly is in the way."
+    b4_tn "Живот находится в пути."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1614
 translate rus korra_boobjob_1d933749:
 
     # b4_kn "But...how, why should I...?"
-    b4_kn "But...how, why should I...?"
+    b4_kn "Но...как, почему я должен...?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1615
 translate rus korra_boobjob_ffe5137c:
 
     # b4_tn "I can't be properly satisfied without getting a boobjob every now and then and if I'm not satisfied..."
-    b4_tn "I can't be properly satisfied without getting a boobjob every now and then and if I'm not satisfied..."
+    b4_tn "Я не могу быть полностью удовлетворен, не получая время от времени сиськи, и если я не удовлетворен..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1616
 translate rus korra_boobjob_880ba21f:
 
     # b4_tn "Well Asami has already shown some interest in me and Pema said she'd allow it."
-    b4_tn "Well Asami has already shown some interest in me and Pema said she'd allow it."
+    b4_tn "Ну Асами уже проявила ко мне некоторый интерес и Пема сказала что позволит это."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1618
 translate rus korra_boobjob_6dc104ea:
 
     # b4_kn "She did!?!?"
-    b4_kn "She did!?!?"
+    b4_kn "Она так и сделала!?!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1619
 translate rus korra_boobjob_f08f061a:
 
     # b4_tn "She might seem like a wallflower to some, but she's actually pulling all the strings Korra."
-    b4_tn "She might seem like a wallflower to some, but she's actually pulling all the strings Korra."
+    b4_tn "Она может показаться кому-то желтолицей, но на самом деле она дергает за все ниточки, Корра."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1620
 translate rus korra_boobjob_24da9a32:
 
     # b4_tn "Don't underestimate her or you'll end up eating out her pussy!"
-    b4_tn "Don't underestimate her or you'll end up eating out her pussy!"
+    b4_tn "Не стоит недооценивать ее, или ты будешь в конечном итоге вылизывать ее киску!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1621
 translate rus korra_boobjob_ccc22819:
 
     # b4_ta "Is that what you want Korra?! Eat out my wife's pussy?!"
-    b4_ta "Is that what you want Korra?! Eat out my wife's pussy?!"
+    b4_ta "Ты этого хочешь, Корра?! Вылизать киску моей жены?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1622
 translate rus korra_boobjob_60f215bb:
 
     # b4_kn "nn.. NO!!"
-    b4_kn "nn.. NO!!"
+    b4_kn "нн.. НЕТ!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1624
 translate rus korra_boobjob_2c5b4edc:
 
     # b4_tn "Anyway, it's either going to be Asami or if you're willing to sacrifice yourself for a good cause, you."
-    b4_tn "Anyway, it's either going to be Asami or if you're willing to sacrifice yourself for a good cause, you."
+    b4_tn "В любом случае, это будет либо Асами, либо если ты готов пожертвовать собой ради благого дела, ты."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1625
 translate rus korra_boobjob_1dcbb4f2:
 
     # b4_tn "Honestly, I think her boobsucking stress relief sessions with me are just an excuse to hang around me..."
-    b4_tn "Honestly, I think her boobsucking stress relief sessions with me are just an excuse to hang around me..."
+    b4_tn "Честно говоря, я думаю, что ее сеансы снятия стресса с меня-это просто предлог, чтобы болтаться рядом со мной..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1626
 translate rus korra_boobjob_9461cf4c:
@@ -2134,79 +2134,79 @@ translate rus korra_boobjob_9461cf4c:
 translate rus korra_boobjob_cac3bd51:
 
     # b4_tn "Just imagine Asami with my dick between her boobs... cumming all over her. With her face covered in my cum."
-    b4_tn "Just imagine Asami with my dick between her boobs... cumming all over her. With her face covered in my cum."
+    b4_tn "Только представьте себе асами с моим членом между ее сиськами... Камминг на всем протяжении ее. С ее лицом, покрытым моей спермой."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1628
 translate rus korra_boobjob_a4ab755f:
 
     # b4_tn "Her lower lip slightly quivering with extasy...is that what you want?!"
-    b4_tn "Her lower lip slightly quivering with extasy...is that what you want?!"
+    b4_tn "Ее нижняя губа слегка дрожа от экстаза...это то, что вы хотите?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1629
 translate rus korra_boobjob_2360017f:
 
     # b4_kn "....no."
-    b4_kn "....no."
+    b4_kn "....нет."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1630
 translate rus korra_boobjob_bd792c46:
 
     # b4_tn "Then please help me. Just think of it as slightly more intense training session. "
-    b4_tn "Then please help me. Just think of it as slightly more intense training session. "
+    b4_tn "Тогда, пожалуйста, помогите мне. Просто думайте об этом как о чуть более интенсивной тренировке. "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1631
 translate rus korra_boobjob_a72a4eee:
 
     # b4_tn "I've already seen and touched them plenty of times so it's no big deal."
-    b4_tn "I've already seen and touched them plenty of times so it's no big deal."
+    b4_tn "Я уже видел и трогал их много раз, так что это не имеет большого значения."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1632
 translate rus korra_boobjob_2272de18:
 
     # b4_kn "Yeah but... you didn't touch them with.. with your penis."
-    b4_kn "Yeah but... you didn't touch them with.. with your penis."
+    b4_kn "Да, но..... ты же их не трогал.. с твоим пенисом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1636
 translate rus korra_boobjob_51100ac8:
 
     # b4_kn "*sigh* So if I do this you won't ask Asami for boobjobs?"
-    b4_kn "*sigh* So if I do this you won't ask Asami for boobjobs?"
+    b4_kn "*вздох* Итак, если я сделаю это, вы не будете просить Асами о сиськах?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1637
 translate rus korra_boobjob_a68e43b0:
 
     # b4_tn "I won't"
-    b4_tn "I won't"
+    b4_tn "Я не буду"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1638
 translate rus korra_boobjob_416c2228:
 
     # b4_kn "Okay, let's make this quick."
-    b4_kn "Okay, let's make this quick."
+    b4_kn "Хорошо, давайте сделаем это быстро."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1644
 translate rus korra_boobjob_6b6a1707:
 
     # b4_kn "Okay... now what?"
-    b4_kn "Okay... now what?"
+    b4_kn "Окей... а теперь что?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1645
 translate rus korra_boobjob_2cf955bb:
 
     # b4_tn "Now I push my dick between your chocolate funbags."
-    b4_tn "Now I push my dick between your chocolate funbags."
+    b4_tn "Теперь я толкаю свой член между твоих шоколадных мешочков."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1648
 translate rus korra_boobjob_cf9572a8:
 
     # b4_tn "like this."
-    b4_tn "like this."
+    b4_tn "Подобный этому."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1649
 translate rus korra_boobjob_87a1bbcf:
 
     # b4_tn "And to prevent any burnmarks..."
-    b4_tn "And to prevent any burnmarks..."
+    b4_tn "И чтобы предотвратить любые ожоги..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1656
 translate rus korra_boobjob_4976d885:
@@ -2218,61 +2218,61 @@ translate rus korra_boobjob_4976d885:
 translate rus korra_boobjob_5a3e4485:
 
     # b4_tn "Just keep pressing those tits of yours together as I move up and down."
-    b4_tn "Just keep pressing those tits of yours together as I move up and down."
+    b4_tn "Просто продолжай сжимать свои сиськи вместе, пока я двигаюсь вверх и вниз."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1664
 translate rus korra_boobjob_72fdce4a:
 
     # b4_tn "Oh yeaahhh... this is the stuff."
-    b4_tn "Oh yeaahhh... this is the stuff."
+    b4_tn "О да... это то, что нужно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1666
 translate rus korra_boobjob_62a15fc9:
 
     # b4_tn "How do you like my erect dick being wedged in between your boobs?"
-    b4_tn "How do you like my erect dick being wedged in between your boobs?"
+    b4_tn "Как тебе нравится, когда мой эрегированный член вклинивается между твоими сиськами?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1667
 translate rus korra_boobjob_32ac59f1:
 
     # b4_kn "This is ...okay"
-    b4_kn "This is ...okay"
+    b4_kn "Это ...Хорошо"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1668
 translate rus korra_boobjob_68210b13:
 
     # b4_tn "Well, let me make it a little be more interesting."
-    b4_tn "Well, let me make it a little be more interesting."
+    b4_tn "Ну, давай я сделаю это немного интереснее."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1669
 translate rus korra_boobjob_af9892dd:
 
     # b4_tn "Hold on tight."
-    b4_tn "Hold on tight."
+    b4_tn "Держись крепче."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1670
 translate rus korra_boobjob_745e9613:
 
     # b4_kn "To what?!"
-    b4_kn "To what?!"
+    b4_kn "к чему?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1673
 translate rus korra_boobjob_7eabfdd1:
 
     # b4_kn "AH!"
-    b4_kn "AH!"
+    b4_kn "АХ!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1674
 translate rus korra_boobjob_5c54d031:
 
     # b4_kn "Be more ..Ah! careful! ..Ah! "
-    b4_kn "Be more ..Ah! careful! ..Ah! "
+    b4_kn "Будь более. .А! осторожно! ..Ах! "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1675
 translate rus korra_boobjob_67dc1fb7:
 
     # b4_tn "Here.... it... comes!"
-    b4_tn "Here.... it... comes!"
+    b4_tn "Здесь.... оно... приходит!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1682
 translate rus korra_boobjob_259a207b:
@@ -2290,61 +2290,61 @@ translate rus korra_boobjob_d76e25e4:
 translate rus korra_boobjob_d2242e94:
 
     # b4_kn "Yuck. I'm all covered with this stuff."
-    b4_kn "Yuck. I'm all covered with this stuff."
+    b4_kn "Фу. Я вся покрыта этой дрянью."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1698
 translate rus korra_boobjob_b656f57b:
 
     # b4_tn "It looks great on you."
-    b4_tn "It looks great on you."
+    b4_tn "Она отлично смотрится на тебе."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1699
 translate rus korra_boobjob_fc37e719:
 
     # b4_tn "Ready for round two?"
-    b4_tn "Ready for round two?"
+    b4_tn "Готова ко второму раунду?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1700
 translate rus korra_boobjob_f39e641e:
 
     # b4_kn "Shouldn't this be over when you cum?"
-    b4_kn "Shouldn't this be over when you cum?"
+    b4_kn "Разве это не должно закончиться, когда ты кончишь?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1701
 translate rus korra_boobjob_f4a50c91:
 
     # b4_tn "Usually, but I think there's some more left where that came from."
-    b4_tn "Usually, but I think there's some more left where that came from."
+    b4_tn "Обычно, но я думаю, что там, откуда это пришло, осталось еще немного."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1702
 translate rus korra_boobjob_ed5662f9:
 
     # b4_kn "That's...I don't think it works like that."
-    b4_kn "That's...I don't think it works like that."
+    b4_kn "Это...Я не думаю, что это так работает."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1703
 translate rus korra_boobjob_cc15af91:
 
     # b4_tn "Lie down and I'll prove you wrong."
-    b4_tn "Lie down and I'll prove you wrong."
+    b4_tn "Ложись, и я докажу, что ты ошибаешься.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1709
 translate rus korra_boobjob_a6b64a87:
 
     # b4_kn "I don't think we should be doing this here now... Anyone could walk in and ..."
-    b4_kn "I don't think we should be doing this here now... Anyone could walk in and ..."
+    b4_kn "Я не думаю, что мы должны делать это здесь и сейчас... Кто угодно может войти и ..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1712
 translate rus korra_boobjob_e41b9488:
 
     # b4_tn "Don't worry this won't take long."
-    b4_tn "Don't worry this won't take long."
+    b4_tn "Не волнуйся это не займет много времени."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1713
 translate rus korra_boobjob_47da8a88:
 
     # b4_tn "And this way I can massage your boobs too."
-    b4_tn "And this way I can massage your boobs too."
+    b4_tn "И таким образом я могу массировать твои сиськи тоже."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1714
 translate rus korra_boobjob_3e860d29:
@@ -2368,7 +2368,7 @@ translate rus korra_boobjob_3e860d29_1:
 translate rus korra_boobjob_bfdfa68e:
 
     # "You keep sliding up and down in a steady rythm while intensifying the kneeding of Korra's boobs."
-    "You keep sliding up and down in a steady rythm while intensifying the kneeding of Korra's boobs."
+    "Вы продолжаете скользить вверх и вниз в устойчивом ритме, усиливая прижим сисек Корры."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1737
 translate rus korra_boobjob_8e668e63:
@@ -2380,19 +2380,19 @@ translate rus korra_boobjob_8e668e63:
 translate rus korra_boobjob_535f0c2e:
 
     # b4_tn "Are you starting to enjoy this you slut??"
-    b4_tn "Are you starting to enjoy this you slut??"
+    b4_tn "Ты начинаешь наслаждаться этим ты шлюха??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1739
 translate rus korra_boobjob_b5f2e190:
 
     # b4_tx "Hnnnng... getting there...."
-    b4_tx "Hnnnng... getting there...."
+    b4_tx "Hnnnng... как туда добраться...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1740
 translate rus korra_boobjob_993e92cb:
 
     # b4_tx "Time to prove to you my seed is both potent and plentiful!"
-    b4_tx "Time to prove to you my seed is both potent and plentiful!"
+    b4_tx "Пришло время доказать тебе, что мое семя одновременно мощное и обильное!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1757
 translate rus korra_boobjob_7ca732ea:
@@ -2410,19 +2410,19 @@ translate rus korra_boobjob_b57e87f6:
 translate rus korra_boobjob_35a58324:
 
     # b4_tx "LAST STOP!!!!"
-    b4_tx "LAST STOP!!!!"
+    b4_tx "ПОСЛЕДНЯЯ ОСТАНОВКА!!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1769
 translate rus korra_boobjob_19271a51:
 
     # b4_tn "Damn! I love how my gunk contrast with your skin!"
-    b4_tn "Damn! I love how my gunk contrast with your skin!"
+    b4_tn "Черт! Мне нравится, как мой запах контрастирует с твоей кожей!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1773
 translate rus korra_boobjob_f0bc8b18:
 
     # b4_tn "See you later Korra. Don't forget to wash you face."
-    b4_tn "See you later Korra. Don't forget to wash you face."
+    b4_tn "Увидимся позже Корра. Не забудь умыться."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1790
 translate rus pema_blowjob_a2861ff2:
@@ -2518,19 +2518,19 @@ translate rus pema_blowjob_42216691:
 translate rus pema_blowjob_f5fe3d78:
 
     # b4_pn "How about a nice relaxing blowjob from your pretty wife?"
-    b4_pn "How about a nice relaxing blowjob from your pretty wife?"
+    b4_pn "Как насчет приятного расслабляющего минета от вашей красивой жены?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1838
 translate rus pema_blowjob_d9add2b6:
 
     # "You quickly strip."
-    "You quickly strip."
+    "Вы быстро раздеваетесь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1839
 translate rus pema_blowjob_378ecb98:
 
     # b4_tx "Let's do this thing!!"
-    b4_tx "Let's do this thing!!"
+    b4_tx "Давай сделаем это!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1841
 translate rus pema_blowjob_2eac1ef6:
