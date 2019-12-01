@@ -5542,85 +5542,85 @@ translate rus lin_handjob_e7d642c5:
 translate rus lin_handjob_a9c8796e:
 
     # b4_tn "MMmmmmh.. I'm going to cover that desk of yours with my creamy goodness!"
-    b4_tn "Мммммм.. Я собираюсь покрыть твой стол своей сливочной добротой!"
+    b4_tn "Мммммм.. Я собираюсь покрыть твой стол своей спермой!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3074
 translate rus lin_handjob_61dec0fa:
 
     # "lin" "What?!? NO!!"
-    "lin" "What?!? NO!!"
+    "Лин" "Что?!? Нет!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3075
 translate rus lin_handjob_d529abdc:
 
     # b4_tn "Almost there!"
-    b4_tn "Almost there!"
+    b4_tn "Почти на месте!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3078
 translate rus lin_handjob_4efd56b2:
 
     # "lin" "Anyone coming into my office will see and smell it!"
-    "lin" "Anyone coming into my office will see and smell it!"
+    "Лин" "Любой, кто войдет в мой кабинет, увидит и почувствует его запах!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3079
 translate rus lin_handjob_e03c6095:
 
     # b4_tn "Oh come on. You wanted me to jack off in front of you."
-    b4_tn "Oh come on. You wanted me to jack off in front of you."
+    b4_tn "Да ладно тебе. Ты хотела, чтобы я дрочил у тебя на глазах."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3080
 translate rus lin_handjob_fa675246:
 
     # b4_tn "You can't possibly be surprised about what that entails."
-    b4_tn "You can't possibly be surprised about what that entails."
+    b4_tn "Вы не удивляйтесь тому, что это повлечет за собой."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3082
 translate rus lin_handjob_c062825b:
 
     # "lin" "I.. I just sorta didn't think it through.."
-    "lin" "I.. I just sorta didn't think it through.."
+    "Лин" "Я.. Я просто вроде как не продумала это до конца.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3083
 translate rus lin_handjob_e73d2664:
 
     # "lin" "It was a spur of the moment thing."
-    "lin" "It was a spur of the moment thing."
+    "Лин" "Это было под влиянием момента."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3084
 translate rus lin_handjob_e17c70ab:
 
     # "lin" "Argh! Fine, I'll deal with your mess like I've always done."
-    "lin" "Argh! Fine, I'll deal with your mess like I've always done."
+    "Лин" "Арх! Ладно, я разберусь с твоим бардаком, как всегда.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3085
 translate rus lin_handjob_6a0019f5:
 
     # "lin" "Just give that stupid cock to me damn it!"
-    "lin" "Just give that stupid cock to me damn it!"
+    "Лин" "Просто дай мне этот дурацкий член черт возьми!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3088
 translate rus lin_handjob_1419b61e:
 
     # "Lin grabs your dick and aims it at her open mouth."
-    "Lin grabs your dick and aims it at her open mouth."
+    "Лин хватает твой член и направляет его в ее открытый рот."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3091
 translate rus lin_handjob_0d505a62:
 
     # b4_tn "Nice! A little rough, but I can appreciate the effort!"
-    b4_tn "Nice! A little rough, but I can appreciate the effort!"
+    b4_tn "Приятно! Немного грубо, но я могу оценить твой усилия!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3092
 translate rus lin_handjob_9baad2be:
 
     # b4_tn "Was this your plan from the beginning?"
-    b4_tn "Was this your plan from the beginning?"
+    b4_tn "Это был твой план с самого начала?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3093
 translate rus lin_handjob_210a1ad0:
 
     # "lin" "Don't be an idiot! I just don't want my reputation in the gutter because you can't control yourself."
-    "lin" "Don't be an idiot! I just don't want my reputation in the gutter because you can't control yourself."
+    "Лин" "Не будь идиотом! Я просто не хочу, чтобы моя репутация оказалась в сточной канаве, потому что ты не можешь контролировать себя."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3094
 translate rus lin_handjob_40c9daa6:
@@ -5632,217 +5632,217 @@ translate rus lin_handjob_40c9daa6:
 translate rus lin_handjob_8b0406e3:
 
     # b4_tn "If you're planning on catching it from that distance you'll get it all over your face."
-    b4_tn "If you're planning on catching it from that distance you'll get it all over your face."
+    b4_tn "Если ты планируешь поймать его с такого расстояния ты получишь его по всему лицу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3096
 translate rus lin_handjob_0054f436:
 
     # b4_tn "I'm okay with that."
-    b4_tn "I'm okay with that."
+    b4_tn "Я не против этого."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3099
 translate rus lin_handjob_b770ad72:
 
     # "Lin pushes her lips against the tip of your cock just as you're about to blow your load."
-    "Lin pushes her lips against the tip of your cock just as you're about to blow your load."
+    "Лин прижимается губами к кончику твоего члена как раз в тот момент, когда ты собираешься взорвать свой груз."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3108
 translate rus lin_handjob_469f3203:
 
     # b4_tn "That's it! Swallow my cum! Swallow it all!"
-    b4_tn "That's it! Swallow my cum! Swallow it all!"
+    b4_tn "Вот так! Глотай мою сперму! Проглоти все это!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3112
 translate rus lin_handjob_c8a81e82:
 
     # "lin" "Coff! Coff! "
-    "lin" "Coff! Coff! "
+    "Лин" "Coff! Coff! "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3115
 translate rus lin_handjob_c78e2d6a:
 
     # "lin" "Barf!"
-    "lin" "Barf!"
+    "Лин" "Barf!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3118
 translate rus lin_handjob_deb1cbd8:
 
     # "lin" "What the fuck is Pema feeding you?!"
-    "lin" "What the fuck is Pema feeding you?!"
+    "Лин" "Какого хуя,чем Пема тебя кормит?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3119
 translate rus lin_handjob_df5c319a:
 
     # "lin" "It's not normal to have this much sperm! I could barely swallow most of it!"
-    "lin" "It's not normal to have this much sperm! I could barely swallow most of it!"
+    "Лин" "Это ненормально - иметь столько спермы! Я едва смогла проглотить большую её часть!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3121
 translate rus lin_handjob_7aca1100:
 
     # b4_tn "Don't feel sad. You did great!"
-    b4_tn "Don't feel sad. You did great!"
+    b4_tn "Не грусти. Ты отлично справилась!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3122
 translate rus lin_handjob_713a4bf5:
 
     # "lin" "Get out of here tenzin. I need a drink to wash away this horrible taste."
-    "lin" "Get out of here tenzin. I need a drink to wash away this horrible taste."
+    "Лин" "Убирайся отсюда, Тензин. Мне нужно выпить, чтобы смыть этот ужасный вкус."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3125
 translate rus lin_handjob_ba3c43f8:
 
     # "next visit"
-    "next visit"
+    "Следующий визит"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3128
 translate rus lin_handjob_82feedc9:
 
     # "lin" "I want a rematch.."
-    "lin" "I want a rematch.."
+    "Лин" "Я хочу реванш."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3129
 translate rus lin_handjob_d3263bb0:
 
     # "lin" "I'll show you the last time was just a fluke."
-    "lin" "I'll show you the last time was just a fluke."
+    "Лин" "Я покажу тебе, что последний раз был просто случайностью."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3130
 translate rus lin_handjob_dc225376:
 
     # "lin" "I.. I can swallow that cum without a problem. I was just unprepared the last time."
-    "lin" "I.. I can swallow that cum without a problem. I was just unprepared the last time."
+    "Лин" "Я.. Я могу проглотить эту сперму без проблем. В прошлый раз я была просто не готова."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3132
 translate rus lin_handjob_def57b3d:
 
     # "lin" "Just making sure you're not going to ruin my uniform again."
-    "lin" "Just making sure you're not going to ruin my uniform again."
+    "Лин" "Просто хочу убедиться, что ты не испортишь мою форму,опять."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3133
 translate rus lin_handjob_633da7aa:
 
     # "lin" "Now start jacking!"
-    "lin" "Now start jacking!"
+    "Лин" "А теперь начинай поднимать домкрат!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3134
 translate rus lin_handjob_302f3eb3:
 
     # b4_tn "...okay"
-    b4_tn "...okay"
+    b4_tn "...Окей"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3136
 translate rus lin_handjob_ee1cb279:
 
     # b4_tn "Hope you're enjoying this little private show for you."
-    b4_tn "Hope you're enjoying this little private show for you."
+    b4_tn "Надеюсь, тебе нравится это маленькое частное шоу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3137
 translate rus lin_handjob_1773e8de:
 
     # "lin" "Can't you go faster? I don't have all day."
-    "lin" "Can't you go faster? I don't have all day."
+    "Лин" "Ты не можешь ехать быстрее? У меня не весь день впереди."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3138
 translate rus lin_handjob_e6e7cfaf:
 
     # b4_tn "Nah. I want to enjoy this."
-    b4_tn "Nah. I want to enjoy this."
+    b4_tn "Нет. Я хочу наслаждаться этим."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3139
 translate rus lin_handjob_459c6587:
 
     # "lin" "Give that to me!"
-    "lin" "Give that to me!"
+    "Лин" "Отдай это мне!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3141
 translate rus lin_handjob_c711a9c2:
 
     # "lin" "I just want you to cum damn it."
-    "lin" "I just want you to cum damn it."
+    "Лин" "Я просто хочу, чтобы ты кончил черт возьми."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3142
 translate rus lin_handjob_1df52570:
 
     # "lin" "Are you already there?!"
-    "lin" "Are you already there?!"
+    "Лин" "Ты уже там??!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3143
 translate rus lin_handjob_590a2351:
 
     # b4_tn "Mmmm... getting closer."
-    b4_tn "Mmmm... getting closer."
+    b4_tn "Мммм... приближение."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3145
 translate rus lin_handjob_521d076a:
 
     # "lin" "Tell me when it's time!"
-    "lin" "Tell me when it's time!"
+    "Лин" "Скажи мне, когда придет время!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3156
 translate rus lin_handjob_2a48b1ad:
 
     # "lin" "What?!"
-    "lin" "What?!"
+    "Лин" "что?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3162
 translate rus lin_handjob_aa0d91a6:
 
     # "lin" "Damn it!!! I told you to warn me!"
-    "lin" "Damn it!!! I told you to warn me!"
+    "Лин" "Черт возьми!!! Я же просила тебя предупредить меня!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3163
 translate rus lin_handjob_efcd6142:
 
     # b4_tn "Sorry, It happened too fast for me to say something."
-    b4_tn "Sorry, It happened too fast for me to say something."
+    b4_tn "Прости, все произошло слишком быстро, чтобы я успел что-то сказать."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3164
 translate rus lin_handjob_c29e3c48:
 
     # "lin" "Get out of here Tenzin."
-    "lin" "Get out of here Tenzin."
+    "Лин" "Убирайся отсюда Тензин."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3167
 translate rus lin_handjob_ad549650:
 
     # b4_tn "Ready or not.. gonna blow!"
-    b4_tn "Ready or not.. gonna blow!"
+    b4_tn "Готов или нет.. сейчас взорвется!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3175
 translate rus lin_handjob_437dcf9a:
 
     # "lin" "I think I..."
-    "lin" "I think I..."
+    "Лин" "Я думаю я..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3178
 translate rus lin_handjob_c78e2d6a_1:
 
     # "lin" "Barf!"
-    "lin" "Barf!"
+    "Лин" "Barf!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3180
 translate rus lin_handjob_bc7390ab:
 
     # "lin" "Wipe that grin off your face. I'll.. I'll show you next time!"
-    "lin" "Wipe that grin off your face. I'll.. I'll show you next time!"
+    "Лин" "Сотри эту ухмылку со своего лица. Я.. Я покажу тебе в следующий раз!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3181
 translate rus lin_handjob_042baec5:
 
     # b4_tn "Lookin forward to it!"
-    b4_tn "Lookin forward to it!"
+    b4_tn "С нетерпением жду этого!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3182
 translate rus lin_handjob_8152a87d:
 
     # "lin" "Damn it.. my shirt is all covered with it."
-    "lin" "Damn it.. my shirt is all covered with it."
+    "Лин" "Черт подери!.. моя рубашка вся покрыта им."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3186
 translate rus lin_handjob_c29e3c48_1:
 
     # "lin" "Get out of here Tenzin."
-    "lin" "Get out of here Tenzin."
+    "Лин" "Убирайся отсюда Тензин."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3202
 translate rus korra_legs_7cab0e2a:
@@ -5980,25 +5980,25 @@ translate rus korra_legs_5ab3bb98:
 translate rus korra_legs_05406d36:
 
     # b4_kn "Tenzin.."
-    b4_kn "Tenzin.."
+    b4_kn "Тензин.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3263
 translate rus korra_legs_d325a41b:
 
     # b4_kn "I didn't hear you knock."
-    b4_kn "I didn't hear you knock."
+    b4_kn "Я не слышала, как ты постучал.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3264
 translate rus korra_legs_73f4ad52:
 
     # b4_tn "That's because I didn't. You working out? "
-    b4_tn "That's because I didn't. You working out? "
+    b4_tn "Это потому, что я этого не сделал.? "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3265
 translate rus korra_legs_c3ea0a4e:
 
     # b4_kn "Oh.. yeah.. Nothing special, just some excercises for my thighs."
-    b4_kn "Oh.. yeah.. Nothing special, just some excercises for my thighs."
+    b4_kn "О.. да.. Ничего особенного, просто некоторые упражнения для моих бедер."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3266
 translate rus korra_legs_296fa309:
