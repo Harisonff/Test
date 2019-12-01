@@ -4996,7 +4996,7 @@ translate rus lin_buttjob_68568c73:
 translate rus lin_buttjob_5e3b6ef9:
 
     # b4_tn "..You know what? You're right, my bad."
-    b4_tn "..Знаешь что? Ты права, я плохой."
+    b4_tn "..Знаешь что? Ты права, я поступил плохо."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2873
 translate rus lin_buttjob_1107ea74:
@@ -5008,283 +5008,283 @@ translate rus lin_buttjob_1107ea74:
 translate rus lin_buttjob_2f34c150:
 
     # "lin" "But keep in mind. Another surprise and-"
-    "lin" "But keep in mind. Another surprise and-"
+    "Лин" "Но имей в виду. Еще один сюрприз и-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2877
 translate rus lin_buttjob_c41e4e69:
 
     # b4_tn "Great I just need to quickly do one more thing.."
-    b4_tn "Great I just need to quickly do one more thing.."
+    b4_tn "Отлично мне просто нужно быстро сделать еще одну вещь.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2881
 translate rus lin_buttjob_1a6abafd:
 
     # "You spread Lin's ass cheeks and spit, aiming for her anus."
-    "You spread Lin's ass cheeks and spit, aiming for her anus."
+    "Ты раздвигаешь ягодицы Лин и плюешь, целясь ей в анус."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2882
 translate rus lin_buttjob_221778a2:
 
     # "Before lin fully realized what you did you quickly start sliding you shaft between her asscheeks."
-    "Before lin fully realized what you did you quickly start sliding you shaft between her asscheeks."
+    "Прежде чем Лин полностью поняла, что ты сделал, ты быстро начал скользить своим членом между ее ягодицами."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2886
 translate rus lin_buttjob_3473c417:
 
     # b4_tn "This is much, much better. Uh.. I mean this feels really humiliating...."
-    b4_tn "This is much, much better. Uh.. I mean this feels really humiliating...."
+    b4_tn "Это намного, намного лучше. Ух.. Я имею в виду, что это действительно унизительно...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2887
 translate rus lin_buttjob_09751991:
 
     # b4_tn "You know.. having to slide my dick up against a pretty woman's anus without even getting to enter it.."
-    b4_tn "You know.. having to slide my dick up against a pretty woman's anus without even getting to enter it.."
+    b4_tn "Ты знаешь.. я должен скользить своим членом по анусу красивой женщины, даже не входя в него.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2889
 translate rus lin_buttjob_8513453a:
 
     # "Lin" "Compliments won't change a thing Tenzin."
-    "Lin" "Compliments won't change a thing Tenzin."
+    "Лин" "Комплименты ничего не изменят Тензин."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2890
 translate rus lin_buttjob_6f0984aa:
 
     # "Lin" "All of this is to torture you."
-    "Lin" "All of this is to torture you."
+    "Лин" "Все это для того, чтобы мучить тебя."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2892
 translate rus lin_buttjob_81044cfe:
 
     # "Lin" "Letting you do this, teasing you but never allowing you to go all the way."
-    "Lin" "Letting you do this, teasing you but never allowing you to go all the way."
+    "Лин" "Позволяю тебе делать это, дразню тебя, но никогда не позволю тебе дойти до конца."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2893
 translate rus lin_buttjob_18853ede:
 
     # "Lin" "The moment you picked Pema over me you gave up all penetration privileges."
-    "Lin" "The moment you picked Pema over me you gave up all penetration privileges."
+    "Лин" "В тот момент когда ты выбрал Пему вместо меня ты отказался от всех привилегий проникновения."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2894
 translate rus lin_buttjob_1326ad87:
 
     # "Lin" "But beg all you want."
-    "Lin" "But beg all you want."
+    "Лин" "Но проси все, что хочешь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2895
 translate rus lin_buttjob_9abddfb8:
 
     # "Lin" "I like hearing you grovel."
-    "Lin" "I like hearing you grovel."
+    "Лин" "Мне нравится слушать, как ты пресмыкаешься."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2896
 translate rus lin_buttjob_a3fb80ab:
 
     # b4_tn "Aaah, such an honest heart."
-    b4_tn "Aaah, such an honest heart."
+    b4_tn "ААА, такое честное сердце."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2897
 translate rus lin_buttjob_2d43bfa1:
 
     # b4_tn "You know... if you go and kneel on you desk I bet it would feel even better for you.."
-    b4_tn "You know... if you go and kneel on you desk I bet it would feel even better for you.."
+    b4_tn "Ты знаешь... если ты пойдешь и встанешь на колени на своем столе я уверен, что буду чувствовать себя еще лучше."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2899
 translate rus lin_buttjob_d5e30530:
 
     # "Without saying anything, but panting heavily, Lin crawls on her desk."
-    "Without saying anything, but panting heavily, Lin crawls on her desk."
+    "Ничего не говоря, но тяжело дыша, Лин ползет по своему столу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2900
 translate rus lin_buttjob_be6590d5:
 
     # "Lin" "......"
-    "Lin" "......"
+    "Лин" "......"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2903
 translate rus lin_buttjob_da7da37a:
 
     # b4_tn "You may have some grey hairs, but down there you look as tight as a 20 year old."
-    b4_tn "You may have some grey hairs, but down there you look as tight as a 20 year old."
+    b4_tn "У тебя могут быть седые волосы, но там вы выглядите так же хорошо, как 20-летняя."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2905
 translate rus lin_buttjob_679585e9:
 
     # "lin" "Pfff, naturally. I bet Pema is all loose and stretched out by now with all those pregnancies."
-    "lin" "Pfff, naturally. I bet Pema is all loose and stretched out by now with all those pregnancies."
+    "Лин" "Пффф, естественно. Бьюсь об заклад, что Пема уже совсем распустилась и растянулась со всеми этими беременностями."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2906
 translate rus lin_buttjob_887edabc:
 
     # "lin" "But that was what you were looking for when you chose her over me, right? A cow to breed your offspring."
-    "lin" "But that was what you were looking for when you chose her over me, right? A cow to breed your offspring."
+    "Лин" "Но это было то, что ты искал, когда выбрал ее вместо меня, верно? Корова для разведения вашего потомства."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2907
 translate rus lin_buttjob_597b9b85:
 
     # b4_tn "Let's not bring the past into this ({size=-10}because I barely have an idea what happened in Tenzin's past{/size})."
-    b4_tn "Let's not bring the past into this ({size=-10}because I barely have an idea what happened in Tenzin's past{/size})."
+    b4_tn "Давай не будем вспоминать прошлое ({size=-10}потому что я почти не представляю, что произошло в прошлом Тензина{/size})."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2908
 translate rus lin_buttjob_102f1991:
 
     # b4_tn "Why don't you start moving that luscious ass of yours?"
-    b4_tn "Why don't you start moving that luscious ass of yours?"
+    b4_tn "Почему бы тебе не начать двигать своей сочной попкой?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2912
 translate rus lin_buttjob_4e1d898d:
 
     # b4_tn "That's... hmmmm. that's more like it."
-    b4_tn "That's... hmmmm. that's more like it."
+    b4_tn "Это... хммм. вот это уже больше похоже."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2913
 translate rus lin_buttjob_90922927:
 
     # "lin" "It is? Does it make you want to stick that dumb dick of yours in my pussy?"
-    "lin" "It is? Does it make you want to stick that dumb dick of yours in my pussy?"
+    "Лин" "Так и есть? Это заставляет тебя хотеть засунуть свой тупой член в мою киску?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2914
 translate rus lin_buttjob_ba30e273:
 
     # "lin" "Or maybe my ass?"
-    "lin" "Or maybe my ass?"
+    "Лин" "Или, может быть, в мою задницу?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2917
 translate rus lin_buttjob_1a95428f:
 
     # "Lin" "Good. I want you to want it."
-    "Lin" "Good. I want you to want it."
+    "Лин" "Хорошо. Я хочу, чтобы ты захотел этого.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2918
 translate rus lin_buttjob_995c5b91:
 
     # "Lin" "I want you to want it so much you'll be thinking of it when you're fucking that breeding cow of yours."
-    "Lin" "I want you to want it so much you'll be thinking of it when you're fucking that breeding cow of yours."
+    "Лин" "Я хочу, чтобы ты хотел этого так сильно, что будешь думать об этом, когда будешь трахать свою племенную корову.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2919
 translate rus lin_buttjob_2a77e418:
 
     # "Lin" "Thinking about my tight pussy while going in and out of that throdden down hallway which Pema calls her vagina."
-    "Lin" "Thinking about my tight pussy while going in and out of that throdden down hallway which Pema calls her vagina."
+    "Лин" "Думая о моей тугой киске, входя и выходя из этого тростникового коридора, который Пема называет ее влагалищем."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2920
 translate rus lin_buttjob_5b02c874:
 
     # b4_tn "That sounds a bit... harsh."
-    b4_tn "That sounds a bit... harsh."
+    b4_tn "Это звучит немного странно... сурово."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2921
 translate rus lin_buttjob_a534ba94:
 
     # "Lin" "Whatever. My pristine pussy is off limits"
-    "Lin" "Whatever. My pristine pussy is off limits"
+    "Лин" "Что угодно. Моя девственная киска находится вне пределов"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2924
 translate rus lin_buttjob_3f2edb27:
 
     # "Lin" "NO."
-    "Lin" "NO."
+    "Лин" "Нет."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2925
 translate rus lin_buttjob_89689c8e:
 
     # "Lin" "If I said you could, you'd be ballsdeep in my ass before I'd reach the end of the sentence."
-    "Lin" "If I said you could, you'd be ballsdeep in my ass before I'd reach the end of the sentence."
+    "Лин" "Если бы я сказала, что ты можешь, ты уже был бы в моей заднице, прежде чем я успела закончить предложение."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2926
 translate rus lin_buttjob_a702a6f7:
 
     # "Lin" "Slammin that cock of yours in so deep I'd have trouble staying on this desk."
-    "Lin" "Slammin that cock of yours in so deep I'd have trouble staying on this desk."
+    "Лин" "Засунь свой член так глубоко, что мне будет трудно оставаться на этом столе."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2927
 translate rus lin_buttjob_81a8c984:
 
     # "Lin" "Wouldn't you?"
-    "Lin" "Wouldn't you?"
+    "Лин" "Не так ли?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2928
 translate rus lin_buttjob_62a47df4:
 
     # b4_tn "I'd make you forget every lonely night you've ever had."
-    b4_tn "I'd make you forget every lonely night you've ever had."
+    b4_tn "Я заставлю тебя забыть каждую одинокую ночь, что у тебя была.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2931
 translate rus lin_buttjob_bd583751:
 
     # "Lin" "If you try to cross that line I'm going to take you in for attempted rape and throw you in jail."
-    "Lin" "If you try to cross that line I'm going to take you in for attempted rape and throw you in jail."
+    "Лин" "Если ты попытаешься пересечь эту черту я арестую тебя за попытку изнасилования и брошу в тюрьму."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2932
 translate rus lin_buttjob_d9062a0f:
 
     # b4_tn "We could play warden and prisoner."
-    b4_tn "We could play warden and prisoner."
+    b4_tn "Мы могли бы играть в надзирателя и заключенного."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2933
 translate rus lin_buttjob_e10d17ab:
 
     # b4_tn "Besides water and bread you could feed me pussy!"
-    b4_tn "Besides water and bread you could feed me pussy!"
+    b4_tn "Кроме воды и хлеба ты могла бы накормить меня киской!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2934
 translate rus lin_buttjob_60c922db:
 
     # "Lin" "More like,I'd throw away the key and forget all about you."
-    "Lin" "More like,I'd throw away the key and forget all about you."
+    "Лин" "Скорее, я бы выбросила ключ и забыла о тебе."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2935
 translate rus lin_buttjob_625dce00:
 
     # b4_tn "Hey that reminds me. Wouldn't metalbenders be able to easily escape from your prison?"
-    b4_tn "Hey that reminds me. Wouldn't metalbenders be able to easily escape from your prison?"
+    b4_tn "Эй, это напомнило мне. Разве маги металла не смогут легко сбежать из вашей тюрьмы?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2936
 translate rus lin_buttjob_9934a655:
 
     # "Lin" "Don't be dumb, they're made out of the purest platinum there is."
-    "Lin" "Don't be dumb, they're made out of the purest platinum there is."
+    "Лин" "Не глупи, они сделаны из самой чистой платины, какая только есть."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2937
 translate rus lin_buttjob_db9081d2:
 
     # b4_tn "...aah Fuck! I'm gonna cum!"
-    b4_tn "...aah Fuck! I'm gonna cum!"
+    b4_tn "...ААА бля! Я собираюсь кончить!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2938
 translate rus lin_buttjob_b6fa26b9:
 
     # b4_tn "Not seeing any tissues yet soooo..."
-    b4_tn "Not seeing any tissues yet soooo..."
+    b4_tn "Пока не вижу никаких тканей таааак..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2939
 translate rus lin_buttjob_6bccfe47:
 
     # b4_tn "Ass or Face?!"
-    b4_tn "Ass or Face?!"
+    b4_tn "Задница или лицо?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2944
 translate rus lin_buttjob_4ef49665:
 
     # b4_tn "Turn around and take it like a professional."
-    b4_tn "Turn around and take it like a professional."
+    b4_tn "Повернись и прими это как профессионалка."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2947
 translate rus lin_buttjob_bb5159f0:
 
     # b4_tx "Ready..AIM.. FIRE!!!"
-    b4_tx "Ready..AIM.. FIRE!!!"
+    b4_tx "Готов..ЦЕЛЬ.. ОГОНЬ!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2961
 translate rus lin_buttjob_a0719bac:
 
     # b4_tn "Raise that ass girl!"
-    b4_tn "Raise that ass girl!"
+    b4_tn "Поднимите эту задницу девушка!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2965
 translate rus lin_buttjob_53c54348:
 
     # b4_tx "Here.. it.. COMES!!!"
-    b4_tx "Here.. it.. COMES!!!"
+    b4_tx "Здесь.. оно.. ПРИХОДИТ!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2979
 translate rus lin_buttjob_9ed2140e:
@@ -5296,19 +5296,19 @@ translate rus lin_buttjob_9ed2140e:
 translate rus lin_buttjob_fad286a9:
 
     # b4_ts "Consider me humiliated!"
-    b4_ts "Consider me humiliated!"
+    b4_ts "Считайте меня униженным!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2981
 translate rus lin_buttjob_33507e1b:
 
     # "Lin" "Good!"
-    "Lin" "Good!"
+    "Лин" "Превосходно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2982
 translate rus lin_buttjob_076ea390:
 
     # "Lin" "Now get out of here!"
-    "Lin" "Now get out of here!"
+    "Лин" "А теперь убирайся отсюда!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2996
 translate rus lin_handjob_fd9e9ced:
@@ -5440,109 +5440,109 @@ translate rus lin_handjob_d93185c0:
 translate rus lin_handjob_7e4b416b:
 
     # "lin" "Instead of paying back the damages with money I want you to do a job for me."
-    "lin" "Instead of paying back the damages with money I want you to do a job for me."
+    "Лин" "Вместо того чтобы возместить ущерб деньгами я хочу чтобы ты сделал для меня работу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3049
 translate rus lin_handjob_f1e9d868:
 
     # b4_tn "What kind of job?"
-    b4_tn "What kind of job?"
+    b4_tn "Что за работа?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3050
 translate rus lin_handjob_9bca374a:
 
     # "lin" "A handjob."
-    "lin" "A handjob."
+    "Лин" "Ручная стимуляция пениса."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3051
 translate rus lin_handjob_a05cc92b:
 
     # b4_tn "Is that.. a joke?"
-    b4_tn "Is that.. a joke?"
+    b4_tn "Это.. шутка?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3052
 translate rus lin_handjob_997b12d1:
 
     # "lin" "Not at all. I want you to do something degrading in front of me."
-    "lin" "Not at all. I want you to do something degrading in front of me."
+    "Лин" "Нисколько. Я хочу, чтобы ты сделал что-то унизительное передо мной."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3053
 translate rus lin_handjob_e7c1df05:
 
     # "lin" "Or maybe you've become an impotent limpdick incapable of getting hard to start with?"
-    "lin" "Or maybe you've become an impotent limpdick incapable of getting hard to start with?"
+    "Лин" "Или, может быть, ты стал импотентом, неспособным начать с чего-то трудного?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3057
 translate rus lin_handjob_f7481967:
 
     # b4_tn "I'd say I'm far from a limpdick."
-    b4_tn "I'd say I'm far from a limpdick."
+    b4_tn "Я бы сказал, что я далек от импотенции."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3058
 translate rus lin_handjob_fae17286:
 
     # "lin" "Pfff, start jacking that dumb cock of yours."
-    "lin" "Pfff, start jacking that dumb cock of yours."
+    "Лин" "Пффф, начинай дрочить свой тупой член."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3061
 translate rus lin_handjob_796d9a11:
 
     # b4_tn "Are you certain this is punishment for me and not just... you know.."
-    b4_tn "Are you certain this is punishment for me and not just... you know.."
+    b4_tn "Вы уверены, что это наказание для меня и не только... ты знаешь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3062
 translate rus lin_handjob_ceba2c91:
 
     # b4_tn "A severe lack in your life you're trying to fill?"
-    b4_tn "A severe lack in your life you're trying to fill?"
+    b4_tn "Серьезный недостаток в твоей жизни, который ты пытаешься восполнить.?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3063
 translate rus lin_handjob_1dccc65e:
 
     # "lin" "Don't flatter yourself. I'm not the girl you broke up with all those years ago. I'm well over that."
-    "lin" "Don't flatter yourself. I'm not the girl you broke up with all those years ago. I'm well over that."
+    "Лин" "Не льсти себе. Я не та девушка, с которой ты расстался много лет назад. Я уже давно с этим покончила."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3064
 translate rus lin_handjob_bd03b884:
 
     # b4_tn "Whatever you say."
-    b4_tn "Whatever you say."
+    b4_tn "Как скажешь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3065
 translate rus lin_handjob_1b552915:
 
     # "lin" "What do you think your wife would have to say about you masturbating in front of his old girlfriend?"
-    "lin" "What do you think your wife would have to say about you masturbating in front of his old girlfriend?"
+    "Лин" "Как ты думаешь, что твоя жена скажет о том, что ты мастурбируешь перед своей старой подругой?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3066
 translate rus lin_handjob_53fe7e87:
 
     # "lin" "Would she be angry or sad if she'd find out?"
-    "lin" "Would she be angry or sad if she'd find out?"
+    "Лин" "Рассердится ли она или расстроится, если узнает??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3067
 translate rus lin_handjob_057c9817:
 
     # "lin" "Doesn't that make you feel afraid?"
-    "lin" "Doesn't that make you feel afraid?"
+    "Лин" "Разве это не заставляет тебя бояться?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3068
 translate rus lin_handjob_105854e7:
 
     # b4_tn "Uuuuh.. she might be angry but probably because she wasn't there to watch.. Pema is kinkier than I am."
-    b4_tn "Uuuuh.. she might be angry but probably because she wasn't there to watch.. Pema is kinkier than I am."
+    b4_tn "Уууух.. может, она и злилась, но, скорее всего, потому, что ее не было рядом.. Пема еще более странная, чем я."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3069
 translate rus lin_handjob_e7d642c5:
 
     # b4_tn "And that's saying something!"
-    b4_tn "And that's saying something!"
+    b4_tn "И это о чем-то говорит!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3072
 translate rus lin_handjob_a9c8796e:
 
     # b4_tn "MMmmmmh.. I'm going to cover that desk of yours with my creamy goodness!"
-    b4_tn "MMmmmmh.. I'm going to cover that desk of yours with my creamy goodness!"
+    b4_tn "Мммммм.. Я собираюсь покрыть твой стол своей сливочной добротой!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3074
 translate rus lin_handjob_61dec0fa:
