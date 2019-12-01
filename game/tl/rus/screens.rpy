@@ -4,23 +4,23 @@ translate rus strings:
 
     # game/screens.rpy:209
     old "New Game"
-    new "New Game"
+    new "Новая игра"
 
     # game/screens.rpy:210
     old "Load Game"
-    new "Load Game"
+    new "Загрузить игру"
 
     # game/screens.rpy:211
     old "Preferences"
-    new "Preferences"
+    new "Предпочтения"
 
     # game/screens.rpy:212
     old "Help"
-    new "Help"
+    new "Помощ"
 
     # game/screens.rpy:213
     old "Support Us!"
-    new "Support Us!"
+    new "Поддержи нас!"
 
     # game/screens.rpy:214
     old "Disclaimer"
@@ -28,19 +28,19 @@ translate rus strings:
 
     # game/screens.rpy:215
     old "Quit"
-    new "Quit"
+    new "Выход"
 
     # game/screens.rpy:247
     old "Return"
-    new "Return"
+    new "Возврат"
 
     # game/screens.rpy:249
     old "Save Game"
-    new "Save Game"
+    new "Сохранить игру"
 
     # game/screens.rpy:251
     old "Main Menu"
-    new "Main Menu"
+    new "Главное Меню"
 
     # game/screens.rpy:253
     old "Patreon"
@@ -48,39 +48,39 @@ translate rus strings:
 
     # game/screens.rpy:286
     old "Previous"
-    new "Previous"
+    new "Превью"
 
     # game/screens.rpy:289
     old "Auto"
-    new "Auto"
+    new "Авто"
 
     # game/screens.rpy:292
     old "Quick"
-    new "Quick"
+    new "Быстро"
 
     # game/screens.rpy:299
     old "Next"
-    new "Next"
+    new "Следующий"
 
     # game/screens.rpy:325
     old "Empty Slot."
-    new "Empty Slot."
+    new "Пустой слот."
 
     # game/screens.rpy:381
     old "Display"
-    new "Display"
+    new "Дисплей"
 
     # game/screens.rpy:382
     old "Window"
-    new "Window"
+    new "Окно"
 
     # game/screens.rpy:383
     old "Fullscreen"
-    new "Fullscreen"
+    new "Полный экран"
 
     # game/screens.rpy:389
     old "Transitions"
-    new "Transitions"
+    new "Переход"
 
     # game/screens.rpy:390
     old "All"
@@ -164,7 +164,7 @@ translate rus strings:
 
     # game/screens.rpy:559
     old "Save"
-    new "Save"
+    new "Сохранение"
 
     # game/screens.rpy:560
     old "Q.Save"
@@ -176,9 +176,8 @@ translate rus strings:
 
     # game/screens.rpy:563
     old "F.Skip"
-    new "F.Skip"
+    new "Б.Пропуск"
 
     # game/screens.rpy:565
     old "Prefs"
-    new "Prefs"
-
+    new "Превью"
