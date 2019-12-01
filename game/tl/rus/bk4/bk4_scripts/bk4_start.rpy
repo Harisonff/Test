@@ -4006,301 +4006,301 @@ translate rus asami_tits_021dd652:
 translate rus asami_tits_cf704ae9:
 
     # b4_tn "Well.. that kinda money and state of the art tech could endanger everyone."
-    b4_tn "Well.. that kinda money and state of the art tech could endanger everyone."
+    b4_tn "Что ж.. такие деньги и современные технологии могут поставить под угрозу всех."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2453
 translate rus asami_tits_23c6965b:
 
     # b4_tn "And more importantly, become a major pain in my ass!"
-    b4_tn "And more importantly, become a major pain in my ass!"
+    b4_tn "И что еще более важно, стать главной занозой в заднице!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2457
 translate rus asami_tits_6c4eb544:
 
     # "asami" "Yes and I need that photograph to confront my father and tell him to stop."
-    "asami" "Yes and I need that photograph to confront my father and tell him to stop."
+    "Асами" "Да и мне нужна эта фотография чтобы встретиться с отцом и сказать ему остановиться."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2458
 translate rus asami_tits_2abd5844:
 
     # b4_tn "Mmhh tell you what. I've seen enough of Korra's tits to not really be swayed by yours."
-    b4_tn "Mmhh tell you what. I've seen enough of Korra's tits to not really be swayed by yours."
+    b4_tn "Вот что я тебе скажу. Я достаточно насмотрелся на сиськи Корры, чтобы не поддаваться твоему влиянию."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2459
 translate rus asami_tits_f5ee22d4:
 
     # b4_tn "However. If I could get a taste of them...."
-    b4_tn "However. If I could get a taste of them...."
+    b4_tn "Однако. Если бы я мог попробовать их на вкус...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2460
 translate rus asami_tits_b463f567:
 
     # "asami" "You.. want to suck on my nipples?!"
-    "asami" "You.. want to suck on my nipples?!"
+    "Асами" "Ты.. Хочешь пососать мои соски?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2461
 translate rus asami_tits_8ada49af:
 
     # b4_tn "Unless you'd rather slobber on my cock."
-    b4_tn "Unless you'd rather slobber on my cock."
+    b4_tn "Если только ты не предпочитаешь слюни на моем члене."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2462
 translate rus asami_tits_9714b90f:
 
     # b4_tn "I'd be okay with that too. Or you could just leave again. Without a photo."
-    b4_tn "I'd be okay with that too. Or you could just leave again. Without a photo."
+    b4_tn "Я бы тоже не возражал. Или ты можешь просто уйти снова. Без фотографии."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2465
 translate rus asami_tits_012201d0:
 
     # "asami" "...."
-    "asami" "...."
+    "Асами" "...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2466
 translate rus asami_tits_671fb4f6:
 
     # "asami" "......"
-    "asami" "......"
+    "Асами" "......"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2467
 translate rus asami_tits_76488ea1:
 
     # "asami" "Just do it already."
-    "asami" "Just do it already."
+    "Асами" "Просто сделай это уже сейчас."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2472
 translate rus asami_tits_a92e011c:
 
     # "asami" "I despize you.."
-    "asami" "I despize you.."
+    "Асами" "Я презираю тебя.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2477
 translate rus asami_tits_faa07e85:
 
     # b4_kn "AAhh!!" with hpunch
-    b4_kn "AAhh!!" with hpunch
+    b4_kn "Аахх!!" with hpunch
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2478
 translate rus asami_tits_c3ecbd20:
 
     # b4_kn "What's going on here?!"
-    b4_kn "What's going on here?!"
+    b4_kn "Что здесь происходит?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2480
 translate rus asami_tits_0431999c:
 
     # b4_kn "What are you two doing?!"
-    b4_kn "What are you two doing?!"
+    b4_kn "Что вы двое делаете?!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2483
 translate rus asami_tits_d95e0ebd:
 
     # b4_tn "....uh.."
-    b4_tn "....uh.."
+    b4_tn "....ух.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2484
 translate rus asami_tits_8d65919c:
 
     # b4_kn "Meelo was stalking me again so I try to hide from him here and..."
-    b4_kn "Meelo was stalking me again so I try to hide from him here and..."
+    b4_kn "Меело снова преследовал меня поэтому я пытаюсь спрятаться от него здесь и..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2485
 translate rus asami_tits_678ec279:
 
     # b4_kn "I see you two doing... this!?"
-    b4_kn "I see you two doing... this!?"
+    b4_kn "Я вижу, что вы двое делаете... этот!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2486
 translate rus asami_tits_de13ed43:
 
     # "asami" "Tenzin is helping me get rid of a ph.... stress."
-    "asami" "Tenzin is helping me get rid of a ph.... stress."
+    "Асами" "Тензин помогает мне избавиться от хм.... стресса."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2487
 translate rus asami_tits_b8564c27:
 
     # "asami" "Sure it's unconventional, but he can keep a secret and he's great at this particular technique."
-    "asami" "Sure it's unconventional, but he can keep a secret and he's great at this particular technique."
+    "Асами" "Конечно, это нетрадиционно, но он может хранить тайну, и он великолепен в этой конкретной технике."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2488
 translate rus asami_tits_f5bf31a9:
 
     # b4_tn "..yes.. chakra's... and stuff..."
-    b4_tn "..yes.. chakra's... and stuff..."
+    b4_tn "..да.. чакры... и прочее..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2489
 translate rus asami_tits_883e1a4f:
 
     # "asami" "That's it."
-    "asami" "That's it."
+    "Асами" "Вот и все."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2490
 translate rus asami_tits_97e9f53e:
 
     # b4_tn "Want me to do yours too?"
-    b4_tn "Want me to do yours too?"
+    b4_tn "Хочешь, я сделаю и твою тоже?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2492
 translate rus asami_tits_72d5f2a2:
 
     # b4_kn "I AM feeling stressed but I'll skip."
-    b4_kn "I AM feeling stressed but I'll skip."
+    b4_kn "Я чувствую себя напряженным, но я пропущу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2493
 translate rus asami_tits_6c11e451:
 
     # b4_kn "Wait.. that would mean you'd have to stop sucking Asami's...nipples."
-    b4_kn "Wait.. that would mean you'd have to stop sucking Asami's...nipples."
+    b4_kn "Подождите.. это означало бы, что тебе придется перестать сосать у асами...соски."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2494
 translate rus asami_tits_97bb52ce:
 
     # b4_tn "Naturally."
-    b4_tn "Naturally."
+    b4_tn "Естественно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2498
 translate rus asami_tits_e98c8f1a:
 
     # b4_kn "Okay then."
-    b4_kn "Okay then."
+    b4_kn "Тогда ладно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2499
 translate rus asami_tits_c2a45b02:
 
     # "You can see Korra's nipples hardening as she tries to casually look at Asami's breasts."
-    "You can see Korra's nipples hardening as she tries to casually look at Asami's breasts."
+    "Вы можете видеть, как соски Корры твердеют, когда она пытается небрежно взглянуть на грудь Асами."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2500
 translate rus asami_tits_eb08456b:
 
     # b4_tn "(well I'll be damned....)"
-    b4_tn "(well I'll be damned....)"
+    b4_tn "(ну будь я проклят....)"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2505
 translate rus asami_tits_08361471:
 
     # b4_kn "....soooo Asami...."
-    b4_kn "....soooo Asami...."
+    b4_kn "....таааак Асами...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2507
 translate rus asami_tits_939e0f85:
 
     # b4_kn "You do this *ah!* more often?"
-    b4_kn "You do this *ah!* more often?"
+    b4_kn "Вы делаете это *ах!* чаще?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2508
 translate rus asami_tits_a44b0fbd:
 
     # "asami" "Not that often. Like I said it can create misunderstandings."
-    "asami" "Not that often. Like I said it can create misunderstandings."
+    "Асами" "Не так уж часто. Как я уже сказал, это может привести к недоразумениям."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2509
 translate rus asami_tits_3cafd792:
 
     # b4_kn "..Yeah...of course."
-    b4_kn "..Yeah...of course."
+    b4_kn "..Да...конечно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2512
 translate rus asami_tits_dc5c2934:
 
     # b4_tn "Hmmmm, I can taste you're filled with stress."
-    b4_tn "Hmmmm, I can taste you're filled with stress."
+    b4_tn "Хммм, я чувствую, что ты полна стресса.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2517
 translate rus asami_tits_9196bf63:
 
     # b4_kn "....I certainly feel stressed."
-    b4_kn "....I certainly feel stressed."
+    b4_kn "....Я, конечно, чувствую стресс."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2546
 translate rus asami_tits_d86dc1f6:
 
     # b4_kn "..mm. maybe you can teach me to do it too..."
-    b4_kn "..mm. maybe you can teach me to do it too..."
+    b4_kn "..мм. может быть, вы можете научить меня делать это слишком..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2547
 translate rus asami_tits_80321cec:
 
     # b4_kn "I could start practicing on Asami's.."
-    b4_kn "I could start practicing on Asami's.."
+    b4_kn "Я мог бы начать практиковаться на Асами.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2548
 translate rus asami_tits_55b40d48:
 
     # "Asami throws you another ice cold stare."
-    "Asami throws you another ice cold stare."
+    "Асами бросает на тебя еще один ледяной взгляд."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2549
 translate rus asami_tits_e9a1b415:
 
     # b4_tn "...ehh..that feels like too big of a leap at once.."
-    b4_tn "...ehh..that feels like too big of a leap at once.."
+    b4_tn "...Эхх..это похоже на слишком большой скачок сразу.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2550
 translate rus asami_tits_ad2e274a:
 
     # b4_tn "But you could start practicing by kissing."
-    b4_tn "But you could start practicing by kissing."
+    b4_tn "Но вы можете начать практиковаться, целуясь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2551
 translate rus asami_tits_24731a83:
 
     # b4_tn "I guarantee a photogr.., ahum, I mean result if you do that."
-    b4_tn "I guarantee a photogr.., ahum, I mean result if you do that."
+    b4_tn "Я гарантирую фотогр.., ахум, я имею в виду результат, если вы это сделаете."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2553
 translate rus asami_tits_8f5742c9:
 
     # "asami" "*sigh* Have you ever kissed a girl Korra?"
-    "asami" "*sigh* Have you ever kissed a girl Korra?"
+    "Асами" "*вздох* Ты когда нибудь целовала девушку Корра?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2555
 translate rus asami_tits_dd14553d:
 
     # b4_kn "No.."
-    b4_kn "No.."
+    b4_kn "нет.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2557
 translate rus asami_tits_2b28032b:
 
     # b4_tn "Oh spirits!"
-    b4_tn "Oh spirits!"
+    b4_tn "О духи!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2566
 translate rus asami_tits_f5257667:
 
     # b4_tn "Asami, I'm thoroughly convinced you should have that thing we talked about earlier."
-    b4_tn "Asami, I'm thoroughly convinced you should have that thing we talked about earlier."
+    b4_tn "Асами, я абсолютно убежден, что тебе нужно иметь то, о чем мы говорили раньше."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2567
 translate rus asami_tits_2baf2a2d:
 
     # b4_tn "You deserved it."
-    b4_tn "You deserved it."
+    b4_tn "Ты это заслужил."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2570
 translate rus asami_tits_fdc94f28:
 
     # b4_tn "Damn girl. You're a real go-getter."
-    b4_tn "Damn girl. You're a real go-getter."
+    b4_tn "Чертова девчонка. Ты настоящий добытчик.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2571
 translate rus asami_tits_f18d1967:
 
     # b4_tn "(should I tell her I have enough copies of that photo to fill a longbox?.. Naahh.)"
-    b4_tn "(should I tell her I have enough copies of that photo to fill a longbox?.. Naahh.)"
+    b4_tn "(должен ли я сказать ей, что у меня достаточно копий этой фотографии, чтобы заполнить длинную коробку?.. Naahh.)"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2576
 translate rus asami_tits_e9c401f5:
 
     # "asami" "Thanks Tenzin. I have another appointment now, but I'll retreive it later."
-    "asami" "Thanks Tenzin. I have another appointment now, but I'll retreive it later."
+    "Асами" "Спасибо Тензин. Сейчас у меня назначена еще одна встреча, но я откажусь от нее позже."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2577
 translate rus asami_tits_deea2664:
 
     # "asami" "Bye Korra."
-    "asami" "Bye Korra."
+    "Асами" "Пока Корра."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2578
 translate rus asami_tits_00cd7851:
@@ -4312,235 +4312,235 @@ translate rus asami_tits_00cd7851:
 translate rus asami_tits_3840b2ff:
 
     # b4_tn "that was...interesting."
-    b4_tn "that was...interesting."
+    b4_tn "так и было...интересный."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2582
 translate rus asami_tits_fa80da36:
 
     # b4_tn "Especially the way you warmed up to the whole experience."
-    b4_tn "Especially the way you warmed up to the whole experience."
+    b4_tn "Особенно то, как вы разогрелись до целого опыта."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2583
 translate rus asami_tits_3cd9df70:
 
     # b4_tn "Did you have fun Korra?"
-    b4_tn "Did you have fun Korra?"
+    b4_tn "Тебе было весело Корра?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2587
 translate rus asami_tits_6dffef8d:
 
     # b4_kn "....no..."
-    b4_kn "....no..."
+    b4_kn "....нет..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2588
 translate rus asami_tits_87a5e515:
 
     # b4_tn "Wow. That's positively the world's worst pokerface ever."
-    b4_tn "Wow. That's positively the world's worst pokerface ever."
+    b4_tn "Вау. Это определенно худшее в мире лицо для покера."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2589
 translate rus asami_tits_ca27a97b:
 
     # b4_tn "The Joker would have a better result trying to surpress his smile.."
-    b4_tn "The Joker would have a better result trying to surpress his smile.."
+    b4_tn "У Джокера был бы лучший результат, пытаясь превзойти его улыбку.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2590
 translate rus asami_tits_6c2c3259:
 
     # b4_kn "I don't know what just happened but I want it to happen more often"
-    b4_kn "I don't know what just happened but I want it to happen more often"
+    b4_kn "Я не знаю, что только что произошло, но я хочу, чтобы это происходило чаще"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2591
 translate rus asami_tits_b0d4af04:
 
     # b4_tn "Well, maybe I can help you out some more in the future with this particular interest of yours."
-    b4_tn "Well, maybe I can help you out some more in the future with this particular interest of yours."
+    b4_tn "Ну, может быть, я смогу помочь вам еще немного в будущем с этим вашим особым интересом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2595
 translate rus asami_tits_2nd_phase_ed711534:
 
     # "SECOND VERSION"
-    "SECOND VERSION"
+    "ВТОРАЯ ВЕРСИЯ"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2599
 translate rus asami_tits_2nd_phase_f46ba88e:
 
     # b4_tp "Hey Asami, this is Tenzin. Can I get you to come over?"
-    b4_tp "Hey Asami, this is Tenzin. Can I get you to come over?"
+    b4_tp "Эй, асами, это Тензин. Могу я попросить тебя приехать?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2600
 translate rus asami_tits_2nd_phase_14cdf98a:
 
     # "asami" "What? Tenzin? Why?"
-    "asami" "What? Tenzin? Why?"
+    "Асами" "Что? Тензин? Почему??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2601
 translate rus asami_tits_2nd_phase_f55d57bc:
 
     # b4_tp "I have a photograph of your father and.... well you better come over because this could effect Future industries."
-    b4_tp "I have a photograph of your father and.... well you better come over because this could effect Future industries."
+    b4_tp "У меня есть фотография вашего отца и.... ну вам лучше приехать потому что это может повлиять на будущие отрасли промышленности."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2602
 translate rus asami_tits_2nd_phase_11218a2d:
 
     # "asami" "Did...didn't we already have this conversation?"
-    "asami" "Did...didn't we already have this conversation?"
+    "Асами" "Раз...разве у нас уже не было этого разговора?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2603
 translate rus asami_tits_2nd_phase_09cd67ae:
 
     # b4_tp "Saying more on the phone could be dangerous."
-    b4_tp "Saying more on the phone could be dangerous."
+    b4_tp "Говорить больше по телефону может быть опасно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2604
 translate rus asami_tits_2nd_phase_5f47ee79:
 
     # "asami" "..... okay. Same place?"
-    "asami" "..... okay. Same place?"
+    "Асами" "..... окей. То же место?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2605
 translate rus asami_tits_2nd_phase_950c31ee:
 
     # b4_tp "Yep!"
-    b4_tp "Yep!"
+    b4_tp "Да!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2607
 translate rus asami_tits_2nd_phase_6515465e:
 
     # "after waiting for half an hour Asami arrives."
-    "after waiting for half an hour Asami arrives."
+    "после получасового ожидания прибывает Асами."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2610
 translate rus asami_tits_2nd_phase_d9d5876a:
 
     # b4_tn "Did you already talk to your dad about this photo thing?"
-    b4_tn "Did you already talk to your dad about this photo thing?"
+    b4_tn "Ты уже говорила со своим отцом об этой фотографии?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2611
 translate rus asami_tits_2nd_phase_669d4651:
 
     # "asami" "... Not yet."
-    "asami" "... Not yet."
+    "Асами" "... Ещё нет."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2612
 translate rus asami_tits_2nd_phase_f37a28cf:
 
     # b4_tn "Does the photo still exist?"
-    b4_tn "Does the photo still exist?"
+    b4_tn "Фотография все еще существует?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2613
 translate rus asami_tits_2nd_phase_b8b54098:
 
     # "asami" "I had an accident and it got burned.."
-    "asami" "I had an accident and it got burned.."
+    "Асами" "Я попала в аварию и она сгорела.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2614
 translate rus asami_tits_2nd_phase_adb77020:
 
     # b4_tn "Awh.. that's really unfortunate, but luckily I had another copy! (a longbox filled with them)"
-    b4_tn "Awh.. that's really unfortunate, but luckily I had another copy! (a longbox filled with them)"
+    b4_tn "Ах.. это действительно печально, но, к счастью, у меня был еще один экземпляр! (длинный ящик, наполненный ими)"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2615
 translate rus asami_tits_2nd_phase_10407449:
 
     # "asami" "...and you like to-"
-    "asami" "...and you like to-"
+    "Асами" "...и тебе это нравится-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2616
 translate rus asami_tits_2nd_phase_da869643:
 
     # b4_tn "See you shake your tits in exchange for the photo."
-    b4_tn "See you shake your tits in exchange for the photo."
+    b4_tn "Видеть вас встряхнуть ваши сиськи в обмен на фото."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2619
 translate rus asami_tits_2nd_phase_cd27c7ef:
 
     # "asami" "..okay."
-    "asami" "..okay."
+    "asami" "..Окей,хорошо."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2623
 translate rus asami_tits_2nd_phase_c67306ee:
 
     # "jinora" "Hey Asami! I didn't know you were here!"
-    "jinora" "Hey Asami! I didn't know you were here!"
+    "Джинора" "Эй, Асами! Я не знала, что ты здесь!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2624
 translate rus asami_tits_2nd_phase_11e705bc:
 
     # "asami" "Ohh, eh Hi."
-    "asami" "Ohh, eh Hi."
+    "Асами" "О, привет."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2625
 translate rus asami_tits_2nd_phase_9f39d621:
 
     # "jinora" "Are you looking for Korra?"
-    "jinora" "Are you looking for Korra?"
+    "Джинора" "Вы ищете Корру?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2626
 translate rus asami_tits_2nd_phase_d9949622:
 
     # "asami" "Eh.. yeah... that's it."
-    "asami" "Eh.. yeah... that's it."
+    "Асами" "Эх.. да... вот и все."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2627
 translate rus asami_tits_2nd_phase_40e0c7bb:
 
     # "jinora" "I'll go get her for you!"
-    "jinora" "I'll go get her for you!"
+    "Джинора" "Я пойду и приведу ее к тебе!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2628
 translate rus asami_tits_2nd_phase_ccb4a04a:
 
     # "asami" "Thanks but that's really not necessary. "
-    "asami" "Thanks but that's really not necessary. "
+    "Асами" "Спасибо но это действительно не обязательно. "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2630
 translate rus asami_tits_2nd_phase_3854f5d2:
 
     # "jinora" "Don't worry it's no trouble at all!"
-    "jinora" "Don't worry it's no trouble at all!"
+    "Джинора" "Не волнуйся это совсем не проблема!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2635
 translate rus asami_tits_2nd_phase_07e39d8b:
 
     # "asami" "So I guess we should do this sometime later?"
-    "asami" "So I guess we should do this sometime later?"
+    "Асами" "Так что я думаю, мы должны сделать это как-нибудь позже?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2636
 translate rus asami_tits_2nd_phase_f029bc53:
 
     # b4_tn "No need, we have enough time before Jinora gets down, finds korra and Korra gets up here."
-    b4_tn "No need, we have enough time before Jinora gets down, finds korra and Korra gets up here."
+    b4_tn "Нет необходимости, у нас достаточно времени, прежде чем Джинора спустится вниз, найдет Корру и Корра поднимется сюда."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2638
 translate rus asami_tits_2nd_phase_c3bc830f:
 
     # b4_tn "Show them titties!"
-    b4_tn "Show them titties!"
+    b4_tn "Покажи им сиськи!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2643
 translate rus asami_tits_2nd_phase_e0d28ea5:
 
     # b4_tn "Oh yeah, still looking nice."
-    b4_tn "Oh yeah, still looking nice."
+    b4_tn "О да, все еще хорошо выглядишь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2646
 translate rus asami_tits_2nd_phase_0b84e857:
 
     # b4_tn "Korra would love this."
-    b4_tn "Korra would love this."
+    b4_tn "Корре бы это понравилось."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2647
 translate rus asami_tits_2nd_phase_a64bbb6f:
 
     # "asami" "I kinda got that the last time. She was pushing that tongue of hers in my mouth with enough force to scare me."
-    "asami" "I kinda got that the last time. She was pushing that tongue of hers in my mouth with enough force to scare me."
+    "Асами" "Я вроде как поняла это в прошлый раз. Она засунула свой язык мне в рот с такой силой, что я испугалась."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2648
 translate rus asami_tits_2nd_phase_9d418e8c:
 
     # b4_tn "Yeah she's really not clued in on the whole gentle touch business."
-    b4_tn "Yeah she's really not clued in on the whole gentle touch business."
+    b4_tn "Да она действительно не в курсе всего этого дела с нежными прикосновениями."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2649
 translate rus asami_tits_2nd_phase_5a4bc1fc:
