@@ -3010,415 +3010,415 @@ translate rus korra_protein_0e6d978d:
 translate rus korra_protein_3d1f6053:
 
     # b4_tn "I mean it's a super special reward for Korra."
-    b4_tn "I mean it's a super special reward for Korra."
+    b4_tn "Я имею в виду это супер специальная награда для Корры."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2108
 translate rus korra_protein_1ebb7c62:
 
     # b4_tn "Because she did really well during training, so..."
-    b4_tn "Because she did really well during training, so..."
+    b4_tn "Потому что она очень хорошо училась во время тренировок, так что..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2109
 translate rus korra_protein_6f62a435:
 
     # "jinora" "I also try my best! Always!"
-    "jinora" "I also try my best! Always!"
+    "Джинора" "Я тоже стараюсь изо всех сил! Всегда!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2110
 translate rus korra_protein_f36282ab:
 
     # b4_tn "Trust me, you're better off not tasting this."
-    b4_tn "Trust me, you're better off not tasting this."
+    b4_tn "Поверь мне, тебе лучше этого не пробовать."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2112
 translate rus korra_protein_35454878:
 
     # "Jinora is clearly unsatisfied with your reaction."
-    "Jinora is clearly unsatisfied with your reaction."
+    "Джинора явно недовольна твоей реакцией."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2113
 translate rus korra_protein_0a04e891:
 
     # b4_tn "You're really into this whole airbender thing, right?"
-    b4_tn "You're really into this whole airbender thing, right?"
+    b4_tn "Ты ведь действительно увлекаешься магией воздуха, да?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2114
 translate rus korra_protein_893a5ddd:
 
     # "jinora" "Yes!"
-    "jinora" "Yes!"
+    "Джинора" "Да!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2115
 translate rus korra_protein_bcf5c4f6:
 
     # b4_tn "How about this. When it's time to get your own arrow tattoos.. I'll back you up on it."
-    b4_tn "How about this. When it's time to get your own arrow tattoos.. I'll back you up on it."
+    b4_tn "Как насчет этого? Когда пришло время, чтобы получить свои собственные татуировки стрелки.. Я поддержу тебя в этом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2116
 translate rus korra_protein_cf15ef79:
 
     # b4_tn "Even when you're still clearly too young."
-    b4_tn "Even when you're still clearly too young."
+    b4_tn "Даже когда ты еще слишком молода."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2118
 translate rus korra_protein_9f3230e3:
 
     # "jinora" "Really?"
-    "jinora" "Really?"
+    "Джинора" "Правда?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2120
 translate rus korra_protein_1709c705:
 
     # "jinora" "AWESOME!!"
-    "jinora" "AWESOME!!"
+    "Джинора" "Потрясающе!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2121
 translate rus korra_protein_1540b047:
 
     # b4_tn "Just to be clear, you're STILL nowhere near the tattoo level. But when you are I'll help you convince your mom."
-    b4_tn "Just to be clear, you're STILL nowhere near the tattoo level. But when you are I'll help you convince your mom."
+    b4_tn "Просто для ясности, ты все еще далеко не на уровне татуировки. Но когда ты будешь готова, Я помогу тебе убедить твою маму."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2122
 translate rus korra_protein_90071cf4:
 
     # "jinora" "I'm going to train twice as hard!"
-    "jinora" "I'm going to train twice as hard!"
+    "Джинора" "Я буду тренироваться в два раза усерднее!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2123
 translate rus korra_protein_23040a9c:
 
     # b4_tn "...eehhh, sure?"
-    b4_tn "...eehhh, sure?"
+    b4_tn "...эээ, конечно?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2124
 translate rus korra_protein_0dcf2c27:
 
     # "jinora" "I'm going to train right now!"
-    "jinora" "I'm going to train right now!"
+    "Джинора" "Я собираюсь тренироваться прямо сейчас!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2125
 translate rus korra_protein_c8b87ae2:
 
     # b4_tn "Oh and you can't tell anyone about our deal."
-    b4_tn "Oh and you can't tell anyone about our deal."
+    b4_tn "И ты никому не можешь рассказать о нашей сделке."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2126
 translate rus korra_protein_f89cc3d3:
 
     # "jinora" "Okay!"
-    "jinora" "Okay!"
+    "Джинора" "Окей!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2133
 translate rus korra_protein_dca691e1:
 
     # b4_tn "It's not like it can do any harm. I think."
-    b4_tn "It's not like it can do any harm. I think."
+    b4_tn "Это не может причинить никакого вреда. Я думаю."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2134
 translate rus korra_protein_566980df:
 
     # b4_tn "Still, I'm going to regret this..."
-    b4_tn "Still, I'm going to regret this..."
+    b4_tn "И все же я буду сожалеть об этом..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2135
 translate rus korra_protein_4a8b5e41:
 
     # b4_tn "(and possibly go to hell)"
-    b4_tn "(and possibly go to hell)"
+    b4_tn "(и, возможно, отправится в ад)"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2136
 translate rus korra_protein_f80b8bb9:
 
     # b4_tn "Here you go."
-    b4_tn "Here you go."
+    b4_tn "Вот ты где."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2137
 translate rus korra_protein_dce7fc55:
 
     # "jinora" "Thanks!"
-    "jinora" "Thanks!"
+    "Джинора" "Спасибо!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2144
 translate rus korra_protein_b13301b7:
 
     # "glug glug."
-    "glug glug."
+    "буль буль ."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2147
 translate rus korra_protein_b523afe4:
 
     # "jinora" "Yum! Creamy!"
-    "jinora" "Yum! Creamy!"
+    "Джинора" "Ням! Сливочный!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2154
 translate rus korra_protein_84b9c01e:
 
     # b4_tn "Oh.. man... Hey you said a few sips!"
-    b4_tn "Oh.. man... Hey you said a few sips!"
+    b4_tn "О.. мужчина... Эй, ты сказал несколько глотков!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2155
 translate rus korra_protein_969e0c17:
 
     # b4_tn "Stop that damn it!"
-    b4_tn "Stop that damn it!"
+    b4_tn "Прекрати, черт возьми!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2158
 translate rus korra_protein_acc4d9f8:
 
     # b4_tn "Damn you drank a lot..."
-    b4_tn "Damn you drank a lot..."
+    b4_tn "Черт, ты много выпил..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2159
 translate rus korra_protein_499ecb6c:
 
     # "jinora" "Sorry!"
-    "jinora" "Sorry!"
+    "Джинора" "Прости!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2160
 translate rus korra_protein_625f936e:
 
     # b4_tn "Ah, forget it I think I can make some more. Now go do something elsewhere."
-    b4_tn "Ah, forget it I think I can make some more. Now go do something elsewhere."
+    b4_tn "Ах, забудьте об этом я думаю, что могу сделать еще немного. А теперь иди и займись чем-нибудь другим."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2161
 translate rus korra_protein_e8139d14:
 
     # "jinora" "Okay."
-    "jinora" "Okay."
+    "Джинора" "Окей."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2167
 translate rus korra_protein_b92febde:
 
     # b4_tn "Okay, here I go again."
-    b4_tn "Okay, here I go again."
+    b4_tn "Хорошо, я снова здесь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2170
 translate rus korra_protein_860d74ac:
 
     # b4_tx "Hnnnng.. !"
-    b4_tx "Hnnnng.. !"
+    b4_tx "Хннннг.. !"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2180
 translate rus korra_protein_7356b75d:
 
     # b4_tn "Finally, now let's find Korra before anyone else shows up."
-    b4_tn "Finally, now let's find Korra before anyone else shows up."
+    b4_tn "Наконец, теперь давайте найдем Корру, прежде чем кто-нибудь еще появится."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2192
 translate rus korra_protein_1580a468:
 
     # b4_tn "Hey Korra, I was thinking....."
-    b4_tn "Hey Korra, I was thinking....."
+    b4_tn "Эй, Корра, я тут подумал....."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2193
 translate rus korra_protein_92860b72:
 
     # b4_kn "I didn't do it."
-    b4_kn "I didn't do it."
+    b4_kn "Я этого не делал."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2194
 translate rus korra_protein_b6b5beee:
 
     # b4_tn "What?"
-    b4_tn "What?"
+    b4_tn "Что?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2195
 translate rus korra_protein_ff46fda8:
 
     # b4_kn "I meant, what's up dude."
-    b4_kn "I meant, what's up dude."
+    b4_kn "Я имел в виду, что случилось чувак."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2196
 translate rus korra_protein_dd744b0f:
 
     # b4_tn "I got something for you."
-    b4_tn "I got something for you."
+    b4_tn "У меня есть кое-что для тебя."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2197
 translate rus korra_protein_cadfb916:
 
     # b4_kn "Is it chores?"
-    b4_kn "Is it chores?"
+    b4_kn "Это работа по дому?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2198
 translate rus korra_protein_4cb92a71:
 
     # b4_tn "I can give you those too... but instead I'll give you this."
-    b4_tn "I can give you those too... but instead I'll give you this."
+    b4_tn "Я могу дать тебе и это тоже... но вместо этого я дам тебе вот это."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2201
 translate rus korra_protein_73bdba5d:
 
     # b4_kn "Eh, what's that?"
-    b4_kn "Eh, what's that?"
+    b4_kn "А, что это такое?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2202
 translate rus korra_protein_3dbac2d1:
 
     # b4_tn "With an airbenders' diet, I guessed such an energetic girl needs more than the usual amount of protein."
-    b4_tn "With an airbenders' diet, I guessed such an energetic girl needs more than the usual amount of protein."
+    b4_tn "С диетой магов воздуха, я предположил, что такая энергичная девушка нуждается в большем количестве белка, чем обычно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2203
 translate rus korra_protein_055848b7:
 
     # b4_tn "It's a protein shake."
-    b4_tn "It's a protein shake."
+    b4_tn "Это протеиновый коктейль ."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2206
 translate rus korra_protein_82ee56ae:
 
     # b4_kn "Oh.. eh.. thanks?"
-    b4_kn "Oh.. eh.. thanks?"
+    b4_kn "О.. эх.. спасибо?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2207
 translate rus korra_protein_cec9eeaf:
 
     # b4_kn "The stuff Pema makes is kind of bland."
-    b4_kn "The stuff Pema makes is kind of bland."
+    b4_kn "Материал, который делает Пема, довольно мягкий."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2208
 translate rus korra_protein_bf64bf38:
 
     # b4_tn "Oh, cool, I'll let her know."
-    b4_tn "Oh, cool, I'll let her know."
+    b4_tn "О, круто, я дам ей знать."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2209
 translate rus korra_protein_94cf09fe:
 
     # b4_kn "Yeahhh, let's not. Pema is always riding my ass about one thing or another."
-    b4_kn "Yeahhh, let's not. Pema is always riding my ass about one thing or another."
+    b4_kn "Да, давай не будем. Пема всегда катает меня на заднице по тому или иному поводу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2210
 translate rus korra_protein_41c71919:
 
     # b4_kn "She really doesn't need more of an incentive to dislike me."
-    b4_kn "She really doesn't need more of an incentive to dislike me."
+    b4_kn "Она действительно не нуждается в большем стимуле, чтобы не любить меня."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2213
 translate rus korra_protein_b900c09e:
 
     # b4_tn "Oh I thought you two got along just fine."
-    b4_tn "Oh I thought you two got along just fine."
+    b4_tn "О, я думал, вы двое прекрасно ладите."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2214
 translate rus korra_protein_082f7d08:
 
     # b4_kn "What's in this anyway?"
-    b4_kn "What's in this anyway?"
+    b4_kn "И вообще, что в этом?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2215
 translate rus korra_protein_d1bdb38a:
 
     # b4_tn "Just your average stuff plus a secret airbender ingredient."
-    b4_tn "Just your average stuff plus a secret airbender ingredient."
+    b4_tn "Просто ваш средний материал плюс секретный ингредиент мага воздуха."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2216
 translate rus korra_protein_29476eff:
 
     # b4_kn "Normally I'd say you're messing with me and put something rancid in there, but it kinda makes sense."
-    b4_kn "Normally I'd say you're messing with me and put something rancid in there, but it kinda makes sense."
+    b4_kn "Обычно я бы сказал, что вы шутите со мной и кладете туда что-то прогорклое, но это имеет смысл."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2217
 translate rus korra_protein_2d5929a2:
 
     # b4_tn "It does?"
-    b4_tn "It does?"
+    b4_tn "Оно делает?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2218
 translate rus korra_protein_064cca8a:
 
     # b4_kn "Aren't you airbender monks vegetarians or something? It stands to reason you'd need something extra to suplement the protein lack."
-    b4_kn "Aren't you airbender monks vegetarians or something? It stands to reason you'd need something extra to suplement the protein lack."
+    b4_kn "Разве вы не вегетарианцы, монахи-маги воздуха или что-то в этом роде? Само собой разумеется, вам понадобится что-то дополнительное, чтобы восполнить недостаток белка."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2219
 translate rus korra_protein_e1fb57bb:
 
     # b4_tn "Ehh yeah that's it."
-    b4_tn "Ehh yeah that's it."
+    b4_tn "Эхх вот это дааа."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2220
 translate rus korra_protein_2dcab011:
 
     # b4_kn "Well, let's give it a taste test. It's probably going to taste horrible."
-    b4_kn "Well, let's give it a taste test. It's probably going to taste horrible."
+    b4_kn "Ну, давайте попробуем его на вкус. Это, вероятно, будет ужасно на вкус."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2223
 translate rus korra_protein_5c39b844:
 
     # "Glug glugh glugh."
-    "Glug glugh glugh."
+    "Буль-буль-буль."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2224
 translate rus korra_protein_b9bfcfc5:
 
     # "You watch as Korra let's your secret sauce glide down her throat."
-    "You watch as Korra let's your secret sauce glide down her throat."
+    "Ты смотришь, как Корра позволяет твоему секретному соусу скользить по ее горлу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2227
 translate rus korra_protein_7a6260c6:
 
     # b4_tn "So? How is it?"
-    b4_tn "So? How is it?"
+    b4_tn "И что? Как это?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2228
 translate rus korra_protein_126585c4:
 
     # b4_kn "Creamy! It reallys slides down like it wants to get inside!"
-    b4_kn "Creamy! It reallys slides down like it wants to get inside!"
+    b4_kn "Сливочный! Он действительно скользит вниз, как будто хочет попасть внутрь!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2229
 translate rus korra_protein_8b9533fd:
 
     # b4_kn "I was mentally prepared to have to swallow some horrid crud, but it's actually good!"
-    b4_kn "I was mentally prepared to have to swallow some horrid crud, but it's actually good!"
+    b4_kn "Я был морально готов проглотить какую-нибудь ужасную гадость, но на самом деле это хорошо!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2232
 translate rus korra_protein_1b85d8e1:
 
     # b4_kn "*Glugh* you could probably... *glugh* sell this stuff!"
-    b4_kn "*Glugh* you could probably... *glugh* sell this stuff!"
+    b4_kn "*Glugh* возможно, вы могли бы... *glugh* продать это барахло!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2233
 translate rus korra_protein_7ca2ee0c:
 
     # b4_tn "Yeah in jars to an entire southern watertribe village."
-    b4_tn "Yeah in jars to an entire southern watertribe village."
+    b4_tn "Да, баночки на весь Южный поселок."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2236
 translate rus korra_protein_a600f1a8:
 
     # b4_kn "That's odly specific... but yeah I guess."
-    b4_kn "That's odly specific... but yeah I guess."
+    b4_kn "Это очень специфично... Но да, я думаю."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2237
 translate rus korra_protein_3917f52e:
 
     # b4_kn "Why? do you have any plans to really market this stuff?"
-    b4_kn "Why? do you have any plans to really market this stuff?"
+    b4_kn "Почему? у вас есть какие-либо планы, чтобы действительно продать этот материал?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2239
 translate rus korra_protein_b1c66a0e:
 
     # b4_tn "I'm awesome but I doubt I can rub out enough to make this a real enterprise."
-    b4_tn "I'm awesome but I doubt I can rub out enough to make this a real enterprise."
+    b4_tn "Я потрясающий, но я сомневаюсь, что смогу стереть достаточно, чтобы сделать это реальным предприятием."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2243
 translate rus korra_protein_58631d96:
 
     # b4_kn "rub... out?"
-    b4_kn "rub... out?"
+    b4_kn "тереть... из?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2244
 translate rus korra_protein_614b6681:
 
     # b4_tn "It's sperm."
-    b4_tn "It's sperm."
+    b4_tn "Это сперма."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2245
 translate rus korra_protein_0eef828c:
 
     # b4_tn "The secret ingredient is sperm and you've just been gulping down my seed like it's the best thing in the world."
-    b4_tn "The secret ingredient is sperm and you've just been gulping down my seed like it's the best thing in the world."
+    b4_tn "Секретный ингредиент-сперма, и ты только что проглотила мое семя, как будто это лучшая вещь в мире."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2252
 translate rus korra_protein_ca5d2cb4:
@@ -3430,37 +3430,37 @@ translate rus korra_protein_ca5d2cb4:
 translate rus korra_protein_9c42ffd4:
 
     # b4_kn "What the fuck Tenzin!?"
-    b4_kn "What the fuck Tenzin!?"
+    b4_kn "Какого хуя Тензин!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2256
 translate rus korra_protein_7fdc4897:
 
     # b4_ts "Hahaha, you're so gullible!"
-    b4_ts "Hahaha, you're so gullible!"
+    b4_ts "Хахаха, ты такой доверчивый!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2257
 translate rus korra_protein_0d378541:
 
     # b4_ts "And clearly not far enough with your training if you let this disturb you."
-    b4_ts "And clearly not far enough with your training if you let this disturb you."
+    b4_ts "И явно недостаточно далеко с вашей подготовкой, если вы позволите этому беспокоить вас."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2259
 translate rus korra_protein_925b521a:
 
     # b4_kn "So it's not sperm? You really had me freaking out! That wasn't funny!"
-    b4_kn "So it's not sperm? You really had me freaking out! That wasn't funny!"
+    b4_kn "Значит, это не сперма? Ты действительно меня напугал! Это было не смешно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2260
 translate rus korra_protein_510455b2:
 
     # b4_ts "Nah, it was awesome. You going to finish that or did I scare you too much?"
-    b4_ts "Nah, it was awesome. You going to finish that or did I scare you too much?"
+    b4_ts "Нет, это было потрясающе. Ты собираешься закончить это или я слишком сильно напугал тебя?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2262
 translate rus korra_protein_6c3fc36c:
 
     # b4_kn "You? Scaring me!? In your dreams!"
-    b4_kn "You? Scaring me!? In your dreams!"
+    b4_kn "Ты? Пугает меня!? В твоих мечтах!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2265
 translate rus korra_protein_70e4d944:
@@ -3472,7 +3472,7 @@ translate rus korra_protein_70e4d944:
 translate rus korra_protein_6cbcd92d:
 
     # b4_kn "See? No problem whatsoever."
-    b4_kn "See? No problem whatsoever."
+    b4_kn "Видишь? Никаких проблем."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2269
 translate rus korra_protein_ca147715:
@@ -3628,139 +3628,139 @@ translate rus asami_tits_340f411d:
 translate rus asami_tits_f46ba88e:
 
     # b4_tp "Hey Asami, this is Tenzin. Can I get you to come over?"
-    b4_tp "Hey Asami, this is Tenzin. Can I get you to come over?"
+    b4_tp "Эй, Асами, это Тензин. Могу я попросить тебя приехать?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2347
 translate rus asami_tits_14cdf98a:
 
     # "asami" "What? Tenzin? Why?"
-    "asami" "What? Tenzin? Why?"
+    "Асами" "Что? Тензин? Почему??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2348
 translate rus asami_tits_f55d57bc:
 
     # b4_tp "I have a photograph of your father and.... well you better come over because this could effect Future industries."
-    b4_tp "I have a photograph of your father and.... well you better come over because this could effect Future industries."
+    b4_tp "У меня есть фотография вашего отца и.... ну вам лучше приехать потому что это может повлиять на будущие отрасли промышленности."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2349
 translate rus asami_tits_1cf3e2ae:
 
     # "asami" "Then shouldn't you talk to my father instead?"
-    "asami" "Then shouldn't you talk to my father instead?"
+    "Асами" "Тогда почему бы тебе не поговорить с моим отцом?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2350
 translate rus asami_tits_09cd67ae:
 
     # b4_tp "Saying more on the phone could be dangerous."
-    b4_tp "Saying more on the phone could be dangerous."
+    b4_tp "Говорить больше по телефону может быть опасно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2351
 translate rus asami_tits_16c8dffb:
 
     # "asami" "Okay... where are you?"
-    "asami" "Okay... where are you?"
+    "Асами" "Окей... где ты?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2352
 translate rus asami_tits_aff7b471:
 
     # b4_tp "Just come to the top of the tower on air temple island."
-    b4_tp "Just come to the top of the tower on air temple island."
+    b4_tp "Просто поднимись на вершину башни храма воздуха на острове."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2354
 translate rus asami_tits_66345dee:
 
     # "NOTE: I'd imagine tenzin getting the photos from the dumb equalizer guards by accident while he was wearing the amon mask or something."
-    "NOTE: I'd imagine tenzin getting the photos from the dumb equalizer guards by accident while he was wearing the amon mask or something."
+    "NOTE: Я бы предположил, что Тензин получил фотографии от тупых охранников эквалайзера случайно, когда он носил маску Амона или что-то в этом роде."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2356
 translate rus asami_tits_6515465e:
 
     # "after waiting for half an hour Asami arrives."
-    "after waiting for half an hour Asami arrives."
+    "после ожидания в течение получаса асами прибывает."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2358
 translate rus asami_tits_a15a858e:
 
     # "asami" "Okay. Let's see this photograph."
-    "asami" "Okay. Let's see this photograph."
+    "Асами" "Окей. Давайте посмотрим на эту фотографию."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2359
 translate rus asami_tits_cf9aa103:
 
     # "You show her the photo of her Dad, the owner of Future industries together with Amon."
-    "You show her the photo of her Dad, the owner of Future industries together with Amon."
+    "Вы показываете ей фотографию ее отца, владельца компании Future industries вместе с Амоном."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2361
 translate rus asami_tits_c7aa6385:
 
     # "asami" "This...this can't be!"
-    "asami" "This...this can't be!"
+    "Асами" "Это...этого не может быть!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2362
 translate rus asami_tits_55a93dbd:
 
     # b4_tn "Yeah hard to believe but it looks like your dad's financing a terrorist organisation."
-    b4_tn "Yeah hard to believe but it looks like your dad's financing a terrorist organisation."
+    b4_tn "Да трудно поверить но похоже твой отец финансирует террористическую организацию."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2363
 translate rus asami_tits_99859420:
 
     # b4_tn "Man, what's the world coming to."
-    b4_tn "Man, what's the world coming to."
+    b4_tn "Боже, куда катится этот мир?."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2364
 translate rus asami_tits_5ab45002:
 
     # "asami" "I'm sure this is tempered with somehow."
-    "asami" "I'm sure this is tempered with somehow."
+    "asami" "Я уверен, что это как-то смягчается."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2365
 translate rus asami_tits_e05f7ba5:
 
     # "asami" "Let me have that photo."
-    "asami" "Let me have that photo."
+    "Асами" "Дай мне эту фотографию."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2366
 translate rus asami_tits_4b4bc506:
 
     # b4_tn "Look asami, I understand this is difficult for you to accept, but we can't just sweep this under the rug."
-    b4_tn "Look asami, I understand this is difficult for you to accept, but we can't just sweep this under the rug."
+    b4_tn "Слушай асами, я понимаю, что тебе трудно это принять, но мы не можем просто взять и забыть об этом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2367
 translate rus asami_tits_a3122edd:
 
     # "asami" "I could pay you handsomely for it."
-    "asami" "I could pay you handsomely for it."
+    "Асами" "Я могла бы щедро заплатить тебе за это."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2368
 translate rus asami_tits_c05ca37c:
 
     # b4_tn "I can't take your money...(wait, why can't I? I love money!)"
-    b4_tn "I can't take your money...(wait, why can't I? I love money!)"
+    b4_tn "Я не могу взять твои деньги...(Подождите, почему я не могу? Я люблю деньги!)"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2369
 translate rus asami_tits_6db03979:
 
     # "asami" "Because your position as councilman?"
-    "asami" "Because your position as councilman?"
+    "Асами" "Потому что ваша должность советника?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2370
 translate rus asami_tits_51e7a25e:
 
     # "asami" "If unsavory financial ties between Future industries and you would be uncovered...."
-    "asami" "If unsavory financial ties between Future industries and you would be uncovered...."
+    "Асами" "Если бы были раскрыты сомнительные финансовые связи между будущими отраслями промышленности и вами...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2371
 translate rus asami_tits_dcf9e80d:
 
     # b4_tn "...yes..(I'm taking Tenzin's body for a ride, but I don't want to burn it to the ground.)"
-    b4_tn "...yes..(I'm taking Tenzin's body for a ride, but I don't want to burn it to the ground.)"
+    b4_tn "...да..(Я везу тело Тензина на прогулку, но не хочу сжигать его дотла.)"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2373
 translate rus asami_tits_c53223c3:
 
     # "asami" "..okay. Then what? There must be something I can do to change your mind."
-    "asami" "..okay. Then what? There must be something I can do to change your mind."
+    "Асами" "..окей. А что потом? Должно же быть что-то, что я могу сделать, чтобы заставить тебя передумать.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2374
 translate rus asami_tits_c8752334:
