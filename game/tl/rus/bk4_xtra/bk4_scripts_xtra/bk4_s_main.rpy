@@ -4,49 +4,49 @@
 translate rus b4_s_main_6a6205e7:
 
     # b4_sp "Okay, time for our last trip."
-    b4_sp "Okay, time for our last trip."
+    b4_sp "Ладно, время для нашей последней поездки."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:86
 translate rus b4_s_main_62a425b5:
 
     # b4_sp "Are you ready?"
-    b4_sp "Are you ready?"
+    b4_sp "Вы готовы??"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:87
 translate rus b4_s_main_c9f23be0:
 
     # b4_yn "man, have i ever been ready?"
-    b4_yn "man, have i ever been ready?"
+    b4_yn "Чувак, я когда-нибудь был готов?"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:88
 translate rus b4_s_main_75458c5b:
 
     # b4_yn "i miss my computer."
-    b4_yn "i miss my computer."
+    b4_yn "я скучаю по своему компьютеру."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:89
 translate rus b4_s_main_739d293e:
 
     # b4_yn "you know what a computer is?"
-    b4_yn "you know what a computer is?"
+    b4_yn "вы знаете, что такое компьютер?"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:90
 translate rus b4_s_main_05864a85:
 
     # b4_yn "it's a magic box where I can play games and look at sluts."
-    b4_yn "it's a magic box where I can play games and look at sluts."
+    b4_yn "это волшебный ящик, где я могу играть в игры и смотреть на шлюх."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:91
 translate rus b4_s_main_711f5b46:
 
     # b4_sp "but... you do that {i}now{/i}."
-    b4_sp "but... you do that {i}now{/i}."
+    b4_sp "но... ты это сделаешь {i}сейчас{/i}."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:92
 translate rus b4_s_main_7404e346:
 
     # b4_ys "yeah, but i have to work for it."
-    b4_ys "yeah, but i have to work for it."
+    b4_ys "да, но я должен работать для этого."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:93
 translate rus b4_s_main_88a90407:
@@ -58,19 +58,19 @@ translate rus b4_s_main_88a90407:
 translate rus b4_s_main_843c4e28:
 
     # b4_sp "....let's play a game."
-    b4_sp "....let's play a game."
+    b4_sp "....давай поиграем в игру."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:95
 translate rus b4_s_main_f82070ab:
 
     # b4_yn "okay..."
-    b4_yn "okay..."
+    b4_yn "Окей..."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:96
 translate rus b4_s_main_152628fd:
 
     # b4_sp "how many fucks am i holding?"
-    b4_sp "how many fucks am i holding?"
+    b4_sp "сколько у меня в руках уебков?"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:97
 translate rus b4_s_main_f64d937f:
@@ -82,109 +82,109 @@ translate rus b4_s_main_f64d937f:
 translate rus b4_s_main_cd581ba0:
 
     # b4_sp "come on, play."
-    b4_sp "come on, play."
+    b4_sp "Давай, играй."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:99
 translate rus b4_s_main_d9661f3a:
 
     # b4_yn "....i don't want to."
-    b4_yn "....i don't want to."
+    b4_yn "....Я не хочу."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:100
 translate rus b4_s_main_cf063e6d:
 
     # b4_sp "it'll be fun."
-    b4_sp "it'll be fun."
+    b4_sp "это будет весело."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:101
 translate rus b4_s_main_d1e5c681:
 
     # b4_sp "how many?"
-    b4_sp "how many?"
+    b4_sp "сколько?"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:102
 translate rus b4_s_main_3cae8d01:
 
     # b4_yn "....none."
-    b4_yn "....none."
+    b4_yn "....нет."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:103
 translate rus b4_s_main_2476e182:
 
     # b4_sp "none! that's right!"
-    b4_sp "none! that's right!"
+    b4_sp "нет! вот именно!"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:104
 translate rus b4_s_main_b7b71cd3:
 
     # b4_sp "that's how many fucks i can give!"
-    b4_sp "that's how many fucks i can give!"
+    b4_sp "вот сколько Трахов я могу дать!"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:105
 translate rus b4_s_main_8da04d85:
 
     # b4_yn "this is a terrible game."
-    b4_yn "this is a terrible game."
+    b4_yn "это ужасная игра."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:106
 translate rus b4_s_main_24a7f1ab:
 
     # b4_sp "once again, count the fucks!"
-    b4_sp "once again, count the fucks!"
+    b4_sp "еще раз пересчитайте долбоебов!"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:107
 translate rus b4_s_main_c069c715:
 
     # b4_yn "....you've gotten sassier."
-    b4_yn "....you've gotten sassier."
+    b4_yn "....ты стал нахальнее."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:108
 translate rus b4_s_main_3ba63258:
 
     # b4_sp "your culture is... influencial."
-    b4_sp "your culture is... influencial."
+    b4_sp "это ваша культура... влиятельным."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:109
 translate rus b4_s_main_97ab1101:
 
     # b4_yn "alright, well, since I'm not ready, and you don't care...."
-    b4_yn "alright, well, since I'm not ready, and you don't care...."
+    b4_yn "ну ладно, раз я не готова, и тебе все равно...."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:110
 translate rus b4_s_main_542dabb2:
 
     # b4_yn "Whose body am I going to possess this time?"
-    b4_yn "Whose body am I going to possess this time?"
+    b4_yn "Чьим телом я буду обладать на этот раз?"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:111
 translate rus b4_s_main_0a6646b3:
 
     # b4_sp "You'll see."
-    b4_sp "You'll see."
+    b4_sp "Вот увидишь."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:112
 translate rus b4_s_main_b30a6914:
 
     # b4_ya "No, no, no."
-    b4_ya "No, no, no."
+    b4_ya "Нет, нет, нет."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:113
 translate rus b4_s_main_f44faf5e:
 
     # b4_ya "I want a name and description first."
-    b4_ya "I want a name and description first."
+    b4_ya "Сначала мне нужно имя и описание."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:114
 translate rus b4_s_main_e03f44f7:
 
     # b4_sp "Do you like watertribe girls?"
-    b4_sp "Do you like watertribe girls?"
+    b4_sp "Тебе нравятся девушки племени Воды?"
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:115
 translate rus b4_s_main_9b90631b:
 
     # b4_ys "Yeah, but what has that got to do with..."
-    b4_ys "Yeah, but what has that got to do with..."
+    b4_ys "Да, но какое это имеет отношение..."
 
 # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:122
 translate rus b4_s_main_3b430c7e:
@@ -31721,4 +31721,3 @@ translate rus strings:
     # game/bk4_xtra/bk4_scripts_xtra/bk4_s_main.rpy:11524
     old "Wave some cool air towards me."
     new "Wave some cool air towards me."
-
