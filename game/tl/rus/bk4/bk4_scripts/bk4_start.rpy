@@ -7108,127 +7108,127 @@ translate rus pema_handjob_3a72b452:
 translate rus pema_handjob_0be04517:
 
     # b4_pn "Oooh, what's this? Didn't you say your erection was ruined?"
-    b4_pn "Oooh, what's this? Didn't you say your erection was ruined?"
+    b4_pn "Оооо, что это? Разве ты не говорил, что твоя эрекция разрушена?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3788
 translate rus pema_handjob_03835da5:
 
     # b4_tn "I did.. but then I looked at those big fat tits of yours and it was cured."
-    b4_tn "I did.. but then I looked at those big fat tits of yours and it was cured."
+    b4_tn "Я сделал.. но потом я посмотрела на твои большие толстые сиськи и это было вылечено."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3791
 translate rus pema_handjob_d0a179d7:
 
     # b4_pn "Is that so?"
-    b4_pn "Is that so?"
+    b4_pn "Так ли это??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3792
 translate rus pema_handjob_2bc35055:
 
     # b4_pn "Do you like my big tits? Even after all these years?"
-    b4_pn "Do you like my big tits? Even after all these years?"
+    b4_pn "Тебе нравятся мои большие сиськи? Даже после стольких лет?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3793
 translate rus pema_handjob_ead8ed92:
 
     # b4_tn "Time has nothing to do with it. They're big, round and squishy. Hanging under a lovely face. What's not to like?"
-    b4_tn "Time has nothing to do with it. They're big, round and squishy. Hanging under a lovely face. What's not to like?"
+    b4_tn "Время здесь ни при чем. Они большие, круглые и мягкие. Висит под милым личиком. Что тут не нравится?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3794
 translate rus pema_handjob_5d9c0502:
 
     # "Pema starts stroking your cock slowly."
-    "Pema starts stroking your cock slowly."
+    "Пема начинает медленно поглаживать твой член."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3798
 translate rus pema_handjob_1264a6ed:
 
     # b4_pn "You've always been quite the charmer."
-    b4_pn "You've always been quite the charmer."
+    b4_pn "Ты всегда была очаровательна."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3801
 translate rus pema_handjob_2ef7b6e7:
 
     # b4_pn "Hmmm looking at that nice hard long cock of yours.. makes me wonder why there isn't a blue arrow tattooed on it."
-    b4_pn "Hmmm looking at that nice hard long cock of yours.. makes me wonder why there isn't a blue arrow tattooed on it."
+    b4_pn "Хммм глядя на этот хороший жесткий длинный член твоего.. заставляет меня задуматься, почему на нем не вытатуирована Синяя стрела."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3802
 translate rus pema_handjob_a3b065e5:
 
     # b4_tn "Eeeh, probably because it'd need to be erect for someone to tattoo it."
-    b4_tn "Eeeh, probably because it'd need to be erect for someone to tattoo it."
+    b4_tn "Эээ, наверное, потому что он должен быть прямой, чтобы кто-то сделал татуировку."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3803
 translate rus pema_handjob_1f9ac0f2:
 
     # b4_tn "And who's going to stay erect when there's needles being pushed in?"
-    b4_tn "And who's going to stay erect when there's needles being pushed in?"
+    b4_tn "И кто будет стоять прямо, когда туда вонзаются иглы?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3805
 translate rus pema_handjob_d4abb7be:
 
     # b4_pn "I can't wait till we have time again for you to push your big \"needle\" into me."
-    b4_pn "I can't wait till we have time again for you to push your big \"needle\" into me."
+    b4_pn "Я не могу дождаться, когда у нас снова будет время, чтобы ты подтолкнул свой большой \"needle\" в меня."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3806
 translate rus pema_handjob_c98e1aa7:
 
     # b4_tn "... I could push it into you right now."
-    b4_tn "... I could push it into you right now."
+    b4_tn "... Я мог бы втолкнуть его в тебя прямо сейчас."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3807
 translate rus pema_handjob_b649a3e4:
 
     # b4_pn "One of these days when we have enough time and a lock on the bedroom door we will honey."
-    b4_pn "One of these days when we have enough time and a lock on the bedroom door we will honey."
+    b4_pn "В один из этих дней, когда у нас будет достаточно времени и замок на двери спальни мы все сделаем."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3808
 translate rus pema_handjob_62d093b5:
 
     # b4_pn "Till then you'll just have to be happy with this."
-    b4_pn "Till then you'll just have to be happy with this."
+    b4_pn "А до тех пор ты просто должен быть доволен этим."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3809
 translate rus pema_handjob_1ba3c938:
 
     # b4_pn "Aren't you happy with this?"
-    b4_pn "Aren't you happy with this?"
+    b4_pn "Разве ты не доволен этим?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3810
 translate rus pema_handjob_bba7433c:
 
     # b4_tn "Hmm of course I am.."
-    b4_tn "Hmm of course I am.."
+    b4_tn "Хм, конечно, да..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3811
 translate rus pema_handjob_8c48c57c:
 
     # b4_pn "Well, I'm pretty sure the kids have no concept of time or privacy so I'll speed things up."
-    b4_pn "Well, I'm pretty sure the kids have no concept of time or privacy so I'll speed things up."
+    b4_pn "Ну, я почти уверен, что у детей нет понятия о времени или частной жизни, поэтому я ускорю процесс."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3812
 translate rus pema_handjob_79a127b8:
 
     # b4_tn "Speaking of the kids... do you think they knew what we were up to?"
-    b4_tn "Speaking of the kids... do you think they knew what we were up to?"
+    b4_tn "Кстати, о детях... как ты думаешь, они знали, что мы задумали??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3813
 translate rus pema_handjob_38c680ec:
 
     # b4_pn "Meelo, absolutely not. Ikki, I doubt it."
-    b4_pn "Meelo, absolutely not. Ikki, I doubt it."
+    b4_pn "Меело, ни в коем случае. Икки, я сомневаюсь в этом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3814
 translate rus pema_handjob_62f115c3:
 
     # b4_pn "Jinora, I'm not certain. "
-    b4_pn "Jinora, I'm not certain. "
+    b4_pn "Джинора, я не уверен. "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3815
 translate rus pema_handjob_a93027c1:
 
     # "Pema suddenly starts speeding up tremendously"
-    "Pema suddenly starts speeding up tremendously"
+    "Пема вдруг начинает невероятно ускоряться"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3817
 translate rus pema_handjob_cdea02cf:
@@ -7240,31 +7240,31 @@ translate rus pema_handjob_cdea02cf:
 translate rus pema_handjob_8a7df001:
 
     # b4_tx "HNNnnnnn that's good. That's very good.."
-    b4_tx "HNNnnnnn that's good. That's very good.."
+    b4_tx "Хнннннн это хорошо. Это очень хорошо.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3824
 translate rus pema_handjob_ed47c7b5:
 
     # b4_tx "Hnn..getting close"
-    b4_tx "Hnn..getting close"
+    b4_tx "Хнн..приближаться"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3854
 translate rus pema_handjob_0af909c2:
 
     # b4_ts "That.... was fantastic!"
-    b4_ts "That.... was fantastic!"
+    b4_ts "Это.... было фантастически!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3862
 translate rus pema_handjob_7bf56e86:
 
     # b4_pn "One of these days you're going to create a sperm stalagmite on the ceiling."
-    b4_pn "One of these days you're going to create a sperm stalagmite on the ceiling."
+    b4_pn "В один из этих дней вы собираетесь создать сталагмит спермы на потолке."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3871
 translate rus pema_handjob_033684d0:
 
     # b4_pn "Time for me to put some clothes on and deal with whatever the children have been doing."
-    b4_pn "Time for me to put some clothes on and deal with whatever the children have been doing."
+    b4_pn "Пора мне одеться и посмотреть, чем занимаются дети.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3872
 translate rus pema_handjob_f52c79cc:
@@ -7276,43 +7276,43 @@ translate rus pema_handjob_f52c79cc:
 translate rus pema_handjob_ad345b36:
 
     # b4_pn "Don't just lie there with a big grin on your face! Move over so I can get out of bed!"
-    b4_pn "Don't just lie there with a big grin on your face! Move over so I can get out of bed!"
+    b4_pn "Не лежи там с широкой улыбкой на лице! Подвинься, чтобы я могла встать с кровати!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3876
 translate rus pema_handjob_fa01b3a0:
 
     # b4_pn "You're not going to let your pregnant wife crawl all over you are you?"
-    b4_pn "You're not going to let your pregnant wife crawl all over you are you?"
+    b4_pn "Ты же не позволишь своей беременной жене ползать по тебе?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3877
 translate rus pema_handjob_e4f679cc:
 
     # b4_tn "Oops sorry."
-    b4_tn "Oops sorry."
+    b4_tn "Ой извините."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3878
 translate rus pema_handjob_061c746d:
 
     # "You stand up to give Pema the room to get out of bed."
-    "You stand up to give Pema the room to get out of bed."
+    "Ты встаешь, чтобы дать Пеме возможность встать с постели."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3885
 translate rus pema_handjob_c99ee9d2:
 
     # b4_tn "Do I need to do something else?"
-    b4_tn "Do I need to do something else?"
+    b4_tn "Мне нужно сделать что-то еще?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3886
 translate rus pema_handjob_74e1b584:
 
     # b4_pn "Nope, I can take it from here."
-    b4_pn "Nope, I can take it from here."
+    b4_pn "Нет, я могу взять его отсюда."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3887
 translate rus pema_handjob_4b086ee0:
 
     # b4_pn "You just go do your council member stuff and whatever you can to teach Korra some humbleness."
-    b4_pn "You just go do your council member stuff and whatever you can to teach Korra some humbleness."
+    b4_pn "Ты просто иди и делай все, что можешь, чтобы научить Корру смирению.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3906
 translate rus korra_titplay_93320a8b:
@@ -7396,7 +7396,7 @@ translate rus korra_titplay_1e1173ae:
 translate rus korra_titplay_800f82f9:
 
     # b4_tn "Okay, let's do a this ancient airbender training session to increase your sensitivity."
-    b4_tn "Okay, let's do a this ancient airbender training session to increase your sensitivity."
+    b4_tn "Хорошо, давайте сделаем эту древнюю тренировку мага воздуха, чтобы увеличить вашу чувствительность."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3946
 translate rus korra_titplay_d69cfedd_1:
@@ -7468,13 +7468,13 @@ translate rus korra_titplay_1e1173ae_1:
 translate rus korra_titplay_5a7d1323:
 
     # "You holding up Korra?"
-    "You holding up Korra?"
+    "Ты держишь Корру?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4104
 translate rus korra_titplay_b311d8bc:
 
     # "korra" "This... this is nothing!"
-    "korra" "This... this is nothing!"
+    "Корра" "Это... это ничего не значит!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4119
 translate rus shady_idles_8bc52ee8:
@@ -7576,55 +7576,55 @@ translate rus korra_rub_2fa7d6bd:
 translate rus korra_rub_bedcffac:
 
     # "Niiice"
-    "Niiice"
+    "Вы"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4257
 translate rus korra_kid_c70ee9fb:
 
     # b4_sp "Okay, time for our last trip. Are you ready?"
-    b4_sp "Okay, time for our last trip. Are you ready?"
+    b4_sp "Ладно, время для нашей последней поездки. Вы готовы?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4258
 translate rus korra_kid_82e8c3c7:
 
     # b4_yn "Not really. Whose body am I going to possess this time?"
-    b4_yn "Not really. Whose body am I going to possess this time?"
+    b4_yn "Не совсем. Чьим телом я буду обладать на этот раз?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4259
 translate rus korra_kid_0a6646b3:
 
     # b4_sp "You'll see."
-    b4_sp "You'll see."
+    b4_sp "Вот увидишь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4260
 translate rus korra_kid_efd2b1a2:
 
     # b4_yn "Nonono, I want a name and description first."
-    b4_yn "Nonono, I want a name and description first."
+    b4_yn "Но но но, сначала мне нужно имя и описание."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4261
 translate rus korra_kid_e03f44f7:
 
     # b4_sp "Do you like watertribe girls?"
-    b4_sp "Do you like watertribe girls?"
+    b4_sp "Тебе нравятся девушки племени Воды?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4262
 translate rus korra_kid_80d865ea:
 
     # b4_yn "Yeah, but what has that got to do with..."
-    b4_yn "Yeah, but what has that got to do with..."
+    b4_yn "Да, но какое это имеет отношение..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4268
 translate rus korra_kid_ac4a5ab3:
 
     # b4_sp "And off you go!"
-    b4_sp "And off you go!"
+    b4_sp "И ты уходишь!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4270
 translate rus korra_kid_f617b9cd:
 
     # "The spirit gives you a sudden shove and you fly off to a small village."
-    "The spirit gives you a sudden shove and you fly off to a small village."
+    "Дух дает вам внезапный толчок и вы улетаете в маленькую деревню."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4271
 translate rus korra_kid_9986ad3b:
@@ -7636,73 +7636,73 @@ translate rus korra_kid_9986ad3b:
 translate rus korra_kid_16aecc2d:
 
     # "So what makes you think your daughter is the one?"
-    "So what makes you think your daughter is the one?"
+    "Так что заставляет вас думать, что ваша дочь-та самая?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4283
 translate rus korra_kid_04597de7:
 
     # b4_senna_n "Uuuuh... what? Are you talking to me? "
-    b4_senna_n "Uuuuh... what? Are you talking to me? "
+    b4_senna_n "Уууух... Что? Ты со мной разговариваешь? "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4284
 translate rus korra_kid_f1b878a4:
 
     # b4_senna_n "Sorry, just give me a second to get my bearings."
-    b4_senna_n "Sorry, just give me a second to get my bearings."
+    b4_senna_n "Извините, дайте мне секунду, чтобы сориентироваться."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4285
 translate rus korra_kid_4be3e49d:
 
     # b4_senna_n "Some asshole pushed me... and"
-    b4_senna_n "Some asshole pushed me... and"
+    b4_senna_n "Какой-то мудак толкнул меня... и"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4286
 translate rus korra_kid_f372d053:
 
     # b4_senna_n "My chest feels heavy and it's like I'm... missing something but I can't put my finger on it."
-    b4_senna_n "My chest feels heavy and it's like I'm... missing something but I can't put my finger on it."
+    b4_senna_n "Моя грудь кажется тяжелой, и это похоже на то, что я... чего-то не хватает, но я не могу понять, что именно.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4287
 translate rus korra_kid_b9245cdd:
 
     # b4_senna_n "...Wait a minute... am I a woma-"
-    b4_senna_n "...Wait a minute... am I a woma-"
+    b4_senna_n "...Подожди минутку... разве я женщина?-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4292
 translate rus korra_kid_ed0e0343:
 
     # b4_senna_n "...What's that sound?"
-    b4_senna_n "...What's that sound?"
+    b4_senna_n "...Что это за звук?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4302
 translate rus korra_kid_ca0e3da5:
 
     # "I'm the avatar"
-    "I'm the avatar"
+    "Я аватар"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4326
 translate rus korra_kid_95ff1e4e:
 
     # "You gotta deal with it!"
-    "You gotta deal with it!"
+    "Ты должен с этим смириться!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4329
 translate rus korra_kid_6eea445c:
 
     # b4_senna_n "Wow, that kid's really...."
-    b4_senna_n "Wow, that kid's really...."
+    b4_senna_n "Ничего себе, этот парень действительно...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4333
 translate rus korra_kid_1830dcd9:
 
     # b4_senna_n "She demolished a wall just so she could show off!?"
-    b4_senna_n "She demolished a wall just so she could show off!?"
+    b4_senna_n "Она разрушила стену только для того, чтобы покрасоваться!?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4334
 translate rus korra_kid_74f3da18:
 
     # b4_senna_n "Am I the only one who thinks that's not okay?"
-    b4_senna_n "Am I the only one who thinks that's not okay?"
+    b4_senna_n "Я единственный, кто думает, что это не нормально?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4335
 translate rus korra_kid_cb13d8e4:
@@ -7714,139 +7714,139 @@ translate rus korra_kid_cb13d8e4:
 translate rus korra_kid_73e6082a:
 
     # b4_senna_n "Okay... I guess I'll have to be the adult here."
-    b4_senna_n "Okay... I guess I'll have to be the adult here."
+    b4_senna_n "Окей... Я думаю, что мне придется быть взрослым здесь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4337
 translate rus korra_kid_340b1117:
 
     # b4_senna_n "Go get daddy's belt dear.. it's for your own good."
-    b4_senna_n "Go get daddy's belt dear.. it's for your own good."
+    b4_senna_n "Иди возьми папин пояс, дорогая.. это для твоего же блага."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4339
 translate rus korra_kid_a660e860:
 
     # b4_senna_n "Aaawwh! You're such a cutey!"
-    b4_senna_n "Aaawwh! You're such a cutey!"
+    b4_senna_n "ААА! Ты такая милашка!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4340
 translate rus korra_kid_3e9a3775:
 
     # b4_senna_n "Come here and give me a hug!"
-    b4_senna_n "Come here and give me a hug!"
+    b4_senna_n "Иди сюда и обними меня!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4346
 translate rus korra_kid_e1f6f5f5:
 
     # "White lotus" "Ahum.. we're convinced she's the avatar."
-    "White lotus" "Ahum.. we're convinced she's the avatar."
+    "Белый Лотус" "Ахум.. мы убеждены, что она-аватар."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4347
 translate rus korra_kid_8f54e365:
 
     # b4_senna_n ".... you don't say!!? What tipped you off?"
-    b4_senna_n ".... you don't say!!? What tipped you off?"
+    b4_senna_n ".... ты не говоришь!!? Что тебя насторожило?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4349
 translate rus korra_kid_d6f898dc:
 
     # b4_senna_n "Wait. There's something more important I have to deal with first."
-    b4_senna_n "Wait. There's something more important I have to deal with first."
+    b4_senna_n "Подождите. Есть кое-что более важное, с чем я должен разобраться в первую очередь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4350
 translate rus korra_kid_7da6d196:
 
     # b4_senna_n "{size=+30}SPIIRIIIITT!!!!{/size}" with hpunch
-    b4_senna_n "{size=+30}SPIIRIIIITT!!!!{/size}" with hpunch
+    b4_senna_n "{size=+30}ДУУХХХХ!!!!{/size}" with hpunch
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4353
 translate rus korra_kid_59d19ed3:
 
     # b4_sp "Ooops. Sorry I messed up."
-    b4_sp "Ooops. Sorry I messed up."
+    b4_sp "Упс. Прости, что я все испортил."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4354
 translate rus korra_kid_e83cc189:
 
     # b4_senna_n "Get me the fuck out of here."
-    b4_senna_n "Get me the fuck out of here."
+    b4_senna_n "Вытащи меня нахуй отсюда."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4355
 translate rus korra_kid_7d695985:
 
     # b4_sp "Sure, sure."
-    b4_sp "Sure, sure."
+    b4_sp "Конечно, конечно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4358
 translate rus korra_kid_a522e814:
 
     # b4_ya "What the fuck were you trying to do?"
-    b4_ya "What the fuck were you trying to do?"
+    b4_ya "Какого хрена ты пытался сделать?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4359
 translate rus korra_kid_efab3847:
 
     # b4_sp "I thought I saw the dreamstealer so I wanted to drop you off quickly."
-    b4_sp "I thought I saw the dreamstealer so I wanted to drop you off quickly."
+    b4_sp "Мне показалось, что я видел ловца снов, поэтому я хотел быстро тебя высадить."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4360
 translate rus korra_kid_57d52afb:
 
     # b4_sp "But my aim was completely off."
-    b4_sp "But my aim was completely off."
+    b4_sp "Но моя цель была полностью потеряна."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4361
 translate rus korra_kid_3ad0d63f:
 
     # b4_ya "I.. don't believe you."
-    b4_ya "I.. don't believe you."
+    b4_ya "Я.. не верю."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4362
 translate rus korra_kid_97ce7283:
 
     # b4_sp "Think what you will.."
-    b4_sp "Think what you will.."
+    b4_sp "Думай что хочешь.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4363
 translate rus korra_kid_1bc3e3d8:
 
     # b4_sp "I'm really low on energy so we'll have to be more careful with the next try."
-    b4_sp "I'm really low on energy so we'll have to be more careful with the next try."
+    b4_sp "У меня очень мало энергии, так что нам придется быть более осторожными со следующей попыткой."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4364
 translate rus korra_kid_ce306f08:
 
     # b4_ya "Who was that girl?"
-    b4_ya "Who was that girl?"
+    b4_ya "Кто была эта девушка?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4365
 translate rus korra_kid_670440b5:
 
     # b4_sp "Avatar korra."
-    b4_sp "Avatar korra."
+    b4_sp "Аватар Корра."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4366
 translate rus korra_kid_d58f82ae:
 
     # b4_yn "Oh, so that's why you asked whether I liked watertribe girls. Well I do, but ..."
-    b4_yn "Oh, so that's why you asked whether I liked watertribe girls. Well I do, but ..."
+    b4_yn "Так вот почему ты спросил, нравятся ли мне девушки из племени Воды. Ну, я знаю, но ..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4367
 translate rus korra_kid_fed3b97c:
 
     # b4_yn "Not when they're that young."
-    b4_yn "Not when they're that young."
+    b4_yn "Не тогда, когда они так молоды."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4368
 translate rus korra_kid_0154ace1:
 
     # b4_yn "Also...Korra is a bit of an odd choice to teach me airbending."
-    b4_yn "Also...Korra is a bit of an odd choice to teach me airbending."
+    b4_yn "Также...Корра немного странный выбор, чтобы научить меня магии воздуха."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4369
 translate rus korra_kid_d58f0fc2:
 
     # b4_yn "As far as I can remember she had a really hard time learning it herself."
-    b4_yn "As far as I can remember she had a really hard time learning it herself."
+    b4_yn "Насколько я помню, ей самой было очень трудно научиться этому."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4370
 translate rus korra_kid_33407d54:
@@ -7858,7 +7858,7 @@ translate rus korra_kid_33407d54:
 translate rus korra_kid_a5ba6575:
 
     # b4_yn "Well she was too young here, so I'm guessing you were at least a decade off with your time travel stuff."
-    b4_yn "Well she was too young here, so I'm guessing you were at least a decade off with your time travel stuff."
+    b4_yn "Ну, она была слишком молода здесь, так что я предполагаю, что вы были по крайней мере на десять лет со своими путешествиями во времени."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4372
 translate rus korra_kid_33407d54_1:
@@ -7870,7 +7870,7 @@ translate rus korra_kid_33407d54_1:
 translate rus korra_kid_3e641cbe:
 
     # b4_yn "But that wasn't the only mistake you made...."
-    b4_yn "But that wasn't the only mistake you made...."
+    b4_yn "Но это была не единственная твоя ошибка...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4374
 translate rus korra_kid_7663c018:
@@ -7888,181 +7888,181 @@ translate rus korra_kid_3e492f1a:
 translate rus korra_kid_f3ddac9c:
 
     # b4_ya "You bitch! You were trying to put me in Korra's body!!!" with hpunch
-    b4_ya "You bitch! You were trying to put me in Korra's body!!!" with hpunch
+    b4_ya "Ах ты сука! Ты пытался поместить меня в тело Корры!!!" with hpunch
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4377
 translate rus korra_kid_4861e9fd:
 
     # b4_sp "See!! That's why I didn't say anything! I knew you'd be all touchy about this!"
-    b4_sp "See!! That's why I didn't say anything! I knew you'd be all touchy about this!"
+    b4_sp "Смотрите!! Вот почему я ничего не сказал! Я знал, что ты будешь очень обидчива по этому поводу!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4378
 translate rus korra_kid_e62428c1:
 
     # b4_ya "I'm NOT going into a girl's body!!"
-    b4_ya "I'm NOT going into a girl's body!!"
+    b4_ya "Я не собираюсь входить в тело девушки!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4379
 translate rus korra_kid_39d8bce3:
 
     # b4_yn "I mean.. I will, but not like you want me to!!"
-    b4_yn "I mean.. I will, but not like you want me to!!"
+    b4_yn "Я имею в виду.. Я сделаю это, но не так, как ты хочешь!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4380
 translate rus korra_kid_ec700c54:
 
     # b4_sp "Why not?!? It's perfect! She already knows water, earth and firebending but knows nothing of airbending!"
-    b4_sp "Why not?!? It's perfect! She already knows water, earth and firebending but knows nothing of airbending!"
+    b4_sp "Почему бы и нет?!? Это прекрасно! Она уже знает воду, землю и магию огня, но ничего не знает о магии воздуха!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4381
 translate rus korra_kid_a2efd7d6:
 
     # b4_sp "Okay, she needs to be a bit older, but other than..."
-    b4_sp "Okay, she needs to be a bit older, but other than..."
+    b4_sp "Ладно, она должна быть немного старше, но не только..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4382
 translate rus korra_kid_2330ffdf:
 
     # b4_ya " I can't fuck girls without a dick!!"
-    b4_ya " I can't fuck girls without a dick!!"
+    b4_ya " Я не могу трахать девушек без члена!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4383
 translate rus korra_kid_4fd81458:
 
     # b4_sp "Who cares about that?!? You're supposed to learn bending! Not fuck girls!"
-    b4_sp "Who cares about that?!? You're supposed to learn bending! Not fuck girls!"
+    b4_sp "Кого это волнует?!? Ты должен научиться сгибаться! Не ебать девушек!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4384
 translate rus korra_kid_0a8a81c1:
 
     # b4_yn "Well, I believe fucking girls is an important part of the experience."
-    b4_yn "Well, I believe fucking girls is an important part of the experience."
+    b4_yn "Ну, я считаю, что трахать девушек-это важная часть опыта."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4385
 translate rus korra_kid_a8ae2e13:
 
     # b4_ya "So..... I'm not letting you genderbend me!!"
-    b4_ya "So..... I'm not letting you genderbend me!!"
+    b4_ya "Так.....Я не позволю тебе жениться на мне!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4386
 translate rus korra_kid_77c5e46e:
 
     # b4_sp "Don't be an ass! We've arrived at the right time. Get into her body willingly and learn airbending!"
-    b4_sp "Don't be an ass! We've arrived at the right time. Get into her body willingly and learn airbending!"
+    b4_sp "Не будь ослом! Мы прибыли в нужное время. Входите в ее тело охотно и изучайте магию воздуха!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4387
 translate rus korra_kid_3efa8cc5:
 
     # b4_yn "NO!"
-    b4_yn "NO!"
+    b4_yn "НЕТ!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4388
 translate rus korra_kid_8a5c880e:
 
     # b4_sp "I don't have enough energy for another trip! Do as I say damn it!"
-    b4_sp "I don't have enough energy for another trip! Do as I say damn it!"
+    b4_sp "У меня не хватит сил на еще одну поездку! Делай как я говорю черт возьми!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4389
 translate rus korra_kid_29b26495:
 
     # b4_yn "Make me!"
-    b4_yn "Make me!"
+    b4_yn "Заставь меня!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4390
 translate rus korra_kid_53f3d85d:
 
     # b4_sp "You ungrateful piece of... plenty of people would be elated to take over a girl's body!!"
-    b4_sp "You ungrateful piece of... plenty of people would be elated to take over a girl's body!!"
+    b4_sp "Ты неблагодарный кусок... многие люди были бы рады завладеть телом девушки!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4391
 translate rus korra_kid_3726ba67:
 
     # b4_sp "Think... think of the sick shit you can do with it!"
-    b4_sp "Think... think of the sick shit you can do with it!"
+    b4_sp "Думать... подумай о том больном дерьме, которое ты можешь с ним сделать.!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4392
 translate rus korra_kid_b36cfece:
 
     # b4_ya "Like what?"
-    b4_ya "Like what?"
+    b4_ya "Например что?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4393
 translate rus korra_kid_498d354e:
 
     # b4_sp "Eeehh... you could take pictures of yourself while doing sex stuff, bury them somewhere only you know of."
-    b4_sp "Eeehh... you could take pictures of yourself while doing sex stuff, bury them somewhere only you know of."
+    b4_sp "Эээ... вы могли бы сфотографировать себя, занимаясь сексом, похоронить их где-то, о чем только вы знаете."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4394
 translate rus korra_kid_13e8bc14:
 
     # b4_sp "Dig them up again in your own time and sell them for an incredible profit!!"
-    b4_sp "Dig them up again in your own time and sell them for an incredible profit!!"
+    b4_sp "Выкопайте их снова в свое время и продайте с невероятной прибылью!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4395
 translate rus korra_kid_c706886b:
 
     # b4_yn "That's... that's actually a great idea!"
-    b4_yn "That's... that's actually a great idea!"
+    b4_yn "Это... это на самом деле отличная идея!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4396
 translate rus korra_kid_c78c4316:
 
     # b4_ya "Why didn't I think of this before? I could've opened up a back account!"
-    b4_ya "Why didn't I think of this before? I could've opened up a back account!"
+    b4_ya "Почему я не подумал об этом раньше? Я мог бы открыть счет в банке!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4397
 translate rus korra_kid_63638167:
 
     # b4_yn "Awh shit.... But regardless, no dick no deal."
-    b4_yn "Awh shit.... But regardless, no dick no deal."
+    b4_yn "Вот дерьмо.... Но независимо от этого, ни хуя нет сделки."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4398
 translate rus korra_kid_04e8f44b:
 
     # b4_sp "... Okay I see I'll have to do this the hard way."
-    b4_sp "... Okay I see I'll have to do this the hard way."
+    b4_sp "... Хорошо я вижу что мне придется пойти трудным путем."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4399
 translate rus korra_kid_4a013dea:
 
     # b4_yn "I like doing it the \"hard\" way.... which is why I need a dick! SO NO FEMALE HOSTS!!!"
-    b4_yn "I like doing it the \"hard\" way.... which is why I need a dick! SO NO FEMALE HOSTS!!!"
+    b4_yn "Мне нравится это делать \"трудным\" путем.... вот почему мне нужен член! ТАК ЧТО НИКАКИХ ЖЕНЩИН-ХОЗЯЕВ!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4400
 translate rus korra_kid_9551c8c7:
 
     # b4_sp "If you resist there's no telling where you'll end up so I suggest you hold veeerrry still."
-    b4_sp "If you resist there's no telling where you'll end up so I suggest you hold veeerrry still."
+    b4_sp "Если ты будешь сопротивляться, никто не знает, где ты окажешься, поэтому я предлагаю тебе не двигаться.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4401
 translate rus korra_kid_23028a44:
 
     # "You start performing jumping jacks while sticking out your tongue"
-    "You start performing jumping jacks while sticking out your tongue"
+    "Вы начинаете выполнять прыжки, высунув язык"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4402
 translate rus korra_kid_38595ebd:
 
     # b4_sp "RAAaah!! You're infuriating! Screws this!"
-    b4_sp "RAAaah!! You're infuriating! Screws this!"
+    b4_sp "Раааа!! Ты меня бесишь! К черту все это!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4408
 translate rus korra_kid_0e9054fd:
 
     # b4_sp "This is on you avatar! Sink or swim!!"
-    b4_sp "This is on you avatar! Sink or swim!!"
+    b4_sp "Это на тебе аватар! Утонуть или плыть!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4409
 translate rus korra_kid_03b8d703:
 
     # b4_ya "Fuckfuckfuck!!"
-    b4_ya "Fuckfuckfuck!!"
+    b4_ya "Блять блять блять!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4410
 translate rus korra_kid_4ec53d29:
 
     # "You fly backwards at an alarming speed."
-    "You fly backwards at an alarming speed."
+    "Вы летите назад с пугающей скоростью."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:4411
 translate rus korra_kid_716d219f:
