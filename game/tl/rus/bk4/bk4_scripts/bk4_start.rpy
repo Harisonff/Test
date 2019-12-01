@@ -4546,145 +4546,145 @@ translate rus asami_tits_2nd_phase_9d418e8c:
 translate rus asami_tits_2nd_phase_5a4bc1fc:
 
     # b4_tn "Well, just be certain you don't start any funny business when I'm not there to supervise you two."
-    b4_tn "Well, just be certain you don't start any funny business when I'm not there to supervise you two."
+    b4_tn "Ну, просто будьте уверены, что вы не начинаете никаких забавных дел, когда меня нет рядом, чтобы контролировать вас двоих."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2650
 translate rus asami_tits_2nd_phase_3d86dcdc:
 
     # "asami" "Oh? You get hard from sort of stuff?"
-    "asami" "Oh? You get hard from sort of stuff?"
+    "Асами" "Да? Ты становишься твердым от такого рода вещей?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2651
 translate rus asami_tits_2nd_phase_933a82e4:
 
     # b4_tn "That and some other reasons."
-    b4_tn "That and some other reasons."
+    b4_tn "Это и некоторые другие причины."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2652
 translate rus asami_tits_2nd_phase_8e5c67e2:
 
     # b4_tn "Come one move them around."
-    b4_tn "Come one move them around."
+    b4_tn "Пришел одним переместить их вокруг."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2666
 translate rus asami_tits_2nd_phase_96020a10:
 
     # b4_tn "Yeah..."
-    b4_tn "Yeah..."
+    b4_tn "Да..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2667
 translate rus asami_tits_2nd_phase_8ce9a91a:
 
     # b4_tn "Now make 'em jump go up and down."
-    b4_tn "Now make 'em jump go up and down."
+    b4_tn "Теперь заставь их прыгать вверх и вниз."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2675
 translate rus asami_tits_2nd_phase_d37d0816:
 
     # b4_tn "Oh wow, that's like really nice."
-    b4_tn "Oh wow, that's like really nice."
+    b4_tn "О, вау, это очень мило."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2683
 translate rus asami_tits_2nd_phase_5f18d842:
 
     # b4_tn "Sucking time!"
-    b4_tn "Sucking time!"
+    b4_tn "Время сосания!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2688
 translate rus asami_tits_2nd_phase_381d82ff:
 
     # "asami" "Hey! Don't bite on it!"
-    "asami" "Hey! Don't bite on it!"
+    "Асами" "Эй! Не кусай его!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2703
 translate rus asami_tits_2nd_phase_faa07e85:
 
     # b4_kn "AAhh!!" with hpunch
-    b4_kn "AAhh!!" with hpunch
+    b4_kn "Ааххх!!" with hpunch
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2704
 translate rus asami_tits_2nd_phase_cb3d38d9:
 
     # b4_kn "Asami!"
-    b4_kn "Asami!"
+    b4_kn "Асами!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2708
 translate rus asami_tits_2nd_phase_92d01672:
 
     # b4_tn "Wow, Jinora works fast."
-    b4_tn "Wow, Jinora works fast."
+    b4_tn "Вау, Джинора работает быстро."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2710
 translate rus asami_tits_2nd_phase_8b5dfeac:
 
     # b4_kn "Are you guys doing that stress relief thing again?"
-    b4_kn "Are you guys doing that stress relief thing again?"
+    b4_kn "Ребята, вы опять делаете эту штуку для снятия стресса?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2711
 translate rus asami_tits_2nd_phase_dca05883:
 
     # b4_tn "Yeah and you're just in time Korra!"
-    b4_tn "Yeah and you're just in time Korra!"
+    b4_tn "Да и ты как раз вовремя Корра!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2714
 translate rus asami_tits_2nd_phase_fea7e17d:
 
     # b4_kn "Awesome!"
-    b4_kn "Awesome!"
+    b4_kn "Потрясающе!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2715
 translate rus asami_tits_2nd_phase_7a8a8ad4:
 
     # b4_kn "Ahum, I mean, great.. good.. nice.."
-    b4_kn "Ahum, I mean, great.. good.. nice.."
+    b4_kn "Ах, я имею в виду, отлично.. хороший.. милый.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2716
 translate rus asami_tits_2nd_phase_57b508aa:
 
     # b4_tn "First whip out those tits."
-    b4_tn "First whip out those tits."
+    b4_tn "Сначала достань эти сиськи."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2720
 translate rus asami_tits_2nd_phase_3f617c6d:
 
     # b4_tn "Today's warmup consists of some light kissing."
-    b4_tn "Today's warmup consists of some light kissing."
+    b4_tn "Сегодняшняя разминка состоит из легкого поцелуя."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2727
 translate rus asami_tits_2nd_phase_09a0b987:
 
     # b4_tn "Okay, I want to try something different now."
-    b4_tn "Okay, I want to try something different now."
+    b4_tn "Хорошо, я хочу попробовать что-то другое сейчас."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2730
 translate rus asami_tits_2nd_phase_51e29c3b:
 
     # b4_tn "Push your nipples against each other repeatedly."
-    b4_tn "Push your nipples against each other repeatedly."
+    b4_tn "Прижмите соски друг к другу несколько раз."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2733
 translate rus asami_tits_2nd_phase_745872ff:
 
     # b4_kn "Are we doing it right?"
-    b4_kn "Are we doing it right?"
+    b4_kn "Правильно ли мы это делаем?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2735
 translate rus asami_tits_2nd_phase_80f2f638:
 
     # b4_tn "Absolutely, but that's enough for today."
-    b4_tn "Absolutely, but that's enough for today."
+    b4_tn "Конечно, но на сегодня достаточно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2740
 translate rus asami_tits_2nd_phase_434265cd:
 
     # "asami" "Thanks Tenzin. I have another appointment now."
-    "asami" "Thanks Tenzin. I have another appointment now."
+    "Асами" "Спасибо Тензин. У меня сейчас другая встреча."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2741
 translate rus asami_tits_2nd_phase_deea2664:
 
     # "asami" "Bye Korra."
-    "asami" "Bye Korra."
+    "Асами" "Пока Корра."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2743
 translate rus asami_tits_2nd_phase_00cd7851:
@@ -4696,25 +4696,25 @@ translate rus asami_tits_2nd_phase_00cd7851:
 translate rus asami_tits_2nd_phase_c38b656e:
 
     # b4_tn "Say, I haven't sucked your tits today have I?"
-    b4_tn "Say, I haven't sucked your tits today have I?"
+    b4_tn "Слушай, я тебе сегодня сиськи не сосал, да?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2745
 translate rus asami_tits_2nd_phase_5f0817ea:
 
     # b4_kn "That's okay really."
-    b4_kn "That's okay really."
+    b4_kn "Это очень хорошо."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2748
 translate rus asami_tits_2nd_phase_b83ef309:
 
     # b4_tn "If not I don't think I can help you train with Asami."
-    b4_tn "If not I don't think I can help you train with Asami."
+    b4_tn "Если нет я не думаю что смогу помочь тебе тренироваться с Асами."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2749
 translate rus asami_tits_2nd_phase_b39e48af:
 
     # b4_kn "Please suck on my tits Tenzin!"
-    b4_kn "Please suck on my tits Tenzin!"
+    b4_kn "Пожалуйста, пососи мои сиськи Тензин!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2752
 translate rus asami_tits_2nd_phase_9fcea034:
@@ -4726,7 +4726,7 @@ translate rus asami_tits_2nd_phase_9fcea034:
 translate rus asami_tits_2nd_phase_a2489aee:
 
     # b4_tn "Okay, we're done here "
-    b4_tn "Okay, we're done here "
+    b4_tn "Ладно, мы закончили здесь "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2774
 translate rus lin_buttjob_59bcd435:
@@ -4846,163 +4846,163 @@ translate rus lin_buttjob_bc0b0ba6:
 translate rus lin_buttjob_14a7f1a6:
 
     # b4_tn "Hey, do you know what would be really degrading for me to do?"
-    b4_tn "Hey, do you know what would be really degrading for me to do?"
+    b4_tn "Эй, ты знаешь, что было бы действительно унизительно для меня сделать?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2832
 translate rus lin_buttjob_30c4506b:
 
     # "lin" "What?"
-    "lin" "What?"
+    "Лин" "Что?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2833
 translate rus lin_buttjob_d519219b:
 
     # b4_tn "Having me hump your ass while you're still wearing your uniform!"
-    b4_tn "Having me hump your ass while you're still wearing your uniform!"
+    b4_tn "Заставлять меня трахать твою задницу, пока ты все еще носишь свою униформу!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2834
 translate rus lin_buttjob_2a21efde:
 
     # "lin" "...I don't see why that would be degrading.."
-    "lin" "...I don't see why that would be degrading.."
+    "Лин" "...Я не понимаю, почему это было бы унизительно.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2835
 translate rus lin_buttjob_2197cd98:
 
     # b4_tn "Well, it'd be me acting like a dog."
-    b4_tn "Well, it'd be me acting like a dog."
+    b4_tn "Ну, это я буду вести себя как собака."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2836
 translate rus lin_buttjob_42d6129e:
 
     # "lin" "You {size=+15}ARE{/size} a dog."
-    "lin" "You {size=+15}ARE{/size} a dog."
+    "Лин" "Ты {size=+15}ARE{/size} собака."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2837
 translate rus lin_buttjob_4966821e:
 
     # "lin" "Okay, let's give this a try..."
-    "lin" "Okay, let's give this a try..."
+    "Лин" "Ладно, давайте попробуем..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2838
 translate rus lin_buttjob_8671da17:
 
     # "lin" "But you better not stain my uniform!"
-    "lin" "But you better not stain my uniform!"
+    "Лин" "Но тебе лучше не пачкать мою форму!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2839
 translate rus lin_buttjob_5bffa3d7:
 
     # b4_tn "It's a deal!"
-    b4_tn "It's a deal!"
+    b4_tn "Это сделка!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2840
 translate rus lin_buttjob_4e51e826:
 
     # b4_tn "Now turn that booty towards me."
-    b4_tn "Now turn that booty towards me."
+    b4_tn "А теперь поверни свою попку ко мне."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2841
 translate rus lin_buttjob_5ed3c3c5:
 
     # "lin" "I'm only doing this to degrade you! Just so you know."
-    "lin" "I'm only doing this to degrade you! Just so you know."
+    "Лин" "Я делаю это только для того, чтобы унизить тебя! Просто чтобы ты знал."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2842
 translate rus lin_buttjob_3ac02b28:
 
     # b4_tn "Naturally"
-    b4_tn "Naturally"
+    b4_tn "Естественно"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2846
 translate rus lin_buttjob_36bc3aba:
 
     # "lin" "Like this?"
-    "lin" "Like this?"
+    "Лин" "Подобный этому?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2847
 translate rus lin_buttjob_1c90bdb7:
 
     # b4_tn "yeah.. that'll do nicely."
-    b4_tn "yeah.. that'll do nicely."
+    b4_tn "да.. это прекрасно подойдет."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2848
 translate rus lin_buttjob_fd7b4a46:
 
     # b4_tn "Now I'll just take out my cock and..."
-    b4_tn "Now I'll just take out my cock and..."
+    b4_tn "Теперь я просто достану свой член и..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2850
 translate rus lin_buttjob_7dee3817:
 
     # b4_tn "put it between your ass-cheeks."
-    b4_tn "put it between your ass-cheeks."
+    b4_tn "положи его между своих ягодиц."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2857
 translate rus lin_buttjob_5d72547e:
 
     # b4_tn "hnn.. yeah....can you feel my dick pulsating through the fabric?"
-    b4_tn "hnn.. yeah....can you feel my dick pulsating through the fabric?"
+    b4_tn "хмм.. да....ты чувствуешь, как мой член пульсирует сквозь ткань??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2858
 translate rus lin_buttjob_99b26a33:
 
     # "lin" "Not really.."
-    "lin" "Not really.."
+    "Лин" "Не совсем.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2859
 translate rus lin_buttjob_462903db:
 
     # b4_tn "What?! That's like half the fun! Here lemme fix that."
-    b4_tn "What?! That's like half the fun! Here lemme fix that."
+    b4_tn "Что?! Это как половина удовольствия! Вот дай мне это исправить."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2862
 translate rus lin_buttjob_d609ed1c:
 
     # "You quickly pull down Lin's pants."
-    "You quickly pull down Lin's pants."
+    "Ты быстро стягиваешь с Лин её штаны."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2863
 translate rus lin_buttjob_3030ac14:
 
     # "lin" "{size=+15}Ah!!! What are you doing?!{/size}"
-    "lin" "{size=+15}Ah!!! What are you doing?!{/size}"
+    "Лин" "{size=+15}А!!! Что ты делаешь?!{/size}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2864
 translate rus lin_buttjob_d12cdf9c:
 
     # b4_tn "Just think of it as an extra safety measure so you won't get cum on your uniform."
-    b4_tn "Just think of it as an extra safety measure so you won't get cum on your uniform."
+    b4_tn "Просто подумай об этом как о дополнительной мере безопасности, чтобы не испачкать спермой свою форму."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2865
 translate rus lin_buttjob_8750a1cf:
 
     # b4_tn "Besides, my dick started to chafe! That's some coarse material!"
-    b4_tn "Besides, my dick started to chafe! That's some coarse material!"
+    b4_tn "Кроме того, мой член начал натирать! Это какой-то грубый материал!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2867
 translate rus lin_buttjob_edb6e953:
 
     # "lin" "I don't care! Don't pull down my pants without even warning me!"
-    "lin" "I don't care! Don't pull down my pants without even warning me!"
+    "Лин" "Мне все равно! Не спускай с меня штаны, даже не предупредив меня!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2868
 translate rus lin_buttjob_68568c73:
 
     # "lin" "Do something like that again, and your kids can come visit daddy in jail!"
-    "lin" "Do something like that again, and your kids can come visit daddy in jail!"
+    "Лин" "Сделай что-нибудь подобное еще раз, и твои дети смогут навестить папу в тюрьме!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2869
 translate rus lin_buttjob_5e3b6ef9:
 
     # b4_tn "..You know what? You're right, my bad."
-    b4_tn "..You know what? You're right, my bad."
+    b4_tn "..Знаешь что? Ты права, я плохой."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2873
 translate rus lin_buttjob_1107ea74:
 
     # "lin" "...Fine... keep going.."
-    "lin" "...Fine... keep going.."
+    "Лин" "...Хорошо... продолжай."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2874
 translate rus lin_buttjob_2f34c150:
