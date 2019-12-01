@@ -6004,25 +6004,25 @@ translate rus korra_legs_c3ea0a4e:
 translate rus korra_legs_296fa309:
 
     # b4_tn "They look fine to me."
-    b4_tn "They look fine to me."
+    b4_tn "Мне они кажутся прекрасными."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3269
 translate rus korra_legs_8efa79ed:
 
     # b4_kn "Ehh.. thanks? It's just an easy exercise I can do in my room."
-    b4_kn "Ehh.. thanks? It's just an easy exercise I can do in my room."
+    b4_kn "Эхх.. спасибо? Это просто легкое упражнение, которое я могу сделать в своей комнате."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3270
 translate rus korra_legs_d4043601:
 
     # b4_kn "I'd really like to finish the set if you don't mind."
-    b4_kn "I'd really like to finish the set if you don't mind."
+    b4_kn "Я бы очень хотел закончить сет, если вы не возражаете."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3271
 translate rus korra_legs_a9a3b64b:
 
     # b4_tn "No problem, go right ahead. I can wait."
-    b4_tn "No problem, go right ahead. I can wait."
+    b4_tn "Нет проблем, идите прямо вперед. Я могу подождать."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3272
 translate rus korra_legs_6d175c21:
@@ -6034,7 +6034,7 @@ translate rus korra_legs_6d175c21:
 translate rus korra_legs_e4bc6adf:
 
     # b4_kn "..... fine."
-    b4_kn "..... fine."
+    b4_kn "..... хорошо."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3281
 translate rus korra_legs_425ce56f:
@@ -6052,169 +6052,169 @@ translate rus korra_legs_e1fb7a38:
 translate rus korra_legs_50b61c36:
 
     # b4_tn "That's it?"
-    b4_tn "That's it?"
+    b4_tn "Вот и все?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3290
 translate rus korra_legs_955c6295:
 
     # b4_kn "Nah, I still have to do another one."
-    b4_kn "Nah, I still have to do another one."
+    b4_kn "Нет, мне все еще нужно сделать еще один."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3294
 translate rus korra_legs_91509dc5:
 
     # b4_kn "First I squat and make sure I'm balanced and then..."
-    b4_kn "First I squat and make sure I'm balanced and then..."
+    b4_kn "Сначала я сажусь на корточки и удостоверяюсь, что я уравновешен, а затем..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3295
 translate rus korra_legs_40c79828:
 
     # b4_kn "Oh wait. Probably best to do some stretching for this one."
-    b4_kn "Oh wait. Probably best to do some stretching for this one."
+    b4_kn "О, подожди. Вероятно, лучше всего сделать растяжку для этого."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3299
 translate rus korra_legs_2dc9d666:
 
     # b4_kn ".... ehm."
-    b4_kn ".... ehm."
+    b4_kn ".... эмм."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3302
 translate rus korra_legs_d19f2adc:
 
     # b4_kn "That's better."
-    b4_kn "That's better."
+    b4_kn "Так-то лучше."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3303
 translate rus korra_legs_1a0b546c:
 
     # b4_kn "Hold it for few seconds... feel the burn and "
-    b4_kn "Hold it for few seconds... feel the burn and "
+    b4_kn "Держи его в течение нескольких секунд... почувствуй жжение и "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3307
 translate rus korra_legs_04d9cfdc:
 
     # b4_kn "get back up.."
-    b4_kn "get back up.."
+    b4_kn "вернуться.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3310
 translate rus korra_legs_e0f49b9e:
 
     # b4_kn "... and repeat."
-    b4_kn "... and repeat."
+    b4_kn "... и повторить."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3313
 translate rus korra_legs_5e1a0f1d:
 
     # b4_kn "Okay, enough of that."
-    b4_kn "Okay, enough of that."
+    b4_kn "Ладно, хватит об этом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3314
 translate rus korra_legs_bef5efc7:
 
     # b4_kn "Time for the real deal."
-    b4_kn "Time for the real deal."
+    b4_kn "Время для настоящей сделки."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3323
 translate rus korra_legs_f4a958fa:
 
     # b4_kn "This.. mpff... is kinda difficult but very effective."
-    b4_kn "This.. mpff... is kinda difficult but very effective."
+    b4_kn "Этот.. Мофф... это своего рода трудно, но очень эффективно."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3327
 translate rus korra_legs_92f6b419:
 
     # b4_kn "You know.. there's really no need to look at me or even stay here."
-    b4_kn "You know.. there's really no need to look at me or even stay here."
+    b4_kn "Ты знаешь.. там действительно нет необходимости смотреть на меня или даже оставаться здесь."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3328
 translate rus korra_legs_a6c9f21c:
 
     # b4_tn "Keeping an eye on you is my job. "
-    b4_tn "Keeping an eye on you is my job. "
+    b4_tn "Присматривать за тобой-моя работа. "
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3329
 translate rus korra_legs_9904d1d7:
 
     # b4_tn "As long as your training isn't finished."
-    b4_tn "As long as your training isn't finished."
+    b4_tn "Пока твое обучение не закончено."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3330
 translate rus korra_legs_dadcfda3:
 
     # b4_kn "Trust me, I'm trying to learn airbending with everything I've got."
-    b4_kn "Trust me, I'm trying to learn airbending with everything I've got."
+    b4_kn "Поверь мне, я пытаюсь научиться магии воздуха со всем, что у меня есть."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3331
 translate rus korra_legs_8292044d:
 
     # b4_tn "Which is why you're doing physical exercises instead of meditation on airbending... or anything else concerning airbending."
-    b4_tn "Which is why you're doing physical exercises instead of meditation on airbending... or anything else concerning airbending."
+    b4_tn "Вот почему вы делаете физические упражнения вместо медитации на магию воздуха... или что-нибудь еще, касающееся магии воздуха."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3332
 translate rus korra_legs_3910be7e:
 
     # b4_kn "This is important too. A healthy mind in a healthy body."
-    b4_kn "This is important too. A healthy mind in a healthy body."
+    b4_kn "Это тоже важно. Здоровый дух в здоровом теле."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3341
 translate rus korra_legs_f379bac3:
 
     # b4_kn "Ahhhh!! Oh man... *pant* *pant*"
-    b4_kn "Ahhhh!! Oh man... *pant* *pant*"
+    b4_kn "ААА!! О боже... *pant* *pant*"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3345
 translate rus korra_legs_3630bc68:
 
     # b4_kn "That exercise always takes it out of me."
-    b4_kn "That exercise always takes it out of me."
+    b4_kn "Это упражнение всегда выводит меня из себя."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3348
 translate rus korra_legs_339ffe29:
 
     # b4_kn "So... what is it you want from me."
-    b4_kn "So... what is it you want from me."
+    b4_kn "Так... чего ты хочешь от меня."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3349
 translate rus korra_legs_172bbecb:
 
     # b4_tn "I totally forgot... oh well. Mustn't have been anything important."
-    b4_tn "I totally forgot... oh well. Mustn't have been anything important."
+    b4_tn "Я совсем забыла... Ну что ж. Не должно быть ничего важного."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3350
 translate rus korra_legs_6605e566:
 
     # b4_kn "Whatever. I'm going to wash up. I've gotten all sweaty."
-    b4_kn "Whatever. I'm going to wash up. I've gotten all sweaty."
+    b4_kn "Что угодно. Я собираюсь помыться. Я весь вспотел."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3351
 translate rus korra_legs_85ab0352:
 
     # b4_kn "Speaking of which..."
-    b4_kn "Speaking of which..."
+    b4_kn "Кстати..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3352
 translate rus korra_legs_b6b5beee:
 
     # b4_tn "What?"
-    b4_tn "What?"
+    b4_tn "Что?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3353
 translate rus korra_legs_6d33a650:
 
     # b4_kn "Meelo is always coincidentally hanging around there whenever I enter or come out."
-    b4_kn "Meelo is always coincidentally hanging around there whenever I enter or come out."
+    b4_kn "Меело всегда случайно околачивается там, когда я вхожу или выхожу."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3354
 translate rus korra_legs_fe9a0a87:
 
     # b4_kn "It's honestly sort of getting on my nerves."
-    b4_kn "It's honestly sort of getting on my nerves."
+    b4_kn "Честно говоря, это действует мне на нервы."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3355
 translate rus korra_legs_bd7ecdaa:
 
     # b4_tn "I'm certain it's just a coincidence."
-    b4_tn "I'm certain it's just a coincidence."
+    b4_tn "Я уверен, что это просто совпадение."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3366
 translate rus sidebox_examples_484f8251:
@@ -6424,103 +6424,103 @@ translate rus korra_wash_75f062ae:
 translate rus korra_wash_6269770f:
 
     # "As you walk to throught the building you see Meelo."
-    "As you walk to throught the building you see Meelo."
+    "Когда вы идете через здание вы видите Меело."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3449
 translate rus korra_wash_f6fe3027:
 
     # "He's intently staring at something behind a wall scroll."
-    "He's intently staring at something behind a wall scroll."
+    "Он пристально смотрит на что-то за стеной.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3450
 translate rus korra_wash_0231ac3b:
 
     # b4_tn "Ehhh, what're you doing?"
-    b4_tn "Ehhh, what're you doing?"
+    b4_tn "Эххх, что ты делаешь?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3452
 translate rus korra_wash_1ee8e2a2:
 
     # "Meelo" "Looking for treasure!!"
-    "Meelo" "Looking for treasure!!"
+    "Меело" "В поисках сокровищ!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3453
 translate rus korra_wash_f6346382:
 
     # b4_tn "....In your nose?"
-    b4_tn "....In your nose?"
+    b4_tn "....В нос?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3454
 translate rus korra_wash_30475966:
 
     # "Meelo just stares at you."
-    "Meelo just stares at you."
+    "Меело смотрит на тебя."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3455
 translate rus korra_wash_5a082f0e:
 
     # b4_tn "Did you find any treasure yet?"
-    b4_tn "Did you find any treasure yet?"
+    b4_tn "Вы уже нашли какое-нибудь сокровище?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3456
 translate rus korra_wash_b15cec50:
 
     # "Meelo" "I found some booty!!"
-    "Meelo" "I found some booty!!"
+    "Меело" "Я нашел кое-какую добычу!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3457
 translate rus korra_wash_2fe6c989:
 
     # b4_tn "Ah, that's ... nice."
-    b4_tn "Ah, that's ... nice."
+    b4_tn "А, это так ... мило."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3459
 translate rus korra_wash_6a6c2446:
 
     # "Meelo runs off. Apparantly searching for more treasure."
-    "Meelo runs off. Apparantly searching for more treasure."
+    "Меело убегает. Очевидно, в поисках новых сокровищ."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3461
 translate rus korra_wash_85541a05:
 
     # b4_tn "Why would he look behind a wall scroll for treasure?"
-    b4_tn "Why would he look behind a wall scroll for treasure?"
+    b4_tn "Зачем ему искать за стеной свиток с сокровищами?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3462
 translate rus korra_wash_f0e3e753:
 
     # b4_tn "Let's see."
-    b4_tn "Let's see."
+    b4_tn "Давай посмотрим."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3464
 translate rus korra_wash_52650c07:
 
     # "You find a small hole behind the scroll. Peering through it you see-"
-    "You find a small hole behind the scroll. Peering through it you see-"
+    "Вы находите небольшое отверстие позади свитка. Вглядываясь в него вы видите-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3471
 translate rus korra_wash_4bf25ab4:
 
     # b4_tn "Damn. There {size=+10}IS{/size} booty here!"
-    b4_tn "Damn. There {size=+10}IS{/size} booty here!"
+    b4_tn "Черт. Там {size=+10}IS{/size} добыча здесь!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3472
 translate rus korra_wash_1a9d889b:
 
     # b4_tn "Hey, she's muttering something to herself.."
-    b4_tn "Hey, she's muttering something to herself.."
+    b4_tn "Эй, она что-то бормочет себе под нос.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3474
 translate rus korra_wash_e3725e33:
 
     # b4_kn "....the fuck are these bathing rooms so... sparse? No baths, no showers.."
-    b4_kn "....the fuck are these bathing rooms so... sparse? No baths, no showers.."
+    b4_kn "....нахуй эти бани такие... редкие? Ни ванны, ни душа.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3475
 translate rus korra_wash_4d1b0e85:
 
     # b4_kn "A watertap and a bucket plus some soap?"
-    b4_kn "A watertap and a bucket plus some soap?"
+    b4_kn "Стакан воды и ведро плюс немного мыла?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:3476
 translate rus korra_wash_87c8cd3b:
