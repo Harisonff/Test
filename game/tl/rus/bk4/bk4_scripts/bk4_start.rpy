@@ -2128,7 +2128,7 @@ translate rus korra_boobjob_1dcbb4f2:
 translate rus korra_boobjob_9461cf4c:
 
     # b4_tn "And you're the avatar, you like helping people don't you?"
-    b4_tn "And you're the avatar, you like helping people don't you?"
+    b4_tn "И ты аватар, тебе нравится помогать людям, не так ли?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1627
 translate rus korra_boobjob_cac3bd51:
@@ -2512,7 +2512,7 @@ translate rus pema_blowjob_f757c922:
 translate rus pema_blowjob_42216691:
 
     # b4_pn "Hi Huney."
-    b4_pn "Hi Huney."
+    b4_pn "Привет Хуни."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1837
 translate rus pema_blowjob_f5fe3d78:
@@ -2536,55 +2536,55 @@ translate rus pema_blowjob_378ecb98:
 translate rus pema_blowjob_2eac1ef6:
 
     # b4_pn "Ooooh, you really are looking forward to one, aren't you?"
-    b4_pn "Ooooh, you really are looking forward to one, aren't you?"
+    b4_pn "Оооо, Ты действительно с нетерпением ждешь этого, не так ли?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1843
 translate rus pema_blowjob_f14905ee:
 
     # b4_tx "You SUUUUUCKKKK!!!"
-    b4_tx "You SUUUUUCKKKK!!!"
+    b4_tx "Ты СУУУУУККККАААА!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1844
 translate rus pema_blowjob_4035dc52:
 
     # b4_tn "I mean.. yes, please suck my dick."
-    b4_tn "I mean.. yes, please suck my dick."
+    b4_tn "Я имею в виду.. да, пожалуйста, соси мой член."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1845
 translate rus pema_blowjob_aacadb6e:
 
     # b4_pn "Patience dear. I can't move that fast anymore with this belly"
-    b4_pn "Patience dear. I can't move that fast anymore with this belly"
+    b4_pn "Терпение дорогая. Я больше не могу двигаться так быстро с этим животом"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1850
 translate rus pema_blowjob_2c09f5eb:
 
     # b4_pn "Now push that big meaty rod of yours in my face!!"
-    b4_pn "Now push that big meaty rod of yours in my face!!"
+    b4_pn "А теперь ткни мне в лицо своим большим мясистым прутом!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1854
 translate rus pema_blowjob_f98f79a8:
 
     # b4_tn "Ready and willing!"
-    b4_tn "Ready and willing!"
+    b4_tn "Готовы и готовы!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1857
 translate rus pema_blowjob_b950e00a:
 
     # b4_pn "Mmmmm willing indeed. You have surprisingly little trouble getting it up lately."
-    b4_pn "Mmmmm willing indeed. You have surprisingly little trouble getting it up lately."
+    b4_pn "Ммммм действительно готовы. У тебя удивительно мало проблем с этим в последнее время."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1858
 translate rus pema_blowjob_c8f4a077:
 
     # b4_pn "There has been a time when it took some work to get you into action mode."
-    b4_pn "There has been a time when it took some work to get you into action mode."
+    b4_pn "Было время, когда потребовалась некоторая работа, чтобы вы попали в режим действия."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1859
 translate rus pema_blowjob_b79670f0:
 
     # b4_pn "I shouldn't be worried about Korra being the cause of this do I?"
-    b4_pn "I shouldn't be worried about Korra being the cause of this do I?"
+    b4_pn "Я не должен беспокоиться о том, что Корра была причиной этого, не так ли?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1868
 translate rus pema_blowjob_65a32741:
@@ -2596,37 +2596,37 @@ translate rus pema_blowjob_65a32741:
 translate rus pema_blowjob_b1ed956c:
 
     # "Pema slides her lips over your pulsating cock, moistening the shaft with her saliva."
-    "Pema slides her lips over your pulsating cock, moistening the shaft with her saliva."
+    "Пема скользит губами по твоему пульсирующему члену, смачивая ствол своей слюной."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1870
 translate rus pema_blowjob_88bfbf27:
 
     # "She only pulls her head back enough to give her enough space to lick the tip within her mouth."
-    "She only pulls her head back enough to give her enough space to lick the tip within her mouth."
+    "Она только откидывает голову назад, чтобы дать ей достаточно места, чтобы лизнуть кончик во рту."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1871
 translate rus pema_blowjob_664d2dc9:
 
     # "She clearly knows your current dick better than you yourself and uses that knowledge with great effect."
-    "She clearly knows your current dick better than you yourself and uses that knowledge with great effect."
+    "Она явно знает ваш текущий член лучше, чем вы сами, и использует это знание с большим эффектом."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1872
 translate rus pema_blowjob_9a7e9b6e:
 
     # b4_ts "Korra smorrah. Your lovely lips are the magic touch."
-    b4_ts "Korra smorrah. Your lovely lips are the magic touch."
+    b4_ts "Корра Сморра. Твои прекрасные губы-волшебное прикосновение.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1878
 translate rus pema_blowjob_275a02cc:
 
     # b4_pn "Well, I don't care what you do to her as long as you make sure she hates it and I'll get to enjoy some of it too eventually."
-    b4_pn "Well, I don't care what you do to her as long as you make sure she hates it and I'll get to enjoy some of it too eventually."
+    b4_pn "Ну, мне все равно, что ты с ней сделаешь, если ты убедишься, что она это ненавидит, и я тоже получу удовольствие в конце концов."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1879
 translate rus pema_blowjob_e1547b04:
 
     # b4_tn "Sounds like a win win situation to me."
-    b4_tn "Sounds like a win win situation to me."
+    b4_tn "Звучит как беспроигрышная ситуация для меня."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1893
 translate rus pema_blowjob_b89b3471:
@@ -2638,7 +2638,7 @@ translate rus pema_blowjob_b89b3471:
 translate rus pema_blowjob_0b1d62cc:
 
     # b4_tx "Gonna cum! Want it all over your face or down your throat?"
-    b4_tx "Gonna cum! Want it all over your face or down your throat?"
+    b4_tx "Сейчас кончу! Хотите, чтобы он был у вас на лице или в горле?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1895
 translate rus pema_blowjob_415138e8:
@@ -2650,91 +2650,91 @@ translate rus pema_blowjob_415138e8:
 translate rus pema_blowjob_a80fc3ed:
 
     # b4_pn "gurgle"
-    b4_pn "gurgle"
+    b4_pn "бульканье"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1907
 translate rus pema_blowjob_a80fc3ed_1:
 
     # b4_pn "gurgle"
-    b4_pn "gurgle"
+    b4_pn "бульканье"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1909
 translate rus pema_blowjob_5a3c8001:
 
     # b4_pn "*cofcof* That was quite the load. Even for you!"
-    b4_pn "*cofcof* That was quite the load. Even for you!"
+    b4_pn "*cofcof* Это была большая нагрузка. Даже для тебя!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1925
 translate rus pema_blowjob_3a5ac807:
 
     # b4_tn "Replenishable facial moisterizer!"
-    b4_tn "Replenishable facial moisterizer!"
+    b4_tn "Пополняемый увлажняющий крем для лица!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1926
 translate rus pema_blowjob_b4690876:
 
     # b4_pn "Normally it isn't applied by the gallon though."
-    b4_pn "Normally it isn't applied by the gallon though."
+    b4_pn "Обычно это не применяется галлон."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1929
 translate rus pema_blowjob_7741d29a:
 
     # b4_tn "Just givin it my best."
-    b4_tn "Just givin it my best."
+    b4_tn "Я просто стараюсь изо всех сил.."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1942
 translate rus pema_blowjob_5c9b9787:
 
     # b4_pn "Since the sheets are already ruined I might as well use them to clean myself up and go get some fresh ones."
-    b4_pn "Since the sheets are already ruined I might as well use them to clean myself up and go get some fresh ones."
+    b4_pn "Так как простыни уже испорчены, я мог бы использовать их, чтобы привести себя в порядок и пойти за новыми."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1950
 translate rus pema_blowjob_85d47e83:
 
     # b4_pn "It leaked all over my tits and on the sheets so I might as well use them to clean myself up and go get some fresh ones."
-    b4_pn "It leaked all over my tits and on the sheets so I might as well use them to clean myself up and go get some fresh ones."
+    b4_pn "Он протекал по всей моей груди и на простынях, так что я мог бы также использовать их, чтобы очистить себя и пойти за новыми."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1962
 translate rus pema_blowjob_e2fd258a:
 
     # b4_tn "Cool, I'll-"
-    b4_tn "Cool, I'll-"
+    b4_tn "Круто, я буду-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1967
 translate rus pema_blowjob_65ead47f:
 
     # "Mom! Dad! Can I...."
-    "Mom! Dad! Can I...."
+    "Мама! Папа! могу я...."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1969
 translate rus pema_blowjob_f9a65578:
 
     # "What..."
-    "What..."
+    "Что..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1971
 translate rus pema_blowjob_48be88c7:
 
     # "AAhhh!! Gross!!! Eeeewh!!EEEEwh!!!"
-    "AAhhh!! Gross!!! Eeeewh!!EEEEwh!!!"
+    "А-а-а!! Мерзость!!! Ээээ!!Ээээ!!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1974
 translate rus pema_blowjob_7844f113:
 
     # "{size=+15} EEEEwwwwh!!{/size}"
-    "{size=+15} EEEEwwwwh!!{/size}"
+    "{size=+15} Ээээууууу!!{/size}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1975
 translate rus pema_blowjob_6d91d8f5:
 
     # b4_tn "Should-"
-    b4_tn "Should-"
+    b4_tn "Должен-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1980
 translate rus pema_blowjob_978c58f9:
 
     # "{size=+30} EEEEwwwwh!!{/size}"
-    "{size=+30} EEEEwwwwh!!{/size}"
+    "{size=+30} Ээээууууу!!{/size}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1982
 translate rus pema_blowjob_c8752334:
@@ -2746,61 +2746,61 @@ translate rus pema_blowjob_c8752334:
 translate rus pema_blowjob_9c531f6e:
 
     # b4_tn "Should we-"
-    b4_tn "Should we-"
+    b4_tn "Должны ли мы-"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1989
 translate rus pema_blowjob_6cac94b8:
 
     # "{size=+30} EEEEwwwwh!! Put some clothes on!{/size}"
-    "{size=+30} EEEEwwwwh!! Put some clothes on!{/size}"
+    "{size=+30} EEEEwwwwh!! Надень что-нибудь из одежды!{/size}"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1991
 translate rus pema_blowjob_9c2df1b2:
 
     # b4_tn "For someone who's disgusted you come back awfully often!!"
-    b4_tn "For someone who's disgusted you come back awfully often!!"
+    b4_tn "Для того, кто испытывает отвращение, ты возвращаешься ужасно часто!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1992
 translate rus pema_blowjob_e233c65a:
 
     # b4_tn "And knock before you enter a room!!"
-    b4_tn "And knock before you enter a room!!"
+    b4_tn "И стучите, прежде чем войти в комнату!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1993
 translate rus pema_blowjob_65281cd8:
 
     # b4_pn "I think she's really gone this time."
-    b4_pn "I think she's really gone this time."
+    b4_pn "Я думаю, что на этот раз она действительно ушла."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1994
 translate rus pema_blowjob_21966de7:
 
     # b4_tn "Should we go after her or something?"
-    b4_tn "Should we go after her or something?"
+    b4_tn "Мы должны пойти за ней или что-то еще?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1995
 translate rus pema_blowjob_a13aa2d3:
 
     # b4_pn "Nah she'll be fine. besides."
-    b4_pn "Nah she'll be fine. besides."
+    b4_pn "Нет, с ней все будет в порядке. кроме того."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1996
 translate rus pema_blowjob_ee00f950:
 
     # b4_pn "You still have your dick all out like that."
-    b4_pn "You still have your dick all out like that."
+    b4_pn "Ты все еще держишь свой член вот так."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1997
 translate rus pema_blowjob_000207d4:
 
     # b4_pn "Don't worry, I already told her about the birds and the bees."
-    b4_pn "Don't worry, I already told her about the birds and the bees."
+    b4_pn "Не волнуйся, я уже рассказал ей про птиц и пчел."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:1998
 translate rus pema_blowjob_25847a4b:
 
     # b4_pn "Aside from some light mental scarring she'll be fine."
-    b4_pn "Aside from some light mental scarring she'll be fine."
+    b4_pn "Если не считать легкого душевного шрама с ней все будет в порядке."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2013
 translate rus korra_protein_e142ee60:
@@ -2896,115 +2896,115 @@ translate rus korra_protein_5c8d6ace:
 translate rus korra_protein_31cc4ab7:
 
     # b4_tn "Okay I got myself a protein shake. And now to add a personal touch for Korra."
-    b4_tn "Okay I got myself a protein shake. And now to add a personal touch for Korra."
+    b4_tn "Ладно, я приготовила себе протеиновый коктейль. А теперь, чтобы добавить личный контакт для Корры."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2070
 translate rus korra_protein_7db1d0df:
 
     # b4_tx "Hnnnng.. gonna give you some of the best nutritional shake you've ever....had!"
-    b4_tx "Hnnnng.. gonna give you some of the best nutritional shake you've ever....had!"
+    b4_tx "Хннннг.. я дам тебе один из лучших питательных коктейлей, которые ты когда-либо пробовал....имел!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2080
 translate rus korra_protein_69d0da81:
 
     # b4_tn "Okay, now to find Korra."
-    b4_tn "Okay, now to find Korra."
+    b4_tn "Хорошо, теперь нужно найти Корру."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2083
 translate rus korra_protein_04746bd8:
 
     # "jinora" "Hey! What's that!?"
-    "jinora" "Hey! What's that!?"
+    "Джинора" "Эй! Что это такое??"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2084
 translate rus korra_protein_279001f3:
 
     # b4_tn "It's a protein shake for Korra. You know where I can find her?"
-    b4_tn "It's a protein shake for Korra. You know where I can find her?"
+    b4_tn "Это протеиновый коктейль для Корры. Вы знаете, где я могу ее найти?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2085
 translate rus korra_protein_d589fea7:
 
     # "jinora" "Not really. Can I have a taste?"
-    "jinora" "Not really. Can I have a taste?"
+    "Джинора" "Не совсем. Можно мне попробовать?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2086
 translate rus korra_protein_00db1bd0:
 
     # b4_tn "It's for Korra."
-    b4_tn "It's for Korra."
+    b4_tn "Это для Корры."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2087
 translate rus korra_protein_59e09d0e:
 
     # "jinora" "Just a few sips."
-    "jinora" "Just a few sips."
+    "Джинора" "Всего несколько глотков."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2088
 translate rus korra_protein_25648f01:
 
     # b4_tn "....It's for Korra."
-    b4_tn "....It's for Korra."
+    b4_tn "....Это для Корры."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2089
 translate rus korra_protein_928f24ee:
 
     # "jinora" "Just one sip."
-    "jinora" "Just one sip."
+    "Джинора" "Всего один глоток."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2090
 translate rus korra_protein_aa494dc1:
 
     # b4_tn "I..I {size=+10}really{/size} don't think you'd like the taste of this."
-    b4_tn "I..I {size=+10}really{/size} don't think you'd like the taste of this."
+    b4_tn "Я..Я {size=+10}really{/size} не думаю, что тебе понравится вкус этого."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2092
 translate rus korra_protein_0be3893d:
 
     # "jinora" "So Korra gets drinks from you and I don't..."
-    "jinora" "So Korra gets drinks from you and I don't..."
+    "Джинора" "Так что Корра получает напитки от тебя, а я нет..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2094
 translate rus korra_protein_9fffa9b2:
 
     # "jinora" "It's not fair!"
-    "jinora" "It's not fair!"
+    "Джинора" "Это не честно!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2095
 translate rus korra_protein_c4ef765c:
 
     # "jinora" "You're already spending all this time with her!"
-    "jinora" "You're already spending all this time with her!"
+    "Джинора" "Ты уже проводишь все это время с ней!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2096
 translate rus korra_protein_5fd6630f:
 
     # "jinora" "And to be honest... I'm not sure it's always only training!!"
-    "jinora" "And to be honest... I'm not sure it's always only training!!"
+    "Джинора" "И если честно... Я не уверен, что это всегда только обучение!!"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2097
 translate rus korra_protein_75e40ef5:
 
     # b4_tn "Wha... what?"
-    b4_tn "Wha... what?"
+    b4_tn "Чт... Что?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2100
 translate rus korra_protein_16260387:
 
     # "jinora" ".....nothing..."
-    "jinora" ".....nothing..."
+    "Джинора" ".....ничего..."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2102
 translate rus korra_protein_e2c44624:
 
     # b4_tn "Look, you want to have some of this shake?"
-    b4_tn "Look, you want to have some of this shake?"
+    b4_tn "Слушай, хочешь немного этого коктейля?"
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2103
 translate rus korra_protein_0e6d978d:
 
     # "jinora" "Yes."
-    "jinora" "Yes."
+    "Джинора" "Да."
 
 # game/bk4/bk4_scripts/bk4_start.rpy:2107
 translate rus korra_protein_3d1f6053:
